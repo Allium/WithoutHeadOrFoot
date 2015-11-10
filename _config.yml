@@ -10,4 +10,4 @@ url: "Allium.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: redcarpet
-pygments: true
+highlighter: pygments
