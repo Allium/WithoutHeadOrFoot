@@ -1,13 +1,24 @@
-# Site settings
+## Site settings
 title: Without Head Or Foot
-email: cato@physics.org
+author: Cato Sandford
+email: cato@nyu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Some things.
-# baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
+  Each one of us harbours mysteries and delights, unique experiences and thirsty curiosities;
+  and what better way to exalt in our deepest enthusiasms than to write a mediocre blog that 
+  not a single soul will read? No better way!
+baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
 url: "Allium.github.io" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+timezone: America/New_ork
 
-# Build settings
+## Build settings
 markdown: kramdown
 highlighter: pygments
+
+## Layout settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "posts"
