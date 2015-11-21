@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   No better way!
 baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
 url: "Allium.github.io" # the base hostname & protocol for your site
-timezone: America/New_ork
+timezone: America/New_York
 
 ## Build settings
 markdown: kramdown
