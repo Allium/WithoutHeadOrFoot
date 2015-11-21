@@ -2,9 +2,9 @@
 	{% case page.comment_count %}
 		{% when 0 %}
 		{% when 1 %}
-			<h1>1 comment</h1>
+			<h1>1 Comment</h1>
 		{% else %}
-			<h1>{{page.comment_count}} comments</h1>
+			<h1>{{page.comment_count}} Comments</h1>
 	{% endcase %}
 	{% for c in page.comments %}
 		<div class="comment {% cycle 'odd', 'even' %}">
@@ -24,7 +24,7 @@
 	{% endfor %}
 	
 	<h2>Post a comment</h2>
-	<form id="commentform" method="POST" action="commentsubmit.php" align="center">
+	<form id="commentform" method="POST" action="../../../commentsubmit.php" align="center">
 		<input type="hidden" name="post_id" value="{{page.id}}" />
 		<input type="hidden" name="return_url" value="{{site.url}}{{page.url}}" />
 		<table>

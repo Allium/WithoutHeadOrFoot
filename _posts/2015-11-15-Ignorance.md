@@ -8,9 +8,3 @@ tags:	quote
 <p style="text-align:center;">'Ignorance is the surest source of originality.'</p>
 
 <p style="text-align:center;">-- Me (I think)</p>
-
-<!--
-TO DO
--- Font
--- Offset attribution
--->
