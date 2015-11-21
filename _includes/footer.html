@@ -9,6 +9,7 @@
         <ul class="contact-list">
           <li>{{ site.author }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+		  <li><a href="{{ "/WHOF-Key.asc" | prepend: site.baseurl }}">Public key</a></li>
 		  <br>
 		  <li><p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p></li>
         </ul>

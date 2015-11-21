@@ -24,6 +24,7 @@
 	{% endfor %}
 	
 	<h2>Post a comment</h2>
+	<p style="italics">Comments on static pages are beyond me at this point so this is a work in progress. Please e-mail me your comments for now!</p>
 	<form id="commentform" method="POST" action="../../../commentsubmit.php" align="center">
 		<input type="hidden" name="post_id" value="{{page.id}}" />
 		<input type="hidden" name="return_url" value="{{site.url}}{{page.url}}" />
