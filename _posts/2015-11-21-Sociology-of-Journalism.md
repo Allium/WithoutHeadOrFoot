@@ -52,6 +52,6 @@ So far, that's all this is: feeling and speculation. I e-mailed my journalist fr
 > Of course the demographics of writers affects what's written and is an issue. But I think this pales in comparison to how the demographics of
 readers affects what's written.
 
-Conclusion: yes there is a bias of backgrounds withing the profession, but in her estimation there isn't much evidence that it distorts the news. I'm making a storm in a teacup.
+Conclusion: yes there is a bias of backgrounds within the profession, but in her estimation there isn't much evidence that it distorts the news. I'm making a storm in a teacup.
 
 I find her answer comforting: she's a smart and self-aware lass and more clued-in than I am when it comes to workplace sociology (indeed, when it comes to most things). However, the issue of diversity and access to different professions clearly has much broader social justice ramifications than the one I've been addressing, and these are still at large. I only have to look around my physics department to see that, yes, we have a problem with gender balance.

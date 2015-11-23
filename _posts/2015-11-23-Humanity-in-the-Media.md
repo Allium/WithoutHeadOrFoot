@@ -2,7 +2,7 @@
 layout:	post
 title:	Humanity in the Media
 date:	2015-11-23
-tags:	media,humanity,anthropology,Herzog
+tags:	media, humanity, anthropology, Herzog
 ---
 
 Another post about the media, as it happens, with a title so broad that it conveys next to no information at all...
