@@ -2,9 +2,9 @@
 	{% case page.comment_count %}
 		{% when 0 %}
 		{% when 1 %}
-			<h1>1 Comment</h1>
+			<h2>1 Comment</h2>
 		{% else %}
-			<h1>{{page.comment_count}} Comments</h1>
+			<h2>{{page.comment_count}} Comments</h2>
 	{% endcase %}
 	{% for c in page.comments %}
 		<div class="comment {% cycle 'odd', 'even' %}">
@@ -14,7 +14,7 @@
 				{% else %}
 					{{c.name}}
 				{% endif %}
-				<br />
+				<br>
 				<span class="comment_date">{{c.date}}</span>
 			</p>
 			<p>
@@ -24,8 +24,8 @@
 	{% endfor %}
 	
 	<h2>Post a comment</h2>
-	<p style="italics">Comments on static pages are beyond me at this point so this is a work in progress. Please e-mail me your comments for now!</p>
-	<form id="commentform" method="POST" action="../../../commentsubmit.php" align="center">
+	<p><i>Comments on static pages are beyond me at this point so this is a work in progress. Please e-mail me your comments for now!</i></p>
+	<form id="commentform" method="GET" action="../../../commentsubmit.php" align="center">
 		<input type="hidden" name="post_id" value="{{page.id}}" />
 		<input type="hidden" name="return_url" value="{{site.url}}{{page.url}}" />
 		<table>
