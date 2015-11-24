@@ -1,15 +1,17 @@
 <div id="comments">
-	{% case page.comment_count %}
+	<!-- {% case page.comment_count %}
 		{% when 0 %}
 		{% when 1 %}
 			<h2>1 Comment</h2>
 		{% else %}
 			<h2>{{page.comment_count}} Comments</h2>
-	{% endcase %}
+	{% endcase %} -->
+	<br><hr><br>
 	{% for c in page.comments %}
 		<div class="comment {% cycle 'odd', 'even' %}">
 			<p class="comment_header">
-				From: {% if c.link and c.link != '' %}
+				From:
+				{% if c.link and c.link != '' %}
 					<a href="{{c.link}}">{{c.name}}</a>
 				{% else %}
 					{{c.name}}
@@ -25,9 +27,10 @@
 	
 	<h2>Post a comment</h2>
 	<p><i>Comments on static pages are beyond me at this point so this is a work in progress. Please e-mail me your comments for now!</i></p>
-	<form id="commentform" method="GET" action="../../../commentsubmit.php" align="center">
+	<form id="commentform" method="POST" action="//formspree.io/cato@nyu.edu" align="center">
+		<input type="hidden" name="_subject" value="New comment on {{page.id}}" />
+		<input type="hidden" value="---" />
 		<input type="hidden" name="post_id" value="{{page.id}}" />
-		<input type="hidden" name="return_url" value="{{site.url}}{{page.url}}" />
 		<table>
 			<tr>
 				<th align="center">Name:</th>
@@ -35,15 +38,21 @@
 			</tr>
 			<tr>
 				<th align="center">E-mail:</th>
-				<td><input type="text" size="25" name="email" />*  (not published)</td>
+				<td><input type="text" size="25" name="email" />*  <small>(not published)</small></td>
+			</tr>
+			<tr>
+				<th align="center">Website:</th>
+				<td><input type="text" size="25" name="link" /></td>
 			</tr>
 			<tr>
 				<td colspan="2"><textarea name="comment" rows="8" cols="60" ></textarea></td>
 			</tr>
 			<tr>
-				<td><input type="submit" name="submit" value="Submit Comment" /></td>
+				<td><input type="submit" value="Submit Comment" /></td>
 			</tr>
 		</table>
+		<input type="hidden" value="---" />
+		<input type="hidden" name="_next" value="{{site.url}}{{page.url}}" />
 	</form>
-	<i>All comments will be held for moderation.</i>
+	<small><i>All comments will be moderated.</i></small>
 </div>

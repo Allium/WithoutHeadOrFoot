@@ -20,7 +20,7 @@
 
 class Jekyll::Post
 	alias :to_liquid_without_comments :to_liquid
-	
+
 	def to_liquid(*args)
 		data = to_liquid_without_comments(*args)
 		data['comments'] = StaticComments::find_for_post(self)
