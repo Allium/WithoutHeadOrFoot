@@ -1,0 +1,19 @@
+---
+layout: page
+title: Pages and Posts
+header: Pages and Posts
+group: navigation
+---
+{% include JB/setup %}
+
+<h3>Pages</h3>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>
+
+<h3>Posts</h3>
+<ul>
+{% assign pages_list = site.posts %}
+{% include JB/pages_list %}
+</ul>
