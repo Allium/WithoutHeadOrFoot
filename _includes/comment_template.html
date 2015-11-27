@@ -7,7 +7,7 @@
 			<h2>{{page.comment_count}} Comments</h2>
 	{% endcase %} -->
 	<br><hr><br>
-	{% for c in page.comments %}
+	{% for c in page.comment %}
 		<div class="comment {% cycle 'odd', 'even' %}">
 			<p class="comment_header">
 				From:
@@ -20,7 +20,9 @@
 				<span class="comment_date">{{c.date}}</span>
 			</p>
 			<p>
-				{{c.comment | newline_to_br}}
+				<!-- {{c.comment | newline_to_br}} -->
+				{{c.body}}
+				{{ c.content }}
 			</p>
 		</div>
 	{% endfor %}
@@ -40,10 +42,10 @@
 				<th align="center">E-mail:</th>
 				<td><input type="text" size="25" name="email" />*  <small>(not published)</small></td>
 			</tr>
-			<tr>
+<!-- 			<tr>
 				<th align="center">Website:</th>
 				<td><input type="text" size="25" name="link" /></td>
-			</tr>
+			</tr> -->
 			<tr>
 				<td colspan="2"><textarea name="comment" rows="8" cols="60" ></textarea></td>
 			</tr>

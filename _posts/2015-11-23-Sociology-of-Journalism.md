@@ -2,7 +2,7 @@
 layout:	post
 title:	Sociology of Journalism
 date:	2015-11-23
-tags:	media, sociology
+tags:	[media, sociology]
 ---
 
 An old schoolfriend recently moved to New York City to pursue her career in journalism. Unfortunately for her, I have lots of naive questions about her profession. Fortunately for me, she's my friend and has to answer them without getting too irritated. Here are two examples.
@@ -25,7 +25,7 @@ For example, it doesn't seem such a far-fetched scenario that an editor tells th
 
 When I asked my journalist friend about this, she responded with a number of things (including a fierce exasperation at the incessant negativity about her profession). For one, the view-based evaluation systems I just envisaged are unthinkable and unthought in the world of respectable journalism (i.e. not click-bait sites). In her experience, journalists and editors do not equate popularity with quality, and are fully aware that a preoccupation with the former would be a disaster for the standing of their platform. Of course editors must try to increase readership, but the pressures that I was envisaging are as a rule not as corrupting as I feared.
 
-I can see her point. There are many branches of journalism that are difficult and expensive to do, and are either not particularly popular or have a relatively low success rate of producing results: investigative journalism for instance. The model that I envisioned, if brought to its logical conclusion, would certainly have done away with these excesses. From her response I gather that the answer to my question (whether there are explicit institutional balances to protect journalists from having to prioritise clicks over breadth or quality) is no; but the culture of the profession and the prudence of editors prevents such distortions in reporting from becoming severe.
+I can see her point. There are many branches of journalism that are difficult and expensive to do, and are either not particularly popular or have a relatively low success rate of producing results: investigative journalism for instance. The model that I envisioned, if brought to its logical conclusion, would certainly have done away with these excesses. From her response I gather that the answer to my question (whether there are explicit institutional balances to protect journalists from having to prioritise page hits over breadth or quality) is no; but the culture of the profession and the prudence of editors prevents such distortions in reporting from becoming severe.
 
 
 ### 2. Wealth and class bias in all professions including journalism

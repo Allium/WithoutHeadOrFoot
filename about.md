@@ -18,8 +18,8 @@ For me:
 - I'd like to get into the habit of writing; physics is wonderful in many ways, but it doesn't naturally nourish a flair for prose.
 - I'm into feedback -- of both the writing and the content. Or whatever, talk to me.
   + To this end, I want to include a comments box on the post pages; I just haven't figured it out yet.
-- I want to share things that I find interesting, and give myself an excuse to spend time thinking about them.
-- In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe where we am at the centre.
+- I want to give myself an excuse to spend time thinking about things which are not physics.
+- In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe where we are at the centre.
 
 For you:
 
