@@ -63,7 +63,11 @@ A few brief comments to round off this section:
 
 The INDCs are attractive because they devolve power to the individual countries; and often they invoke existing policies, or ones which are in the pipeline.
 
-However, even if every country were to assiduously follow its INDC strategy and achieve what it promises, the 2&#176;C target would be [doomed](http://unfccc.int/files/focus/indc_portal/application/pdf/synthesis_report_-_overview.pdf). The next two weeks of negotiation will hopefully see delegates ratcheting up each other's commitments. Crucial to this process, and to the assessment of future progress, will be a commitment to transparency and independent review. The beauty of the INDC format is that everyone starts with at least some cards on the table, which is conducive to an atmosphere of confidence and openness (yes, I realise this is politics: you know what I mean).
+However, even if every country were to assiduously follow its INDC strategy and achieve what it promises, the 2&#176;C target would be [doomed](http://unfccc.int/files/focus/indc_portal/application/pdf/synthesis_report_-_overview.pdf). See the chart below from the [World Resources Institute](http://www.wri.org/blog/2015/11/insider-why-are-indc-studies-reaching-different-temperature-estimates).
+
+![](http://www.wri.org/sites/default/files/uploads/INDC-Temp-Analysis.png)
+
+The next two weeks of negotiation will hopefully see delegates ratcheting up each other's commitments. Crucial to this process, and to the assessment of future progress, will be a commitment to transparency and independent review. The beauty of the INDC format is that everyone starts with at least some cards on the table, which is conducive to an atmosphere of confidence and openness (yes, I realise this is politics: you know what I mean).
   
 There are already reasons to believe that there will be patches of willingness to expand on the current INDC. The Canadian central government, for instance, has traditionally been deeply reactionary on climate matters -- withdrawing from the Kyoto Protocol, investing heavily in Albertan tar sands, etc. The recent general election put the Liberals in power, and [Prime Minister Trudeau](https://www.trudeaumetre.ca/) has already made encouraging moves in the direction of environmental stewardship and infrastructure investments. It looks like his party, as well as the provincial governments, intend to engage with the conference in good faith.
 
