@@ -122,7 +122,8 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    font-size: 15pt;
+    /* width: -webkit-calc(20% - (#{$spacing-unit} / 2)); */
     width:         calc(20% - (#{$spacing-unit} / 2));
 }/* 35% */
 
