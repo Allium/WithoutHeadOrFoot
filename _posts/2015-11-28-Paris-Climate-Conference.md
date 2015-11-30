@@ -44,7 +44,7 @@ In the words of the World Resources Institute's ["What is an INDC?"](http://www.
 >
 > The INDCs can create a constructive feedback loop between national and international decision-making on climate change.
 
-Since they are short and written in a 'manner that facilitates the clarity, transparency and understanding', anyone can read (and understand!) the INDC documents (find your mother country's [here](http://www4.unfccc.int/submissions/indc/Submission%20Pages/submissions.aspx)). For the record, _hop Schweiz_*, Switzerland was the earliest to submit, and envisages comparatively ambitious cuts to domestic emissions: 50% below 1990 levels by 2030 (cf. the EU's 40% in the same time frame).
+Since they are short and written in a 'manner that facilitates the clarity, transparency and understanding', anyone can read (and understand!) the INDC documents (find your mother country's [here](http://www4.unfccc.int/submissions/indc/Submission%20Pages/submissions.aspx)). For the record, _hop Schweiz_, Switzerland was the earliest to submit, and envisages comparatively ambitious cuts to domestic emissions: 50% below 1990 levels by 2030 (cf. the EU's 40% in the same time frame).
 
 As I've been saying, though, the story is more nuanced than just some percentage cut in emissions: according to [Climate Action Tracker](http://climateactiontracker.org/countries/switzerland.html) (which I intend to explore more thoroughly) Switzerland will have to introduce a good deal of new legislation and policies to achieve its goal, which (absurdly?) gives it the same rating as the USA which boasts much lower targets but a clearer roadmap for achieving them. Then again, Switzerland's emissions are already impressively low because it generates *less than 2%* of its electricity from fossil fuels -- the red segment of the enormous [pie chart](http://www.bfe.admin.ch/themen/00526/00541/00542/00630/index.html?lang=en&dossier_id=00765)) below
 
@@ -77,6 +77,3 @@ So far, I haven't even touched upon arrangements for developing countries, whose
 ### 5. Closing Remark
 
 There's so much to learn about the underlying political processes that will move into earnest action on Monday. I think it's worth stressing once more the apparent change of tactics. Yes, some will decry the UNFCCC's abandonment of a prescriptive, universal, and enforced legal agreement &agrave; la Kyoto. But there is evidence that insisting on such an approach would be ineffectual at best. The priority should therefore be to establish a robust and transparent framework for reporting goals and their achievement, for allowing nations to draw up their own mitigation programmes and be accountable for them, and for using collective pressures to encourage all governments to strengthen their commitments. 
-
-
-\* Conflict of interest disclosure: Swiss girlfriend.
