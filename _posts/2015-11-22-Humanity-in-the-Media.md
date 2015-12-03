@@ -5,7 +5,7 @@ date:	2015-11-22
 tags:	[media, humanity, anthropology, Herzog]
 ---
 
-Another post about the media, as it happens, with a title so broad that it conveys next to no information at all...
+Another post with a title so broad that it conveys next to no information at all...
 
 
 ### Ecstatic Truth
