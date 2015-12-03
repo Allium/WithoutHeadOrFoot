@@ -5,7 +5,7 @@ date:	2015-11-22
 tags:	[media, humanity, anthropology, Herzog]
 ---
 
-Another post with a title so broad that it conveys next to no information at all...
+A post with a title so broad that it conveys next to no information at all...
 
 
 ### Ecstatic Truth
@@ -23,7 +23,7 @@ The "facts" of which other documentary-makers are so fond are necessary casualti
 
 New topic! As noted in [another post]({{site.baseurl}}{% post_url 2015-11-23-Sociology-of-Journalism %}), on-line news outlets collect very detailed information on what articles we choose to read and how much time we spend reading them. This glut of data, though proprietary, has been used to verify the self-evident principle of "proximity" in the Elements of News, which states that someone's interest in a news story typically diminishes with their distance -- both geographical and cultural -- from the events and people concerned. 
 
-Often bemoaned is the tendency of the Western public to ignore ongoing wars and civil strife in say Central Africa or the Middle East, apparently in favour of less consequential news closer to home. (A journalist's personal observations of this phenomenon are documented in [this article](http://www.vox.com/2015/11/16/9744640/paris-beirut-media).) Of course, there are many reasons for this, not least that the political or economic consequences of regional events are much more likely be relevant to readers' lives. But it's would be difficult to argue that ethnic identity doesn't also play a crucial role in this: someone who is culturally, as well as geopolitically, remote cannot arouse my concern as much as someone with whom I expect to share more cultural values.
+Often bemoaned is the tendency of the Western public to ignore ongoing wars and civil strife in say Central Africa or the Middle East, apparently in favour of less consequential news closer to home. (A journalist's personal observations of this phenomenon are documented in [this article](http://www.vox.com/2015/11/16/9744640/paris-beirut-media).) Of course, there are many reasons for this, not least that the political or economic consequences of regional events are much more likely be relevant to readers' lives. But it would be difficult to argue that ethnic identity doesn't also play a crucial role in this: someone who is culturally, as well as geopolitically, remote cannot arouse my concern as much as someone with whom I expect to share more cultural values.
 
 And even if I *want* to be concerned, to take an active interest, it will always be unclear how to interpret and predict responses to events for people of different cultures. A matter that initially seems quite trivial to me may have profound importance to them, and vice-versa.
 
