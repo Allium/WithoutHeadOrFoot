@@ -47,7 +47,7 @@ But so far, that's all this is: feeling and speculation. I e-mailed my journalis
 
 > What you've been talking about has definitely become an issue in the UK -- it's become far more "private school" this generation. People are angry about all the unpaid internships and nepotism because previously it wasn't like that at all and was very diverse. Indeed, many of the very best journalists had no university education and a working class background (e.g. Harold Evans, Rebekah Brooks).
 > 
-> In the US it's worse on the whole; for example most journalists have been to university. But within my publication Quartz there's a major focus on diversity, so it's hard for me to judge.
+> In the US it's worse on the whole; for example most journalists have been to university. But within my publication there's a major focus on diversity, so it's hard for me to judge.
 >
 > Of course the demographics of writers affects what's written and is an issue. But I think this pales in comparison to how the demographics of
 readers affects what's written.
