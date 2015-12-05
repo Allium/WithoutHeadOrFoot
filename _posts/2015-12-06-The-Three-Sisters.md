@@ -36,7 +36,7 @@ The kinds of beans in question are in the class of green or flageolet- or harico
 	<img src="{{ site.baseurl }}/images/2015-12-06-Beans3.jpg"  width="240" height="240">
 </div><br>
 
-As can be seen from the last image, these guys are climbers -- they send out little anchoring tendrils to fasten onto more robust structures in a kind of trapeas act. This means they don't have to waste of energy making hard or woody stems.
+As can be seen from the last image, these guys are climbers -- they send out little anchoring tendrils to fasten onto more robust structures in a kind of trapeas act. This means they don't have to waste energy making hard or woody stems.
 
 Crucially, they are *legumes*, which as you may remember from secondary-school biology, means they host "nitrogen-fixing" bacteria in their roots. These bacteria extract the fairly inert nitrogen gas which comprises 80% of the air, and turns it into chemically reactive forms such as ammonia, which can in turn be converted into the nitrates so vital for plants.
 
