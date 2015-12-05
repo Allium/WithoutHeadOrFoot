@@ -6,7 +6,7 @@ tags:	[agriculture, environment, charity]
 
 I was first introduced to "The Three Sisters" last summer while helping at [Root Camp](http://www.rootcamp.co.uk/) back in the UK. I met them once more a month ago when helping to shovel compost and clear weeds for [Edible Schoolyards NYC](http://www.edibleschoolyardnyc.org/).
 
-"Who are these mysterious ladies?", I hear you cry! Beans, maize and squash.
+"Who are these mysterious ladies?!", I hear you cry. Beans, maize and squash. Oh the glamour.
 
 So the Three Sisters is a planting method with its roots in indigenous Mesoamerican practices -- you'll notice that domesticated maize and squash (including pumpkins and courgette/zucchini) are uniquely native to North America, while different varieties of "beans" are found all over the world. It's a beautiful example of "mutualistic" or "companion" planting, where the properties of one plant benefits or complements those of another (a simple example would be planting lots of flowers in the vicinity of crops which need insect pollinators). Let me briefly describe the three plants in question.
 
