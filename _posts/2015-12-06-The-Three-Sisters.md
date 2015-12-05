@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	The Three Sisters
-tags:	[agriculture, charity]
+tags:	[agriculture, environment, charity]
 ---
 
 I was first introduced to "The Three Sisters" last summer while helping at [Root Camp](http://www.rootcamp.co.uk/) back in the UK. I met them once more a month ago when helping to shovel compost and clear weeds for [Edible Schoolyards NYC](http://www.edibleschoolyardnyc.org/).
@@ -62,6 +62,8 @@ Anyway, you'll already have worked out why these three go so well together.
 </div><br>
 
 The maize supports the beans; the beans enrich the soil; the big squash leaves protect the soil from drying out, while mopping up all the sunlight that wasn't caught by the taller plants. There are other benefits too from the perspective of pest control which I won't go into; but already it's ingenious. Can you beleaf it?
+
+If only all sisterhood was so harmonious.
 
 #### Closing Remark: Industrial Farming
 
