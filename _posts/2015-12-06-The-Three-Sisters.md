@@ -63,7 +63,7 @@ Anyway, you'll already have worked out why these three go so well together.
 
 The maize supports the beans; the beans enrich the soil; the big squash leaves protect the soil from drying out, while mopping up all the sunlight that wasn't caught by the taller plants. There are other benefits too from the perspective of pest control which I won't go into; but already it's ingenious. Can you beleaf it?
 
-#### Industrial Farming
+#### Closing Remark: Industrial Farming
 
 However, most of our food is produced using industrial farming methods, which overwhelmingly focuses on genetically similar monocultures whose planting can be pushed to high densities and whose harvesting is easy to mechanise. This, coupled with the ready availability and low monetary cost of artificial fertilisers and pesticides, hat at this point largely undermined traditional farming practices such as the Three Sisters, while still greatly enhancing our ability to produce food at low cost to the consumer. Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, social justics, and more -- is to some extent already fuelling a renewed popular interest in alternatives.
 
