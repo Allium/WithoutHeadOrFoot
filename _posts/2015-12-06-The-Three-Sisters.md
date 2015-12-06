@@ -8,7 +8,7 @@ I was first introduced to "The Three Sisters" last summer while helping at [Root
 
 "Who are these mysterious ladies?!", I hear you cry. Beans, maize and squash. Oh the glamour.
 
-So the Three Sisters is a planting method with its roots in indigenous Mesoamerican practices -- you'll notice that domesticated maize and squash (including pumpkins and courgette/zucchini) are uniquely native to North America, while different varieties of "beans" are found all over the world. It's a beautiful example of "mutualistic" or "companion" planting, where the properties of one plant benefits or complements those of another (a simple example would be planting lots of flowers in the vicinity of crops which need insect pollinators). Let me briefly describe the three plants in question.
+So The Three Sisters is a planting method with its roots in indigenous Mesoamerican practices -- you'll notice that domesticated maize and squash (including pumpkins and courgette/zucchini) are uniquely native to North America, while different varieties of "beans" are found all over the world. The Three Sisters is a beautiful example of "mutualistic" or "companion" planting, where the properties of one plant benefits or complements those of another (a simple example would be planting lots of flowers in the vicinity of crops which need insect pollinators). Let me briefly describe the plants in question.
 
 #### Maize
 
@@ -50,7 +50,7 @@ Finally, squash plants are more low-lying than the other two. They prefer to spr
 	<img src="{{ site.baseurl }}/images/2015-12-06-Squash3.jpg"  width="240" height="240">
 </div><br>
 
-To really understand what motivates squash to grow, you have to photosympathise.
+To really understand what motivates squash to grow like this, you have to photosympathise.
 
 #### The Triad
 
@@ -65,8 +65,6 @@ The maize supports the beans; the beans enrich the soil; the big squash leaves p
 
 If only all sisterhood was so harmonious.
 
-#### Closing Remark: Industrial Farming
+#### Closing Remark
 
-However, most of our food is produced using industrial farming methods, which overwhelmingly focuses on genetically similar monocultures whose planting can be pushed to high densities and whose harvesting is easy to mechanise. This, coupled with the ready availability and low monetary cost of artificial fertilisers and pesticides, hat at this point largely undermined traditional farming practices such as the Three Sisters, while still greatly enhancing our ability to produce food at low cost to the consumer. Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, social justics, and more -- is to some extent already fuelling a renewed popular interest in alternatives.
-
-
+We should bear in mind that most of our food is produced using industrial farming methods, which promotes the use of genetically similar monocultures whose planting can be pushed to high densities and whose harvesting is easy to mechanise. The viability of this approach is heavily dependent on the ready availability and low monetary cost of artificial fertilisers and pesticides. This being the case, industrial farming has greatly enhanced our ability to produce cheap and abundant food. Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, corporatisation of food supply, social justice, and more -- is to some extent already fuelling a renewed popular interest in alternatives.
