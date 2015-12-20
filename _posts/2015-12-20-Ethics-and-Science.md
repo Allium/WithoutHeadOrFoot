@@ -64,7 +64,7 @@ Anyway, I've ventured onto well-trodden territory and should move on. I suppose 
 
 #### But this is what I really came here to say
 
-Let me take a step back from the familiar cataclysms of the last section and indulge in constructing a new one to add to their number.
+Let me take a step back from the familiar cataclysms of the last section and indulge in constructing a new one.
 
 First, some broad claims. It goes without saying that science has brought humankind incredible insight into the natural world, allowing us to understand, predict and manipulate it. Thus, the human race has acquired substantial power.
 
