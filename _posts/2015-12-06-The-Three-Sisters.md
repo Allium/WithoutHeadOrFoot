@@ -4,7 +4,7 @@ title:	The Three Sisters
 tags:	[agriculture, environment, charity]
 ---
 
-I was first introduced to "The Three Sisters" last summer while helping at [Root Camp](http://www.rootcamp.co.uk/) back in the UK. I met them once more a month ago when helping to shovel compost and clear weeds for [Edible Schoolyards NYC](http://www.edibleschoolyardnyc.org/).
+I was first introduced to "The Three Sisters" last summer while assisting at [Root Camp](http://www.rootcamp.co.uk/) back in the UK. I met them once more a month ago when helping to shovel compost and clear weeds for [Edible Schoolyards NYC](http://www.edibleschoolyardnyc.org/).
 
 "Who are these mysterious ladies?!", I hear you cry. Beans, maize and squash. Oh the glamour.
 
@@ -61,7 +61,7 @@ Anyway, you'll already have worked out why these three go so well together.
 	<img src="{{ site.baseurl }}/images/2015-12-06-TTS2.jpg"  width="350" height="240">
 </div><br>
 
-The maize supports the beans; the beans enrich the soil; the big squash leaves protect the soil from drying out, while mopping up all the sunlight that wasn't caught by the taller plants. There are other benefits too from the perspective of pest control which I won't go into; but already it's ingenious. Can you beleaf it?
+The maize provides support for the beans; the beans enrich the soil; and the big squash leaves protect the soil from drying out, while simultaneously mopping up all the sunlight that wasn't caught by the taller plants. There are other benefits too from the perspective of pest control which I won't go into; but already it's ingenious. Can you beleaf it?
 
 If only all sisterhood was so harmonious.
 
@@ -69,4 +69,4 @@ If only all sisterhood was so harmonious.
 
 We should bear in mind that most of our food is produced using industrial farming methods, which promote the use of genetically similar monocultures whose planting can be pushed to high densities and whose harvesting is easy to mechanise. The viability of such an approach is heavily dependent on the ready availability and low monetary cost of artificial fertilisers and pesticides. This being the case, industrial farming has greatly enhanced our ability to produce cheap and abundant food, with clear societal benefits.
 
-Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, corporatisation of food supply, social justice, and more -- has for some decades been fuelling a renewed popular interest in alternatives.
+Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, corporatisation of food supply, social justice, and more -- has for some decades been fuelling a renewed popular interest in alternatives, of which The Three Sisters is a wonderful example.

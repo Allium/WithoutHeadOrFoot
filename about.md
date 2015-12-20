@@ -18,7 +18,7 @@ For me:
 - I'd like to get into the habit of writing; physics is wonderful in many ways, but it doesn't naturally nourish a flair for prose.
 - I'm into feedback -- of both the writing and the content. Or whatever, talk to me.
   + To this end, I will eventually figure out a good way of including comments box on the post pages. Eventually.
-- I want to give myself an excuse to spend time thinking about things which are not physics.
+- I want to give myself an excuse to spend time thinking about things in which I have no expertise at all. Is this not the ultimate indulgence?
 - In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe where we are at the centre.
 
 For you:
@@ -27,6 +27,3 @@ For you:
   - Perhaps you'll be inspired to write your own blog.
     - We should all write blogs and read each others' blogs.
       - Then we don't have to talk to one another any more.
-
-	  
-*Disclaimer.* The criteria for inclusion in this blog are more concerned with my armchair interests than any expertise. Those who know me say I seldom indulge: but is this not the ultimate indulgence?
