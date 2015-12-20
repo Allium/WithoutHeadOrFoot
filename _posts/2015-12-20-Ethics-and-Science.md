@@ -9,8 +9,6 @@ In every post I've written, I wrestle with the urge begin with a disclaimer abou
 
 I really have no idea about anything.
 
-Anyway.
-
 ### Ethics
 
 Recently at ISC (I'll have to write a post about ISC at some point), Alex Breitweser brought up the distinction between Kantian and utilitarian ethics. According to my embarrassingly superficial understanding, Kant, a "deontologist", held that the morality of a deed can only be judged on the basis of the doer's *intentions*. Contrast this with the theories of Bentham and Mill, who believed that the rightness or wrongness of an act is determined solely by its tangible *effects* ("consequentialism") -- and moreover, on the benefits or costs those might bring to society at large ("utilitarianism").
@@ -74,4 +72,4 @@ It also goes without saying that in crude terms, humans are given to cruelty and
 
 From one perspective, therefore, the quest for new knowledge (and its concomitant power) is inadvertently a quest for ever-more sophisticated implements of exploitation and oppression. This leads inexorably to the suggestion that *until we reach a level of maturity where we are able to work toward a coherent global vision for our species, the pursuit of science is morally wrong*.
 
-Perhaps the greatest gift we could give to future generations would be to stop discovering new things until we're sure we've come to terms with the old.
+It's a crude argument; but perhaps the greatest gift we could give to future generations would be to stop discovering new things until we're sure we've come to terms with the old.
