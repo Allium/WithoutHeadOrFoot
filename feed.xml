@@ -4,8 +4,8 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <!-- <title>{{ site.title | xml_escape }}</title> -->
-    <title><a href={{ site.url }}{{ site.baseurl }}> {{ site.title | xml_escape }} </a></title>
+    <title>{{ site.title | xml_escape }}</title>
+    <!-- <title><a href={{ site.url }}{{ site.baseurl }}> {{ site.title | xml_escape }} </a></title> -->
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}</link>
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
@@ -14,8 +14,8 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:20 %}
       <item>
-        <!-- <title>{{ post.title | xml_escape }}</title> -->
-        <title><a href={{ site.url }}{{ site.baseurl }}> {{ post.title | xml_escape }} </a></title>
+        <title>{{ post.title | xml_escape }}</title>
+        <!-- <title><a href={{ site.url }}{{ site.baseurl }}> {{ post.title | xml_escape }} </a></title> -->
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
