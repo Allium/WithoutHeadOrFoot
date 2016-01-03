@@ -19,7 +19,7 @@ For me:
 - I'm into feedback -- of both the writing and the content. Or whatever, talk to me.
   + To this end, I will eventually figure out a good way of including comments box on the post pages. Eventually.
 - I want to give myself an excuse to spend time thinking about things in which I have no expertise at all. Is this not the ultimate indulgence?
-- In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe where we are at the centre.
+- In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe in which we are at the centre.
 
 For you:
 
