@@ -56,10 +56,10 @@ However, from a utilitarian standpoint, the claim of neutrality backfires to imm
 
 A credible argument for science must therefore prove that it is *good* rather than merely *not bad*. Of course there are many examples to this effect -- long-distance communications, advances in medicine, agricultural technologies which have vastly increased our capacity to feed (some) people, etc. Yet of course these incredible achievements are always accompanied by a slew of negative contributions: mass extinction, climate change, biological and nuclear weapons, etc. We need no reminding that we're not the greatest custodians of our own survival: science has authored terrors of existential proportions, as well as wonders and salvations.
 
-With this in mind, if we return to my "Kantian" picture of morality, things don't look so promising for the scientists -- it is now abundantly clear that for them to practise their trade believing it was morally neutral is a wilful negligence: a self-serving self-deception based on a hollow and counterfactual faith in humanity.
-The pessimist might say that, like Doctor Frankenstein, we're in a constant race against our creations, perpetually battling to keep up with our thoughtfully thoughtless meddling. The fact that we've survived this far guarantees precisely zero about our future prospects.
+With this in mind, if we return to my "Kantian" picture of morality, things don't look so promising for the scientists -- it is now clear that for them to believe their trade morally neutral is a (wilful?) negligence: a self-serving self-deception based on a hollow and counterfactual faith in humanity.
+The pessimist might say that, like Doctor Frankenstein, we're in a constant race against our creations, perpetually battling to contain our  thoughtlessly thoughtful meddling. The fact that we've survived this far guarantees precisely zero about our future prospects.
 
-Anyway, I've ventured onto well-trodden territory and should move on. I suppose the conclusion, which was obvious well before you started reading this, is that the moral case for science as a whole has some pretty dicey areas.
+Anyway, I've ventured onto well-trodden territory and should move on. I suppose the broad conclusion, which was obvious well before you started reading this, is that the moral case for science as a whole has some pretty dicey areas.
 
 
 #### But this is what I really came here to say
@@ -68,7 +68,7 @@ Let me take a step back from the familiar cataclysms of the last section and ind
 
 First, some broad claims. It goes without saying that science has brought humankind incredible insight into the natural world, allowing us to understand, predict and manipulate it. Thus, the human race has acquired substantial power.
 
-It also goes without saying that humans are given to cruelty and exploitiveness, both direct and indirect, inflicted on the weak by the powerful. Not all humans are affected to the same extent, but, perversely, those who *are* are more likely to covet and ascend to positions power. (This is a law derived from logic, akin to Natural Selection; it is why there can never be a benevolent dictatorship.) Moreover, there seems to be ample evidence of the addictive properties of power, leading to a positive-feedback loop of imbalances and aggression against the disenfranchised.
+It also goes without saying that humans are given to cruelty and exploitiveness, both direct and indirect, inflicted on the weak by the powerful. Not all humans are affected to the same extent, but, perversely, those who *are* are more likely to covet and ascend to positions of power. (This is a law derived from logic, akin to Natural Selection; it is why there can never be a benevolent dictatorship.) Moreover, there seems to be ample evidence of the addictive properties of power, leading to a positive-feedback loop of imbalances and aggression against the disenfranchised.
 
 From one perspective, therefore, the quest for new knowledge (and its concomitant power) is inadvertently a quest for ever-more sophisticated implements of exploitation and oppression. This leads inexorably to the suggestion that *until we reach a level of maturity where we are able to work toward a coherent global vision for our species, the pursuit of science is morally wrong*.
 
