@@ -36,4 +36,4 @@ In this way, the thirty pieces are played in a "random" order. The emergent perf
 
 Two musicians, well known to one another (ideally intimately). One of them has rehearsed the piece thoroughly. The other has never seen the score or heard it played.
 
-As they attempt to play the duet, no words pass between them: the first musician must find, in real time, other ways (eyes, breath, dyanmics, adornments, reinterpretations) to communicate the piece to their partner.
+As they attempt to play the duet, no words pass between them. The first musician must, in real time, find other ways (eyes, breath, dyanmics, reinterpretations) to guide their sensitive responsive partner through the piece. All the while, the partner adds flair and unexpected adornments -- most rooted in misunderstanding, but some rooted in a deeper inspiration that would inevitably become eroded with practice.
