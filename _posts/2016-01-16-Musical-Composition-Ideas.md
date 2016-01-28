@@ -4,7 +4,7 @@ title:	Two Musical Composition Ideas
 tags:	[music, whimsy]
 ---
 
-The only performance hidden from the audience is that of the conductor.
+The performance hidden from the audience is regrettably that of the conductor.
 
 
 #### Too Much Sound Makes The Baby Go Deaf
