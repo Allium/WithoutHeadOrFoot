@@ -1,7 +1,8 @@
 ## Site settings
 title: Without Head Or Foot
 author: Cato Sandford
-email: cato@nyu.edu
+# email: cato@nyu.edu
+email: cato@catosandford.org
 description: > # this means to ignore newlines
   Each one of us harbours mysteries and delights, unique experiences and thirsty curiosities;
   and what better way to exalt in our deepest enthusiasms than to write a mediocre blog that 
