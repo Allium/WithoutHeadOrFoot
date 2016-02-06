@@ -5,13 +5,15 @@ author: Cato
 permalink: /about/
 ---
 
+<img src="{{ site.baseurl }}/images/Nepeta-Stamp.jpg" align="right" width="150">
+
 ## Me
 
 My name is Cato. I was born in London, UK, where I lived until 2011. In that year I moved to New York City to pursue a PhD in physics. It feels like it will never end.
 
 ## This blog
 
-Why write a blog?
+So why write a blog?
 
 For me:
 
