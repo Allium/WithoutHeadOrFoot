@@ -1,6 +1,5 @@
 <div id="comments">	
 	<h2>Post a comment</h2>
-	<p><i>NOTE: When you hit "Submit" you will be anticlimactically re-directed to the top of the current page.</i></p>
 	<form id="commentform" method="POST" action="//formspree.io/cato@nyu.edu" align="center">
 		<input type="hidden" name="_subject" value="New comment on {{page.id}}" />
 		<input type="hidden" name="post_id" value="{{page.id}}" />
@@ -18,7 +17,7 @@
 				<td><input type="text" size="25" name="link" /></td>
 			</tr> -->
 			<tr>
-				<td colspan="2"><textarea name="comment" rows="8" cols="60" ></textarea></td>
+				<td colspan="2"><textarea name="comment" rows="8" cols="86" ></textarea></td>
 			</tr>
 			<tr>
 				<td><input type="submit" value="Submit Comment" /></td>
@@ -26,5 +25,5 @@
 		</table>
 	<input type="hidden" name="_next" value="{{site.baseurl}}{{page.url}}" />
 	</form>
-	<small><i>Please allow a week for comments to be uploaded.</i></small>
+	<br><p><i>NOTE: When you hit "Submit" you will be anticlimactically re-directed to the top of the current page. Please allow a week for comments to be uploaded.</i></p>
 </div>

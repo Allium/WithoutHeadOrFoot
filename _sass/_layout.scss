@@ -247,10 +247,10 @@
 .comment
 {
     display: block;
-    border-top: 4px solid #a7a59b;
-    background-color: #f6e9d9;
-    margin-left: 20px; 
-    margin-right: 20px; 
+    border-top: 2px solid #a7a59b;
+    background-color: #E3E4FA;
+    margin-left: 0px; 
+    margin-right: 0px; 
     margin-top: 10px;
     margin-bottom: 10px;
     padding-bottom: 8px; 
@@ -260,9 +260,12 @@
     color: #000;
     margin-bottom: 13px;
     clear:both;
+	font-size: 12pt;
+	line-height: 120%;
 }
 .comment .name {
     float:left;
+	font-size: 14pt;
     font-weight:bold
 }
 .comment .date {
