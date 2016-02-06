@@ -55,3 +55,110 @@ readers affects what's written.
 Conclusion: yes, there is a bias of backgrounds within the profession, but in her estimation there isn't much evidence that it distorts the news. I'm making a storm in a teacup.
 
 I find her answer comforting: she's a smart and self-aware lass and more clued-in than I am when it comes to workplace sociology (indeed, when it comes to most things). However, the broader issues of diversity and access to different professions, with their commensurate social justice ramifications, are still at large. I only have to look around my physics department to see that we have a problem with gender balance.
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Roc</span>
+    <span class="date">30 November 2015, 09.42</span>
+    
+	<br><br>
+	Great piece.  The bias of the media, and the failure of education to teach people (including the journalists themselves) to detect this, is a candidate for human problem number one in terms of creating avoidable suffering.
+	<br><br>
+	Setting aside the important social mobility and justice issues, I wonder if the middle-class bias will have any additional filtering effect after the already powerful pre-existing biases have done their bit :
+	<br><br>
+	The cost constraints which mean that most ‘quality’ press content (from memory 73% in one Cardiff University study) consists of uncritically recycled government and corporate press releases.
+	<br><br>
+	The requirement in commercial media not to alienate the advertisers and in some to maximise profit.
+	<br><br>
+	Have you seen Chomsky’s "Manufacturing Consent"?  He has an interesting take on the problem.
+	<br><br>
+	On the gender imbalance in the physics department, this is part of a massive and general issue of whether you are aiming at equality of outcome or equality of opportunity.  
+	<br><br>
+	To me it goes without saying that it is unacceptable to discriminate on grounds of more or less artificial and oppression-purposed categories like race or gender because it means giving up on the ideal of the individual and returning to a group conception of humanity, collective guilt, etc.  
+	<br><br>
+	But to deliver equality of outcome, that’s what you have to do.  (This is an empirical question, but my hypothesis would be that if there is any gender bias in the physics department, it is directed at recruiting more female physicists, i.e. securing equality of outcome.)
+	<br><br>
+	To me it is valid to discriminate on grounds of behaviour or ability or enthusiasm provided your criteria are functionally related to the enterprise and not artificially constructed to favour a privileged group.
+	<br><br>
+	In reality, only by abandoning the artificial concept of gender or race for the purposes of your own analysis, and looking at people’s behaviour (which may include believing in gender or race) can you really understand what is happening.  These essentially statistical concepts, even if they are held in good faith rather than to propagate malicious stereotypes, do not properly correspond (though they may contribute) to reality and so they hinder understanding.	
+		
+</div>
+
+
+
+
+<div class="comment">
+	<span class="name">Cato</span>
+	<span class="date">30 November 2015, 17.14</span>
+	<br>
+	<br>
+	Thanks for the comments: very thought-provoking. I mentioned in passing that this was only one source of bias in the media, and I totally agree it isn't the most important one -- merely one that I hadn't heard before. The issue with press releases is certainly interesting and it's already on my list to investigate; so far it's been hard to reconcile those accusations with other testimonies about the culture of journalism. We must be aware that slamming the media is a popular pastime and they will come under fire for imagined, as well as real, biases. The opportunity for misdeeds doesn't constitute misdeeds themselves, just an institutional loophole that we should be aware of and perhaps try to plug. I plan to write more about the press in the coming months.
+	<br>
+	<br>
+	As for the question of equality, this requires deeper discussion, but I think one can frame it not only in terms of opportunity and outcome, but also in terms of idealism and pragmatism. Though your comments as an idealist are very very important and should be at the forefront of people's morals, pragmatic approaches should be at the forefront of people's actions. As social animals, group allegiance is fundamental to human interaction. We are not intelligent enough to overcome this. In any case, there is currently no equality of opportunity for e.g. women in science or black people in the US judicial system, even if all the legal documents we can find were to attest otherwise.
+</div>
+
+
+
+<div class="comment">
+	<span class="name">Roc</span>
+	<span class="date">30 November 2015, 13.01</span>
+<br>
+	<br>
+	As I think you say, gender and race blind equality of opportunity has not been and needs to be delivered - but there are still many questions, such as whether to deliver equality of opportunity you correct for someone having intelligence, a supportive family, a good university, suffering institutional discrimination etc.  Much it goes back to reforming poor education, which in Britain is one of the greatest human rights abuses.  Anyway, that is where I would focus my effort, above all perhaps in detecting covert mechanisms to thwart equality of opportunity like the one you talk about in journalism.
+<br>
+	<br>
+	Maybe part of my point is it is either/or.  To have equality of outcome you must have discrimination and anecdotally the discrimination transfers resources to the more privileged of one more or less arbitrarily defined group from the less privileged of another, i.e. it is regressive at the level of individuals.  But you could argue for equality of outcome on grounds of defusing unrest.
+<br>
+	<br>
+	I feel even the most basic presuppositions in this debate are questionable so you have to go far back in terms of defining morality and justice and identity, both assigned by others and chosen by yourself.  
+<br>
+	<br>
+	And on the journalism front there is almost a problem by definition - to be a journalist you have to go to university and once you have gone to university you are now middle class in many of your interests and allegiances.  I share your distrust of the media establishment’s impartiality and self knowledge but maybe this becomes less important as the media are disrupted.
+</div>
+
+
+
+
+<div class="comment">
+	<span class="name">Cato</span>
+	<span class="date">05 December 2015, 03.25</span>
+<br>
+	<br>
+	All very interesting points, and I definitely agree with your focus on education (though I probably got that form you in the first place!). The comment about regressive policies is interesting, and definitely something of which to be aware, but that seems to me to be a problem of implementation rather than philosophy. In any case, the accounting will always be questionable -- how much value does one put on the very fact of being white? In the US especially, it is of huge value -- financially, culturally, for jobs, for law enforcement, ... -- and this fact of "social capital" must be included in deciding about regressiveness.
+<br>
+	<br>
+	I don't know where to draw the line on how much discrimination is too much. But I do feel that when there's a clear history of oppression which is directly linked to deprivation and inequality today, reparations should not be out of the question on the basis of inverse racism. It's levelling the playing field. Improved education is only one element in our response to blatant iniquity -- I don't think any of this is either/or unless one is purely ideological (and as you know I am mistrustful of ideology) -- we need role models and we need people who understand the issues in positions of power, and that will not happen in any meaningful way if we rely on "trickle-up". It's not absurd to claim that the existing power structure of middle class white men (crudely) cannot fix the grievances / win the trust of minority or under-represented groups who have spent the last twelve millennia taking orders from exactly those people.
+</div>
+
+
+
+
+<div class="comment">
+	<span class="name">Roc</span>
+	<span class="date">05 December 2015, 07.38</span>
+<br>
+	<br>
+	All that makes total sense and I hope my position isn’t irritating.  It may be we agree and I would love to discover exactly where we disagree if so - it might be at the deep level of abstract morality etc.  
+<br>
+	<br>
+	I think I’m coming from my UK experience where I see favouritism for privileged people who manage to spin themselves as underdogs, and none for the real underdogs, because access to favouritism seems usually to be an expression of power, hidden or otherwise.  It could be the position of the real underdogs is compromised by this (this is my hypothesis) but it may be irrelevant to them and simply a transfer of resources between privileged groups, and it could be it indirectly helps the real underdogs by eroding stereotypes etc.   And probably a mixture of all three over the whole population of underdogs. 
+</div>
+
+
+
+
+
+<div class="comment">
+	<span class="name">Cato</span>
+	<span class="date">06 December 2015, 22.13</span>
+<br>
+	<br>
+	All three scenarios are interesting. Of course we'd have to talk about a particular example to say anything concrete. My instinct is that in the best-case scenario (i.e. not in reality but not prohibited by the laws of societal interaction): 1. isn't so relevant because the conners are a minority, albeit one with which people can be whipped into fury. For instance benefit fraud is a real thing, but tax avoidance / aggressive lobbying by big companies is also real and "costs" the government much much more. 2. Even if resources are given to the top echelon of underdogs, it is still progressive. And though initiatives organised by central governments are more likely to fail at redistribution (or be compromised from the outset), local governments and NGOs might in general have a better chance at effective targeting. There are a lot of intelligent compassionate people. 3. This I absolutely agree with: eroding stereotypes is important, but it is also crucial to have spokespeople from marginalised groups who can bring focus to the issues they face, and thereby break the cycle of marginalisation.
+</div>
+
