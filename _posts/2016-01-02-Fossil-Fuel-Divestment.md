@@ -132,3 +132,24 @@ In the past year, the growing certainty of a global deal leading up to the Paris
 This new consciousness has led to initiatives such as Science Based Targets, which at the time of writing had recruited [116 major corporations](sciencebasedtargets.org/companies-taking-action) (such as Coca-Cola, Proctor and Gamble, Pfizer, and Sony) to sign up for relatively impressive reductions in carbon intensity (greenhouse gas emissions per kilowatt-hour of energy consumed) and absolute emissions. And more relevant to the present discussion, the [Montreal Pledge](www.montrealpledge.org), which requires investing firms to 'measure and publicly disclose the carbon footprint of their investment portfolios on an annual basis', has seen rapid growth to over 120 investors worth a total of $10 trillion.
 
 The important thing, though, is that the message gets through to the energy sector. As I said before, to my knowledge there exist no realistic plans to explicitly strand fossil fuel reserves. But these examples are surely steps in the right direction.
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Dan</span>
+    <span class="date">30 January 2016, 18.06</span>
+<br>
+    <br>
+	I think you know more about economics than you give yourself credit for. 
+<br>
+    <br>
+	I agree that there aren't any "realistic plans to explicitly strand fossil fuel reserves," but fossil fuel companies face a few headwinds. You asked for my thoughts from an equity valuation standpoint. The two main frameworks are discounted cash flow which attempts to find the intrinsic value of a business, and relative valuation which compares a business to similar businesses and its industry. Relative valuation might be tricky because the protests against fossil fuel energy affect the whole industry, so I'll just focus on the intrinsic value. 
+<br>
+    <br>
+	From the viewpoint of the efficient markets hypothesis, stock prices should capture the present value of a business's future cash flows. Many of the protests you describe are attempts to change market expectations for the fossil fuel industry. Pinpointing an exact impact becomes tricky, and some story telling comes into how people value companies. How certain are the future cash flows? That depends on many questions including how long fossil fuel energy will be the dominant form, and what kind of government regulations will be put in place as you mentioned. However, in 2013, the economics Nobel prize went to research showing that markets are irrational and revaluations with different expectations cannot justify the variance in stock prices. Prices are set more or less due to the moods of the markets, but to many, the intrinsic value of a business doesn't really change if a few people divest. It's hard to guess the impacts of these protests and see which short term and long term effects will win, but my feeling is that they can't be great for the fossil fuel industry. 
+</div>
