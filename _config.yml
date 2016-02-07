@@ -11,10 +11,10 @@ description: > # this means to ignore newlines
 description2: >
   This blog yaws from topic to topic, depending on my momentary amateur interests. There'll be some things about the environment, the media, social justice, creative writing, and maybe even physics...
   
-# baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
 # url: "Allium.github.io" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
 url:	"catosandford.org"
+# baseurl: ""
 
 timezone: America/New_York
 
