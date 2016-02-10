@@ -161,3 +161,19 @@ Though it was undeniably a morass of divided opinion and contradictory evidence,
 Of course there's so much more to learn about this subject, and I haven't even touched on the fact that the education system seems to be failing boys at a significantly higher rate than girls, from secondary school onward (whether this is cultural or institutional I don't know for sure, though I'd be surprised if it wasn't both). I simply have to move on or I'll go mad.
 
 "But this was only part one!" I hear you cry. Right. In part two, I intend to talk about the pressures on universities to measure cleverness, and the ethical gauntlet we run when we try to use discrimination as a tool to redress social iniquities. All in good time.
+
+
+
+<!-- ---------------------------------------------------------------------- -->
+
+<br><br>
+---
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Joy</span>
+    <span class="date">10/02/2016, 12.19</span>
+<br>
+    <br>
+	Like you said, besides racial discrimination there is also something really amiss in terms of diversifying according to socio-economic background. For instance, the undergraduates at Oxford are, as a group, a lot whiter than the postgraduates; but although the postgraduates are more diverse ethnically, it seems that there is very little diversity in terms of socio-economic background. These are just anecdotes, but for instance, a girl from India told me that all Indians at Oxford she knows are from the 0.1% richest group in the country. And a friend of mine who’s a Rhodes scholar said that basically everyone who has a Rhodes scholarship is from the most privileged groups in their own countries, too (which usually means they could afford to be at Oxford even without the scholarship). I know it’s a self-perpetuating thing, that privileged people with better access to education will have better chances of getting into Oxford etc. But because the postgraduate community „looks diverse“, and because, on paper, it is very international, these issues are swept under the carpet and addressed much less than the problem that privately educated students are over-represented at the undergraduate level. 
+</div>
