@@ -9,7 +9,7 @@ tags:	[education, policy]
 ### An Educated Population
 
 
-Of perennial concern, particularly in times of cuts to public services, is the societal value of pouring over £10bn per year into tertiary education. Yet in spite of any disgruntlement, pretty much all affluent countries are spending large sums on exactly that -- check out the table below (we're spoiled with an abundance of columns, I reckon 27 is the best).
+Of perennial concern, particularly in times of cuts to public services, is the societal value of pouring over £10bn per year into tertiary education. Yet in spite of any disgruntlement, pretty much all affluent countries are spending large sums on exactly that -- check out the table below (we're spoiled with an abundance of columns, but I reckon the third from the right (27) is the best).
 
 <div align="center"><figure>
   <img src="{{ site.baseurl }}/images/2016-01-30-Education-Table-2015.png"  width="600">
@@ -132,7 +132,7 @@ But let's return to the university administration, and ask a more manageable que
 
 #### Tuition fees
 
-1998 saw the demise of "free" tertiary education in the UK -- in that year Labour (in)famously introduced a £1,000 annual tuition fee. In England the figure has since risen and now stands at £9,000 (Scotland, Wales and Northern Ireland have [different arrangements](https://en.wikipedia.org/wiki/Tuition_fees_in_the_United_Kingdom#Current_Systems)). Costs are typically met through a government-sponsored loan (for domestic and EU students), with repayments indexed to income above £10,000 -- this means a graduate only has to pay when they can reasonably afford it.
+1998 saw the demise of "free" tertiary education in the UK -- in that year Labour (in)famously introduced a £1,000 annual tuition fee. In England the figure has since risen and now stands at £9,000 (Scotland, Wales and Northern Ireland have [different arrangements](https://en.wikipedia.org/wiki/Tuition_fees_in_the_United_Kingdom#Current_Systems)). Costs are typically met through a government-sponsored loan (for domestic and EU students), with repayments indexed to income above £10,000 -- the idea is that a graduate only has to pay when they can reasonably afford it.
 
 Nevertheless, it is highly plausible that the prospect of £27,000 debt (plus living costs) coupled with three years' delay in obtaining meaningful employment will strongly deter those with less financial support from home. If so, then each rise in tuition fees represents a government-initiated (and university-endorsed) blow to the disadvantaged.
 
