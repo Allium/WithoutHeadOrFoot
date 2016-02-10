@@ -9,7 +9,7 @@ tags:	[education, policy]
 ### An Educated Population
 
 
-Of perennial concern, particularly in times of cuts to public services, is the societal value of pouring over £10bn per year into tertiary education. Yet in spite of any disgruntlement, pretty much all affluent countries are spending large sums on exactly that -- check out the table below (we're spoiled with an abundance of columns, but I reckon the third from the right (27) is the best).
+Of perennial concern to the public, particularly in times of cuts to welfare and services, is the government's wisdom in spending over £10bn per year on higher education. Advocates might point out that pretty much all affluent countries spend large sums in this area -- check out the table below (we're spoiled with an abundance of columns, but I reckon the third from the right (27) is most informative).
 
 <div align="center"><figure>
   <img src="{{ site.baseurl }}/images/2016-01-30-Education-Table-2015.png"  width="600">
@@ -18,9 +18,9 @@ Of perennial concern, particularly in times of cuts to public services, is the s
   </figcaption>
 </figure></div>
 
-Whether these countries are affluent because they are educated or the other way around (or both) doesn't really matter right now: the point is they're prepared to spend [between 1% and 2% of their GDP](http://nces.ed.gov/programs/coe/indicator_cmd.asp) putting a significant proportion of their youth through university at least once.
+Whether these countries are affluent because they are educated or the other way around (or both) doesn't really matter right now: the point is they're prepared to pour [between 1% and 2% of their GDP](http://nces.ed.gov/programs/coe/indicator_cmd.asp) into putting a significant proportion of their youth through university at least once.
 
-So who benefits from this? Potentially everyone. Businesses get to employ skilled workers, which feeds back into creating additional employment opportunities. The economy grows, incomes grow, tax revenues grow. Young people can revel in the development of their passions, and the exploration of new ones. 
+So who benefits from this? Potentially everyone. Businesses get to hire skilled workers, which feeds back into creating additional employment opportunities. The economy grows, incomes grow, tax revenues grow. Young people can revel in the development of their passions, and the exploration of new ones. 
 The societal elite can revel in an institutionalised population which is, at least in the UK and USA, so saddled with debt that they're guaranteed to be working productively, desperately, for decades to come (more on this later).
 
 
@@ -28,7 +28,7 @@ The societal elite can revel in an institutionalised population which is, at lea
 
 ### Unequal Access
 
-But if we take the position that an individual benefits both personally and professionally from holding a degree, we should also take the (banal) position that access shouldn't be predicated on some accident of birth -- socio-economic class, sex, gender, race. In the grand words of the UN's [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx) (Article 13.1),
+If we accept that an individual benefits both personally and professionally from holding a degree, we should also take the (banal) position that access shouldn't be predicated on some accident of birth -- socio-economic class, sex, gender, race. In the grand words of the UN's [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx) (Article 13.1),
 
 > The Parties ... recognize the right of everyone to education. They agree that education shall be directed to the full development of the human personality and the sense of its dignity, and shall strengthen the respect for human rights and fundamental freedoms. They further agree that education shall enable all persons to participate effectively in a free society, promote understanding, tolerance, friendship and peace among all nations and all racial, ethnic or religious groups.
 
