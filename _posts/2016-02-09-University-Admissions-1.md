@@ -1,5 +1,4 @@
 ---
-published:	false
 layout:	post
 title:	University Admissions &mdash; Part 1
 tags:	[education, policy]
