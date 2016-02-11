@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	University Admissions Part 1 &mdash; Bias
-tags:	[education, bias, policy]
+tags:	[education, politics, sociology]
 ---
 
 

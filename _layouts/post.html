@@ -13,9 +13,9 @@ layout: default
 		{% endif %}
 		{% if page.tags %}<br>
 			<i>
-			• <a href={{site.baseurl}}/tags.html>Tags</a>:
+			• <a href={{site.baseurl}}/tags.html>Tags</a>:&nbsp;
 			{% for tag in page.tags %}
-				<a href="{{ site.baseurl }}/tags.html#{{ tag }}-ref">{{ tag }}</a>
+				<a href="{{ site.baseurl }}/tags.html#{{ tag }}-ref">{{ tag }}</a>&nbsp;
 			{% endfor %}
 			</i>
 		{% endif %}
