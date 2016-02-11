@@ -70,3 +70,19 @@ If only all sisterhood was so harmonious.
 We should bear in mind that most of our food is produced using industrial farming methods, which promote the use of genetically similar monocultures whose planting can be pushed to high densities and whose harvesting is easy to mechanise. The viability of such an approach is heavily dependent on the ready availability and low monetary cost of artificial fertilisers and pesticides. This being the case, industrial farming has greatly enhanced our ability to produce cheap and abundant food, with clear societal benefits.
 
 Yet our growing understanding of the hidden costs of the current system -- disease vulnerability, water pollution, greenhouse gas emissions, food security, corporatisation of food supply, social justice, and more -- has for some decades been fuelling a renewed popular interest in alternatives, of which The Three Sisters is a wonderful example.
+
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Dylan</span>
+    <span class="date">10 February 2016, 12.08</span>
+<br>
+    <br>
+    I was really expecting this to be about the Chekhov play.
+</div>

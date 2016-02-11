@@ -2,7 +2,7 @@
 layout:	post
 title:	Sociology of Journalism
 date:	2015-11-23
-tags:	[media, sociology]
+tags:	[media, sociology, bias]
 ---
 
 An old schoolfriend recently moved to New York City to pursue her career in journalism. Unfortunately for her, I have lots of naive questions about her profession. Fortunately for me, she's my friend and has to answer them without getting too irritated. Here are two examples.
@@ -11,7 +11,7 @@ An old schoolfriend recently moved to New York City to pursue her career in jour
 ### 1. Popularity-based quality metrics
 
 How are journalists assessed by their editors, and how do business pressures shape the subject, content and presentation of what is published?
-More specifically, since the establishment of on-line newspapers and other media outlets, it's possible to collect detailed information about which headlines attract readers and how long they spend reading the article. It's easy to imagine that this would have consequences for quality metrics within the industry. But first let me establish the basic framework.
+More specifically, since the establishment of on-line newspapers and other news outlets, it's possible to collect detailed information about which headlines attract readers and how long they spend reading the article. It's easy to imagine that this would have consequences for quality metrics within the industry. But first let me establish the basic framework.
 
 Here are two uncontroversial comments: 1. journalists want their work to be read; and 2. a major, and sometimes unique, source of revenue for news agencies is advertising (which is completely reliant on circulation). Now that there is abundant data on exactly how to maximise an article's appeal to a particular audience, the cynics inside will cry that the public is essentially being fed its own excrement for the sake of journalists' egos and/or news outlets' bank accounts. Our generous side will, conversely, claim that journalists are not so immoral: that they are dedicated to a trade that they believe in and whose integrity they want to protect (it's not as if they're there for the lavish salaries).
 
@@ -97,7 +97,7 @@ I find her answer comforting: she's a smart and self-aware lass and more clued-i
 	<span class="date">30 November 2015, 17.14</span>
 	<br>
 	<br>
-	Thanks for the comments: very thought-provoking. I mentioned in passing that this was only one source of bias in the media, and I totally agree it isn't the most important one -- merely one that I hadn't heard before. The issue with press releases is certainly interesting and it's already on my list to investigate; so far it's been hard to reconcile those accusations with other testimonies about the culture of journalism. We must be aware that slamming the media is a popular pastime and they will come under fire for imagined, as well as real, biases. The opportunity for misdeeds doesn't constitute misdeeds themselves, just an institutional loophole that we should be aware of and perhaps try to plug. I plan to write more about the press in the coming months.
+	Thanks for the comments: very thought-provoking. I mentioned in passing that this was only one source of bias in the news media, and I totally agree it isn't the most important one -- merely one that I hadn't heard before. The issue with press releases is certainly interesting and it's already on my list to investigate; so far it's been hard to reconcile those accusations with other testimonies about the culture of journalism. We must be aware that slamming the press is a popular pastime and they will come under fire for imagined, as well as real, biases. The opportunity for misdeeds doesn't constitute misdeeds themselves, just an institutional loophole that we should be aware of and perhaps try to plug. I plan to write more about the press in the coming months.
 	<br>
 	<br>
 	As for the question of equality, this requires deeper discussion, but I think one can frame it not only in terms of opportunity and outcome, but also in terms of idealism and pragmatism. Though your comments as an idealist are very very important and should be at the forefront of people's morals, pragmatic approaches should be at the forefront of people's actions. As social animals, group allegiance is fundamental to human interaction. We are not intelligent enough to overcome this. In any case, there is currently no equality of opportunity for e.g. women in science or black people in the US judicial system, even if all the legal documents we can find were to attest otherwise.

@@ -19,7 +19,7 @@ For me:
 
 - I'd like to get into the habit of writing; physics is wonderful in many ways, but it doesn't naturally nourish a flair for prose.
 - I'm into feedback -- of both the writing and the content. Or whatever, talk to me.
-  + To this end, I will eventually figure out a good way of including comments box on the post pages. Eventually.
+  + To this end, have heroically managed to include a comments box on the (static) post pages.
 - I want to give myself an excuse to spend time thinking about things in which I have no expertise at all. Is this not the ultimate indulgence?
 - In one way or another, we must all evade the crushing certainty that life is meaningless by constructing a tangible Universe in which we are at the centre.
 

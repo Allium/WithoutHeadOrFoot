@@ -1,10 +1,9 @@
 ---
 layout:	post
-title:	University Admissions &mdash; Part 1
-tags:	[education, policy]
+title:	University Admissions Part 1 &mdash; Bias
+tags:	[education, bias, policy]
 ---
 
-<!-- ---------------------------------------------------------------------- -->
 
 ### An Educated Population
 
@@ -167,12 +166,11 @@ Of course there's so much more to learn about this subject, and I haven't even t
 <!-- ---------------------------------------------------------------------- -->
 
 <br><br>
----
 <h2>Comments</h2>
 
 <div class="comment" style="background-color: #E3E4FA;">
     <span class="name">Joy</span>
-    <span class="date">10/02/2016, 12.19</span>
+    <span class="date">10 February 2016, 12.19</span>
 <br>
     <br>
 	Like you said, besides racial discrimination there is also something really amiss in terms of diversifying according to socio-economic background. For instance, the undergraduates at Oxford are, as a group, a lot whiter than the postgraduates; but although the postgraduates are more diverse ethnically, it seems that there is very little diversity in terms of socio-economic background. These are just anecdotes, but for instance, a girl from India told me that all Indians at Oxford she knows are from the 0.1% richest group in the country. And a friend of mine who’s a Rhodes scholar said that basically everyone who has a Rhodes scholarship is from the most privileged groups in their own countries, too (which usually means they could afford to be at Oxford even without the scholarship). I know it’s a self-perpetuating thing, that privileged people with better access to education will have better chances of getting into Oxford etc. But because the postgraduate community „looks diverse“, and because, on paper, it is very international, these issues are swept under the carpet and addressed much less than the problem that privately educated students are over-represented at the undergraduate level. 

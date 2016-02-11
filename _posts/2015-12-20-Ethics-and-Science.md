@@ -5,7 +5,7 @@ tags:	[physics, science, philosophy, pragmatism]
 ---
 
 
-In every post I've written, I wrestle with the urge begin with a disclaimer about how I really have no idea about anything. Normally I successfully resist, but in this case my resolve was weak.
+In every post I've written, I wrestle with the urge begin with a disclaimer about how I really have no idea about anything. This time my resolve was weak.
 
 I really have no idea about anything.
 
@@ -15,7 +15,7 @@ Recently at ISC (I'll have to write a post about ISC at some point), Alex Breitw
 
 #### Utilitarians
 
-Bentham, for instance, is well known for his maxim "strive toward the greatest good for the greatest number". In principle, this seems both reasonable and laudable; but matters rapidly become turbid when one has to pronounce upon what exactly qualifies as "good", and how much weight to assign to competing goods (not to mention competing bads). In the context of the plurality of human circumstances, cultures and dispositions, it would seem that any quest for an objective / universal good is utterly hopeless.
+Bentham, for instance, is well known for his maxim "strive toward the greatest good for the greatest number". In principle, this seems both reasonable and laudable; but matters rapidly become turbid when one has to decide what exactly qualifies as "good", and how much weight to assign to competing goods (not to mention competing bads). In the context of the plurality of human circumstances, cultures and dispositions, it would seem that any quest for an objective / universal good is hopeless.
 
 Therefore, a morality-judgement made within the utilitarian framework might be worse than useless without an explicit and honest statement of a "utility goal": that is, what you (the judge) think we ought to strive for: what "good" you want to maximise. Unfortunately, any given utility goal will be at least partially incompatible with other legitimate utility goals. E.g. I want to lower the tax burden on citizens, but you want to ensure that everyone has access to healthcare. They are subjective and open to debate; we must always ask "Who is judging? And on what criteria?".
 
