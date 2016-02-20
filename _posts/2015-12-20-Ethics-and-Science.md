@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	The Ethics of Doing Science in the First Place
+title:	On the Ethics of Doing Science in the First Place
 tags:	[physics, science, philosophy, pragmatism]
 ---
 

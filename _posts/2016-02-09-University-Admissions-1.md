@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	University Admissions Part 1 &mdash; Bias
+title:	University Admissions Part 1 &mdash; Discrimination
 tags:	[education, politics, sociology, equality]
 ---
 
