@@ -2,7 +2,7 @@
 layout:	post
 title:	Sociology of Journalism
 date:	2015-11-23
-tags:	[media, sociology, bias]
+tags:	[media, sociology, equality]
 ---
 
 An old schoolfriend recently moved to New York City to pursue her career in journalism. Unfortunately for her, I have lots of naive questions about her profession. Fortunately for me, she's my friend and has to answer them without getting too irritated. Here are two examples.

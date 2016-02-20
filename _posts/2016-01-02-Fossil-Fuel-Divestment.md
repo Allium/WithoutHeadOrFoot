@@ -153,3 +153,18 @@ The important thing, though, is that the message gets through to the energy sect
     <br>
 	From the viewpoint of the efficient markets hypothesis, stock prices should capture the present value of a business's future cash flows. Many of the protests you describe are attempts to change market expectations for the fossil fuel industry. Pinpointing an exact impact becomes tricky, and some story telling comes into how people value companies. How certain are the future cash flows? That depends on many questions including how long fossil fuel energy will be the dominant form, and what kind of government regulations will be put in place as you mentioned. However, in 2013, the economics Nobel prize went to research showing that markets are irrational and revaluations with different expectations cannot justify the variance in stock prices. Prices are set more or less due to the moods of the markets, but to many, the intrinsic value of a business doesn't really change if a few people divest. It's hard to guess the impacts of these protests and see which short term and long term effects will win, but my feeling is that they can't be great for the fossil fuel industry. 
 </div>
+
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Cato</span>
+    <span class="date">15 February 2016, 10.12</span>
+<br>
+    <br>
+	Since writing this post I've come across two further sources that might be of interest. They broadly agree with my conclusions, but with the advantage of expertise.
+<br>
+	<br>
+	First, [this article](https://theconversation.com/why-stranded-assets-matter-and-should-not-be-dismissed-51939), written by the Director of Oxford University's Stranded Assets Programme, provides a concise and compelling take on stranded assets and the surprising naivite of financial markets.
+<br>
+	<br>
+	Second, [this research paper](http://www.scribd.com/doc/151150141/Betting-on-Climate-Failure-The-Ethics-and-Economics-of-Fossil-Fuel-Divestment) by University of Washington PhD student [Alex Lenferna](https://phil.washington.edu/people/alex-lenferna) assesses the divestment movement's potential impacts in both economic and ethical dimensions. While accepting that much of the dialogue of the movemnt is naive and dogmatic, it is still likely to hasten the bursting of the "carbon bubble". Furthermore, the author argues that the goals of the movement are consistent with widely-accepted philosophies of ethics.
+</div>

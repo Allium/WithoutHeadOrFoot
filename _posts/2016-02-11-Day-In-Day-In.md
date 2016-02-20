@@ -101,4 +101,6 @@ Something was wrong. Puzzled, he stared at the shadow; then lifted his head to s
 
 Twelve thousand kilometres away, the opposite end of the World was plunged into mayhem. In the deepening dusk, people blundered into each other, falling, screaming, their rodless eyes blind, their machinery dead, their ears filled with the panic.
 
-And in the chaos and the terror and the blindness, not one soul could glimpse the most beautiful wonder of creation. The stars.
+And in the chaos and the terror and the blindness, not one soul could glimpse the greatest beauty of creation. The stars.
+
+<br><br><br>
