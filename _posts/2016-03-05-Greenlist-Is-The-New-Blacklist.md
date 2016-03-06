@@ -1,16 +1,16 @@
 ---
 layout:	post
 title:	Greenlist is the New Blacklist
-tags:	[environment, climate change, politics]
+tags:	[environment, climate, politics]
 ---
 
 ### Berta Cáceres, Rubber, Annihilation, Dams
 
 This week, a prominent Honduran environmentalist and indigenous rights campaigner was murdered in her home.
 
-But *last* week... Last week I went to the cinema with a good friend. We watched *Embrace of the Serpent*, a Colombian film which follows a native Amazonian shaman on two journeys through the rainforest in the company of a white man. Throughout the film, a key underlying contextual theme was the destruction wrought by white colonisers in search of valuable rubber. These "Rubber Barons" are themselves never encountered; but their work is ever present: in the obvious lacerations of the forest; in the scars they have left on the bodies and minds of the indigenous people; in the annihilation of culture and the brutal indoctrination of orphaned children.
+But *last* week... Last week I went to the cinema with a good friend. We watched *Embrace of the Serpent*, a Colombian film which follows a native Amazonian shaman on two journeys through the rainforest in the company of a white man. Throughout the film, a key underlying contextual theme was the destruction wrought by white colonisers in search of valuable rubber. These "Rubber Barons" are themselves never encountered; yet their work is ever present: in the lacerations of the forest; in the scars they have left on the bodies and minds of the indigenous people; in the annihilation of culture and the brutal indoctrination of orphaned children.
 
-Though it is grim in places, the film is also beautiful and evocative. And shot in black and white. And the events portrayed happened a long time ago, at the beginning of the twentieth century. And the psyche of a cinemagoer is inevitably dislocated, finding themselves as they do in a theatre of tale and spectacle. As such, it was all too easy for me to separate what I was watching from any reality experienced today. It was all too easy to overcontextualise, to diminish the story's present relevance. The Rubber Barons were monsters from a byegone age.
+Though it is grim in places, the film is also beautiful and evocative. It is shot in black and white; and the events portrayed happened a long time ago, at the beginning of the twentieth century. And anyway, the psyche of a cinemagoer is already dislocated, as they sit in a theatre of tale and spectacle. As such, it was all too easy for me to separate what I was watching from any reality experienced today. It was all too easy to overcontextualise, to diminish the story's present relevance. The Rubber Barons were monsters from a byegone age.
 
 But eventually, as we all must, I left the cinema, and I read the news. I read that this week, a prominent Honduran environmentalist and indigenous rights campaigner was murdered in her home.
 
@@ -21,7 +21,7 @@ While reading through reports of anger, grief, defiance, accusation and speculat
 
 ### Stifling Protest Through Violence and Surveillance
 
-Those who speak out and transgress against such state-sanctioned injustice pay dearly. From Brazil to the Democratic Republic of Congo to China, environmental activists are harassed, detained and [killed in suspicious circumstances](https://www.globalwitness.org/en/campaigns/environmental-activists/how-many-more/). A [report published in 2014](https://www.globalwitness.org/en/campaigns/environmental-activists/deadly-environment/) by the London-based NGO Global Witness found the situation to be particularly dire in Honduras, where Berta Cáceres now joins the hundreds of subsistence farmers and native peoples who, supported by no-one, tried to defend their lands and livelihoods from seizure and degradation by corporations supported by the government, and by [the US, and others](http://www.theguardian.com/global/2014/jan/07/honduras-dirty-war-clean-energy-palm-oil-biofuels). The brutal tactics employed to crush these people are painful to read.
+Those who speak out and transgress against such state-sanctioned injustice pay dearly. From Brazil to the Democratic Republic of Congo to China, environmental activists are harassed, threatened, detained and [killed in suspicious circumstances](https://www.globalwitness.org/en/campaigns/environmental-activists/how-many-more/). A [report published in 2014](https://www.globalwitness.org/en/campaigns/environmental-activists/deadly-environment/) by the London-based NGO Global Witness found the situation to be particularly dire in Honduras, where Berta Cáceres now joins the hundreds of subsistence farmers and native peoples who, supported by no-one, tried to defend their lands and livelihoods from seizure and degradation by corporations supported by the government, and by [the US, and others](http://www.theguardian.com/global/2014/jan/07/honduras-dirty-war-clean-energy-palm-oil-biofuels). The brutal tactics employed to crush these people are painful to read.
 
 It is wrong to compare such extreme cruelties to their counterparts in more transparent states. But it should be noted that the suppression of activists is also at large closer to home. The UK and the USA governments, for instance, increasingly classify peaceful protest groups as potential terrorist threats, and subject their members to surveillance, intimidation, disruption and, in a revelation that shocked the British public a few years ago, [infiltration](https://en.wikipedia.org/wiki/Mark_Kennedy_%28police_officer%29).
 
