@@ -10,7 +10,7 @@ Why are you reading my blog? I don't mean why you are reading *my* blog rather t
 
 Writing has played a crucial role in the development of civilisation, by facilitating both long-distance communication and the creation of records. Though more primitive methods of information dissemination have regained popularity over the last century (I speak of radio, television, podcasts, vlogs), written text has for millennia offered something that conversation, mime, or interpretive dance simply cannot -- permanence.
 
-So, while it's true that I could have come and told you about this post in person, speech is a fundamentally limited mechanism of communication because it happens *in time*. Whatever it is that I intend to say, I must at some point begin to say it, and at a later point finish saying it. And a moment later everything that I took such great pains to say will have disappeared from physical existence. All I can do is hope you were listening.
+So, while it's true that I could have come and told you about this post in person, speech is a fundamentally limited mechanism for communicating at a distance because it happens *in time*. Whatever it is that I intend to say, I must at some point begin to say it, and at a later point finish saying it. And a moment later everything that I took such great pains to say will have disappeared from physical existence. All I can do is hope you were listening.
 
 I'm reminded of a famous passage from Sartre's "Nausea", where the beauty of music is made inextricable from its demise:
 
@@ -20,7 +20,7 @@ Captivating though this description is, Sartre's connexion of musical beauty wit
 
 By comparison, our marks on the visible world present an air of indelibility, a comforting stasis. And this is why the majority of people record information in the visual realm, including upon the page, and not in the auditory one.
 
-There are of course cultures whose memories and oral traditions have withstood the atrophy of industrial civilisation. There's an Egyptian myth where the god Thoth visits the pharaoh bearing gifts for humanity. "Here is the calendar," he says "to facilitate the planning of the harvest. And here is arithmetic, for the managing of commerce and for astronomical calculations.", and so on. The pharaoh is visibly delighted with each of these new inventions. "And finally," says Thoth, "I give you *writing*, as an aid to memory.". But wise old pharaoh cuts in: "You are wrong! This will be the *undoing* of memory -- for who will have to remember anything once it is possible to write it down?".
+There are of course cultures whose memories and oral traditions have withstood the atrophy of industrial civilisation. In an Egyptian myth,  the god Thoth visites the pharaoh bearing gifts for humanity. "Here is the calendar," he says "to facilitate the planning of the harvest. And here is arithmetic, for the managing of commerce and for astronomical calculations.", and so on. The pharaoh is visibly delighted with each of these new inventions. "And finally," says Thoth, "I give you *writing*, as an aid to memory.". But wise old pharaoh cuts in: "You are wrong! This will be the *undoing* of memory -- for who will have to remember anything once it is possible to write it down?".
 
 (This tale echoes current debates about the externalisation of memory (and cognition in general), as consumer photography, the Web, and personal communication technologies become incresingly integrated as extensions of our individual selves. But I digress.)
 
