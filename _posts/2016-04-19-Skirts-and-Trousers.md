@@ -120,7 +120,7 @@ In the last section we briefly contemplated the view that the whole male/female 
 
 (Race is another obvious example. Though we may believe it fundamentally wrong to make distinctions (socially and legally) between people of different races, the fact is that our culture has accorded immense importance to skin colour, and, as I have [noted before](% post_url 2015-12-20-Ethics-and-Science %), we should respond to how things are in reality rather than our counterfactual idealisations of how they ought to be.)
 
-Some points made in the female responses have already been covered in the last section, and it seems unnecessary to discuss them all again. So we have another irony, this time of a darker hue: once more the women get less credit for their contribution. (I hope you'll understand that I started with men because that's closest to my experience and I'm in charge of the blog. But since writers throughout history have typically been men (and one could further claim they have been men writing about important "men-things"), and since they too would feel this ordering more natural for them, inevitably leads to a deeper cultural trend where the male perspective is seen as the "default", while the female perspective is additional, contrasting or even anomalous. So yeah, perhaps I should have started in less familiar territory to make a point (a feeble point, but a point nonetheless). But I didn't and we should get on with the survey. The women have plenty to say.)
+Some points made in the female responses have already been covered in the last section, and it seems unnecessary to discuss them all again. So we have another irony, this time of a darker hue: once more the women get less credit for their contribution. (I hope you'll understand that I started with men because that's closest to my experience and I'm in charge of the blog. But since writers throughout history have typically been men (and one could further claim they have been men writing about important "men-things"), and since they too would feel this ordering more natural for them, inevitably a deeper cultural trend emerges where the male perspective is seen as the "default", while the female perspective is additional, contrasting or even anomalous. So yeah, perhaps I should have started in less familiar territory to make a point (a feeble point, but a point nonetheless). But I didn't and we should get on with the survey. The women have plenty to say.)
 
 On the central question of gender-self-consciousness, the responses that I got from women were more mixed: from
 
@@ -136,19 +136,21 @@ Note that though the first quote is consistent with my hypothesis, the second qu
 
 > There was a time when I was very aware of what I wore to work and was worried about accidentally looking inappropriate and/or distracting. I started making choices to look as neutral as possible, so in this case I was very much consciously affected by my gender/other people's perception of it/my perception of other people's perception of it.
 
-The last quote speaks explicitly to the idea we encountered in the last section that gender is irrelevant on a purely personal level: it is only when we have to second-guess the expectations and responses of others that our awareness and behaviour changes.
+The last quote speaks explicitly to the idea, encountered in the last section, that gender is irrelevant on a purely personal level: it is only when we have to second-guess the expectations and responses of others that our awareness and behaviour changes.
 
-Particularly striking to me was the exasperation expressed by *all* female respondents at being constantly underestimated:
+Particularly striking to me was the exasperation expressed by *all* female respondents at being underestimated by others:
 
 > I often feel as if I'm not being taken seriously, as if I'm being patronised, because I'm a woman.
 
 > I become aware of my gender when offered help that I don't need, or when I feel I'm being treated as incompetent, or when I'm complimented for achieving a very easy task: I wonder if it's because I'm female. I'm aware of my gender when I feel the need to "prove myself" in a task that is assumed to be an inherent ability of males. Like, something got fixed at home? Must have been my male partner.
 
-(From the responses, it wasn't clear to me whether both men *and* other women were responsible for condescension, and in other conversations I've heard experiences from both sides. It goes without saying that shitty behaviour is shitty no matter who does it, and there's little to be gained from shifting blame around unless it's for the purpose of understanding which people we'd like to behave differently and how.)
+(From the responses, it wasn't clear to me whether men alone, or both men *and* other women were responsible for this condescension. In other conversations I've heard experiences from both sides. It goes without saying that shitty behaviour is shitty no matter who does it, and there's little to be gained from shifting blame around unless it's truly for the purpose of understanding which people we'd like to behave differently and how.)
 
-Other grievances included the importance of looks, and of being expected to behave in a "womanly" fashion. I enjoyed the levity of the following anecdote which nevertheless conveys a chronic frustration:
+Other grievances included the importance of looks, and of being expected to behave in a "womanly" fashion. But I'd like to close this section with:
 
 > I was at a bar in Ireland, and in my group of six the four men had Guinness and the two women had cider. Jokes were made about Guinness being manly and cider being feminine. Now when I'm in Ireland, I order Guinness exclusively despite not actually feeling that strongly about the taste. An essentailly meaningless change to my life that is admittedly a bit silly.
+
+A nicely-balanced anecdote, whose levity one can enjoy while nevertheless being conscious of a chronic underlying frustration.
 
 
 ### Potential Underpinnings
