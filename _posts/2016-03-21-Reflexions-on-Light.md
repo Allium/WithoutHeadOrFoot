@@ -34,6 +34,8 @@ For sound, this vibration is "mechanical", meaning it occurs in a material compo
 
 Light waves, unlike their sonic counterparts, need no tangible material in which to exist. They are composed of oscillating electric and magnetic forces which influence and sustain one another in a perpetual tarantistic reciprocation. Indeed, light can almost be said to travel through the space *between* particles of matter.
 
+#### Reflexion
+
 But whatever the specifics, waves are fundamentally *ephemeral* phenomena, in that they transport energy and information, yet leave little trace of their passage. There is, nevertheless, a key distinction between the waves of sound and light experienced here on Earth: namely, we possess a ready, inexhaustable source supply of *light*, but no such supply of *sound*. So while sound inevitably dies away, light is constantly replenished.
 
 This leads us to a further related difference between visual and auditory stimuli. The former is (mostly) mediated by reflexion -- whether you're scanning the jungle, gazing at some monument, or reading a book, you're able to do so because light has travelled from a source (e.g. the Sun), reflected off the object in question (and in so doing acquired some imprint of it), and has finally been absorbed by your eye. Light rays are mere vessels of information, whose *origin* is independent of and irrelevant to their cargo. Contrast this with a sound wave, which carries information pertinent almost exclusively to the origin of the sound: your friend's voice, a tiger's growl, rustling trees, the tumbling splashes of a far-off stream.
