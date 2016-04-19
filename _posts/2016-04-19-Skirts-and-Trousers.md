@@ -8,7 +8,7 @@ tags:	[equality, sociology, economics]
 
 A couple of months ago, I asked a score of friends about their gender. Specifically, I asked four questions about how gender consciously influences their thoughts and behaviour.
 
-I'll introduce the questions in a moment; but let me first disclose my intentions, which were threefold. (1) I wanted to hear some wider perspectives on gender so I could test and inform my hypotheses; (2) I believed my questions sufficiently important and thought-provoking to warrant making my friends think about them (a few agreed that they were mildly interesting); and (3) to magnanimously give my friends a taste of eternal fame and glory, by disseminating their thoughts to the masses who read my blog.
+I'll introduce the questions in a moment; but let me first disclose my intentions, which were threefold. (1) I wanted to hear some wider perspectives on gender so I could test and inform my hypotheses; (2) I believed my questions sufficiently important and thought-provoking to warrant making my friends think about them (a few agreed that they were mildly interesting); and (3) I magnanimously wished to give my friends a taste of eternal fame and glory, by disseminating their thoughts to the masses who read my blog.
 
 Because I was keen to get honest, frank responses (or maybe because I allegedly have a penchant for testing the patience of those around me), the questions were presented and responses collected through an anonymised online form which is reproduced below. It would be great if you took a moment to think about the questions; and if you feel inspired to submit your own response, please go ahead and I'll put it in the comments at the bottom of the page.
 
