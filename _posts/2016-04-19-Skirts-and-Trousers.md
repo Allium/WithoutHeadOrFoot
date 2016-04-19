@@ -78,7 +78,7 @@ So much for my musings, let's get back to the interview. I expected that my thou
 
 ### Male Responses
 
-However, among the male responses (including my own) there was a definite theme: gender plays a relatively minor role in their immediate personal experiences, and they are aware of it relatively seldom. For instance [please note all quotes have been excerpted and edited for flow (but obviously not for meaning)]:
+However, among the male responses (including my own) there was a definite theme: gender plays a relatively minor role in their immediate personal experiences, and they are seldom aware of it. For instance [please note all quotes have been excerpted and edited for flow (but obviously not for meaning)]:
 
 > I don't think about my own gender very often: I don't feel like the rigid structures of gender affect me psychologically at all, and I don't feel any expectations or oppression or anything (not related to gender at least).
 
