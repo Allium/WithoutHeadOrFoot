@@ -1,20 +1,17 @@
 ## Site settings
 title: Without Head Or Foot
 author: Cato Sandford
-# email: cato@nyu.edu
 email: cato@catosandford.org
 description: > # this means to ignore newlines
   Each one of us harbours mysteries and delights, unique experiences and thirsty curiosities;
-  and what better way to exalt in our deepest enthusiasms than to write a mediocre blog that 
+  and what better way to exalt in our enthusiasms than to write a blog that 
   not a single soul will read?
   No better way!
 description2: >
-  This blog yaws from topic to topic, depending on my momentary amateur interests. There'll be some things about the environment, the media, social justice, creative writing, and maybe even physics...
+  This blog yaws from topic to topic, depending on my momentary amateur interests. There'll be some things about the environment, the media, social justice, creative writing, and maybe even physics. So far the theme has been that I choose a topic on which I have next to no expertise and try to write something not totally idiotic about it.
   
-# url: "Allium.github.io" # the base hostname & protocol for your site
-baseurl: "/WithoutHeadOrFoot" # the subpath of your site, e.g. /blog/
+baseurl: "/WithoutHeadOrFoot"
 url:	"catosandford.org"
-# baseurl: ""
 
 timezone: America/New_York
 
