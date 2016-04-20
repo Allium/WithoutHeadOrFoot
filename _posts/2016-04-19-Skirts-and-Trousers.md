@@ -73,7 +73,7 @@ And yet, to contradict myself a second time in as many paragraphs, these are the
 
 So much for my musings, let's get back to the interview. I expected that my thoughts, or at least something in their general direction, would be fairly standard among the (self-proclaimed) male respondents; and this indeed turned out to be the case. 
 
-(Before diving into the responses, I should clarify that I intended my interview questions to be a *little* vague, to give people the freedom to share their own experiences and thoughts, rather than having my agenda forced upon them. And it turns out that, of the handful who responded, a couple took me at my word, writing contemplative and carefully worded musings which came close to ignoring my questions altogether. This, together with the small sample size, means I can't really develop any consistent narrative: I simply need more data and more time and less data.)
+(Before diving into the responses, I should clarify that I intended my interview questions to be a *little* vague, to give people the freedom to share their own experiences and thoughts, rather than having my agenda forced upon them. And it turns out that, of the handful who responded, a couple took me at my word, writing contemplative and carefully worded musings which came close to ignoring my questions altogether. This, together with the small sample size, means I can't develop a robust and consistent narrative: I simply need more data and more time and less data.)
 
 
 ### Male Responses
@@ -94,7 +94,7 @@ Due recognition was given to the fact that our *conscious* experience of the wor
 
 The notion of cultural conditioning came up a few times, clothed in tones ranging from resignation to resentment. There was a common view that categorisation according to gender seems a superficial and misleading way of seeing the world.
 
-> Anytime I'm with another human being that isn't a close friend, I'm reminded of society's simplistic binary view of gender.
+> Any time I'm with another human being that isn't a close friend, I'm reminded of society's simplistic binary view of gender.
 
 (This is also consistent with my earlier points about gender awareness being a reflexion of others' expectations, and further that such categorisation are relevant only when a sense of personhood is not yet developed).
 A more abstract example of this is:
@@ -167,16 +167,16 @@ The personal-biological reason is simply that women might tend to be more aware 
 
 Moreover, for a twelve-year-old child to grow such conspicuous signifiers of sexual maturity as breasts and hips, is inevitably for their relationship with friends and strangers to change, sometimes in upsetting ways. This brings me to the next point: the predatory nature of some men in their interactions with women (or other men). It could be a single incident or a trait of character; and it could be anything from a lascivious glance on the street, to serious sexual violence like rape.
 
-How does this influence consciousness of one's gender? During an act of sexual violence, both attacker and victim will be powerfully aware of their gender at some level. But trauma, and the fear of potential trauma, gouges deeper into the psyche than mere lust (whether lust for sex or lust for power). So while the attacker is likely aware of the attack while it is happening, the victim -- indeed, the whole class of *potential* victims -- will be aware of the (potential) attack at all times.
+How does this influence one's consciousness of their gender? During an act of sexual violence, both attacker and victim will be powerfully aware of their gender at some level. But trauma, and the fear of potential trauma, gouges deeper into the psyche than mere lust (whether lust for sex or lust for power). So while the attacker is likely aware of the attack while it is happening, the victim -- indeed, the whole class of *potential* victims -- will be aware of the (potential) attack at all times.
 
 
 ### Visibility as a Prerequisite for Knowledge
 
-I shall move on to the final, societal factor. Consider historical gender roles, where women inhabit the "domestic" sphere, and men the "professional". By its very nature, the domestic sphere is private and relatively invisible to outsiders, while the professional sphere is public, worldly and visible -- for instance, you might read about it in the newspaper.
+I shall now address the final, societal factor. Consider historical gender roles, where women inhabit the "domestic" sphere, and men the "professional". By its very nature, the domestic sphere is private and relatively invisible to outsiders, whereas the professional sphere is public, worldly and visible -- for instance, one might read about it in the newspaper.
 
 An immediate consequence of the historical gender roles is that, (1) men are aware of their own sphere but have little knowledge of what women do and how they operate; and (2) women are aware of their own sphere (because they inhabit it) and furthermore they *do* understand something of what the life of a man entails.
 
-So in broad terms, whereas a woman knows she is not a man because she sees what men do, a man does not know he is a man because he is never exposed to an alternative. Thus, women will have a greater awareness of their own gender than men. And if we accept that even those women and men who in modern times have transcended their historical roles are nevertheless influenced by their persisting cultural imprints, we conclude that my central hypothesis should still hold today.
+So in broad terms, whereas a woman knows she is not a man because she sees what men do, a man does not know he is a man because he is never exposed to an alternative. Thus, women will have a greater awareness of their own gender than men. And if we accept that even those women and men who in modern times have transcended their historical roles are nevertheless influenced by persisting cultural imprints, we conclude that my central hypothesis should still hold today.
 
 
 ### Crowding in a Sphere
@@ -188,9 +188,9 @@ So in broad terms, whereas a woman knows she is not a man because she sees what 
 	</figcaption>
 </figure></div>
 
-When the thoughts expressed in the last section are seen in the context of developments over the last decades, they lead us to some interesting conclusions about the future of cultural perceptions and social policy. The various movements for women's rights and representation has been enormously successful in liberating them from their traditional roles (at least in some parts of the world). These gains, though hard-won and incomplete, have made it possible and moreover commendable for women to enter the professional world.
+When the thoughts expressed in the last section are seen in the context of developments over the last decades, they lead us to some interesting conclusions about the future of cultural perceptions and social policy. The various movements for women's rights and representation have been enormously successful in liberating them from their traditional roles (at least in some parts of the world). These gains, though hard-won and incomplete, have made it possible (and moreover commendable) for women to enter the professional world.
 
-Has the same transformation of expectations happened to men? Have men received sustained encouragement to enter the domestic / caregiving sphere? Undeniably yes -- just look at the social democracies of Scandinavia. But few would argue that these efforts have (rightly) been small compared to the programme for women. It is no accident that we see professional roles as *better*, as *more useful*, and as conferring more *social capital* than domestic roles; and as such the dialogue of women's liberation has focussed on the *promotion* of women out of their domestic drudgery, into positions of power and influence formerly restricted to men.
+Has the same transformation of expectations happened to men? Have men received sustained encouragement to enter the domestic / caregiving sphere? Undeniably yes -- just consider the social democracies of Scandinavia. But few would contest that these efforts have been small compared to the programme for women. It is no accident that we see professional roles as *better*, as *more useful*, and as conferring more *social capital* than domestic roles; and as such the dialogue of women's liberation has focussed on the *promotion* of women out of their domestic drudgery, into positions of power and influence formerly restricted to men.
 
 The vilification of domesticity has turned out to be a double-edged sword because it makes the path to betterment a one-way street. While women "ascend" to the professional sphere, men have no alternative but cling on to the status quo. From their perspective, their sole historical role of earning/providing is under attack by women who have the freedom of two options. (By the way, the title of this post, "Skirts and Trousers", alludes to the fact that women routinely wear both, whereas for a man to wear a skirt is an exceptional circumstance.) And it is no stretch to imagine that this increasing pressure at the "top" will result in a culture of resentment and competition in which men start with the upper hand. Inevitably this contributes to the toxic mess of misogyny which is all too common in the professional world and society at large. 
 
@@ -199,9 +199,9 @@ So my claim is that the hauteur of the professional breadwinning class has for t
 
 ### Trends in Unpaid Labour
 
-Encouragingly, economists have in recent years begun paying more attention to the value of unpaid domestic work (the majority of which is still done by women in Western industrialised democracies). For example, a [recent report](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/compendium/householdsatelliteaccounts/2005to2014/chapter1executivesummaryforhouseholdsatelliteaccount) from the UK government's Office of National Statistics found that, even if we ignore the shadow economy, upaid labour contributes £1 trillion ($1.4 trillion) to the UK economy annually. That's *half the country's GDP*; and the figure is rising. (For example, childcare by grandparents and other relatives account for over £300 billion of unpaid labour.)
+Encouragingly, economists have in recent years begun paying more attention to the value of unpaid domestic work (the majority of which is still done by women, "even" in Western industrialised democracies). For example, a [recent report](https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/compendium/householdsatelliteaccounts/2005to2014/chapter1executivesummaryforhouseholdsatelliteaccount) from the UK government's Office of National Statistics found that, even if we ignore the shadow economy, upaid labour contributes £1 trillion ($1.4 trillion) to the UK economy annually (for example, childcare by grandparents and other relatives accounts for over £300 billion). That's half the country's GDP; and the figure is rising. 
 
-Though I hesitate to advocate measuring the value of an occupation, service, or resource in purely monetary or fiscal terms, in this case it is heartening that an invisible workforce, unpaid, taken for granted, and utterly indispensable for the functioning of the traditional economy, is being recognised; and that their importance is being translated into the language of the political and economic mainstream.
+Though I hesitate to advocate measuring the value of an occupation, service, or resource in purely monetary or fiscal terms, in this case it is heartening to see that an invisible workforce, unpaid, taken for granted, and utterly indispensable for the functioning of the traditional economy, is finally being recognised; and that its importance is being translated into the language of the political and economic mainstream.
 
 Given that spending time with one's children and elderly relatives, doing home DIY projects, promoting community cohesion and environmental stewardship and the like, are actually among the most societally beneficial occupations; and given that they deliver a great deal of personal pleasure if financial pressures are removed, it seems like madness that they aren't rewarded somehow.
 
