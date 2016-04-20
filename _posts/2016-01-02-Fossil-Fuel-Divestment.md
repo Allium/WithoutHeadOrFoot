@@ -155,7 +155,7 @@ The important thing, though, is that the message gets through to the energy sect
 </div>
 
 
-<div class="comment" style="background-color: #E3E4FA;">
+<div class="comment" style="background-color: #FFF8C6;">
     <span class="name">Cato</span>
     <span class="date">15 February 2016, 10.12</span>
 <br>
@@ -163,8 +163,8 @@ The important thing, though, is that the message gets through to the energy sect
 	Since writing this post I've come across two further sources that might be of interest. They broadly agree with my conclusions, but with the advantage of expertise.
 <br>
 	<br>
-	First, [this article](https://theconversation.com/why-stranded-assets-matter-and-should-not-be-dismissed-51939), written by the Director of Oxford University's Stranded Assets Programme, provides a concise and compelling take on stranded assets and the surprising naivite of financial markets.
+	First, <a href="https://theconversation.com/why-stranded-assets-matter-and-should-not-be-dismissed-51939">this article</a>, written by the Director of Oxford University's Stranded Assets Programme, provides a concise and compelling take on stranded assets and the surprising naivite of financial markets.
 <br>
 	<br>
-	Second, [this research paper](http://www.scribd.com/doc/151150141/Betting-on-Climate-Failure-The-Ethics-and-Economics-of-Fossil-Fuel-Divestment) by University of Washington PhD student [Alex Lenferna](https://phil.washington.edu/people/alex-lenferna) assesses the divestment movement's potential impacts in both economic and ethical dimensions. While accepting that much of the dialogue of the movemnt is naive and dogmatic, it is still likely to hasten the bursting of the "carbon bubble". Furthermore, the author argues that the goals of the movement are consistent with widely-accepted philosophies of ethics.
+	Second, <a href="http://www.scribd.com/doc/151150141/Betting-on-Climate-Failure-The-Ethics-and-Economics-of-Fossil-Fuel-Divestment">this research paper</a> by University of Washington PhD student <a href="https://phil.washington.edu/people/alex-lenferna">Alex Lenferna</a> assesses the divestment movement's potential impacts in both economic and ethical dimensions. While accepting that much of the dialogue of the movemnt is naive and dogmatic, it is still likely to hasten the bursting of the "carbon bubble". Furthermore, the author argues that the goals of the movement are consistent with widely-accepted philosophies of ethics.
 </div>
