@@ -213,3 +213,24 @@ And to return to the original discussion, this is absolutely a gender issue: as 
 To summarise: I had an idea that women are more conscious of their gender than men are, and I asked my friends a bunch of questions to explore the issue further. I posited a few reasons (among many!) why this might be so, and ended up advocating a true appreciation of domestic roles as *not only* the crucial next step in the struggle for equality between women and men, but also as a way to improve the quality of life for everyone, allowing them to do what is socially important and personally enjoyable.
 
 Of course, the problem with any solution to social inequality is its sheer inadequacy. Attitudes toward, and inequalities of gender are multifaceted, they existing on personal, cultural and societal levels. Each such level demands its own plethora of interconnected interventions. The best we can do as individuals is to try to identify the root problems, and trace the consequences of putative solutions. And most importantly, keep these kinds of discussions alive.
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous (interview submission)</span>
+    <span class="date">21 April 2016, 13.32</span>
+<br>
+    <br>
+	<p>1. Gender fluid with bolt on male bias in some areas due to biological factors, social conditioning and social incentives/disincentives and female bias due to dissidence.</p>
+	<p>2. 7% self consciously influenced, 100% unconsciously influenced (including sleeping).</p>
+	<p>3. Unself-aware sexist consensus in newspaper headlines, friends, books, law etc.</p>
+	<p>Friend. 1. Feminine 2. 15% 3. Urge to reproduce 4. Infinite regress... 	</p>
+</div>
+
+
