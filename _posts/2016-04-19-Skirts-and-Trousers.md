@@ -65,7 +65,7 @@ So when I was thinking about the issues that were to eventually give rise to the
 
 Now this is not to say that my maleness is unimportant to me or that it doesn't affect my behaviour (though if you thought about the above questions, you may have been surprised at the difficulty in abstracting yourself from your self to put your finger on when it's *particularly* influential). I am certainly aware of gender, as a means of categorising humans, when thinking explicitly about some social question involving sexism or gender inequality. And my category is made obvious during such mundane tasks as choosing which public toilet to use, or filling out forms which demand to know one's sex.
 
-But I *feel* my gender most acutely in social situations: probably most of the time in male company, and probably all of the time in female company. From this it would seem that my self-awareness is a reflexion of my awareness of others.
+But I *feel* my gender most acutely in social situations: probably most of the time in the company of men, and probably all of the time in the company of women. From this it would seem that my self-awareness is a reflexion of my awareness of others.
 
 Paradoxically, though, the better I get to know someone, the less obvious their gender can become. When speaking with close friends or intimate partners, such categorisations may be temporarily irrelevant and superficial -- it is their person and their personhood that takes the foreground.
 
@@ -105,13 +105,13 @@ But in spite of these opinions about the fundamental meaninglessness of gender o
 
 > She thinks about her gender fairly often, especially in social situations. She'll realize people treat her in ways that she doesn't want and doesn't feel she deserves.
 
-> When I put myself in her shoes, as I try to do as often as possible when confronted with gender issues, I imagine that the gender dichotomy was presented at a very early age. It's easy for someone to go on without realizing their privileged position, but I imagine it's easier to realize your disadvantaged position. I also imagine that the topic of gender is brought to mind much more frequently than for someone who identifies as a male for the same reasons. Though probably much more severe, I imagine that it's similar to how I think about height more so than a tall person. Whenever I hear facts about how the average height of presidents or CEOs are a certain height, I can't help but wonder if that naturally gives me a disadvantage.
+> When I put myself in her shoes, as I try to do as often as possible when confronted with gender issues, I imagine that the gender dichotomy was presented at a very early age. It's easy for someone to go on without realizing their privileged position, but I imagine it's easier to realize your disadvantaged position. I also imagine that the topic of gender is brought to mind much more frequently than for someone who identifies as a man for the same reasons. Though probably much more severe, I imagine that it's similar to how I think about height more so than a tall person. Whenever I hear facts about how the average height of presidents or CEOs are a certain height, I can't help but wonder if that naturally gives me a disadvantage.
 
 I really like this last quote, as it nicely elucidates a point pertinent to all forms of inequality: it's invisible unless you are the victim. Indeed the principle applies quite broadly to any instance of ill fate -- for instance, you are most aware of health when you are ill.
 
 All this ties in with my original hypothesis: it would be natural to expect that women are more aware of gender because, as a group that have historically been barred from (or at least under-represented in) positions of societal influence, they may be more keenly aware of the privilege associated with gender.
 
-I'll return to my hypothesis later. Now let's hear how the self-identified females answered my questions.
+I'll return to my hypothesis later. Now let's hear how the self-identified women answered my questions.
 
 
 ### Female Responses
@@ -120,7 +120,7 @@ In the last section we briefly contemplated the view that the whole male/female 
 
 (Race is another obvious example. Though we may believe it fundamentally wrong to make distinctions (socially and legally) between people of different races, the fact is that our culture has accorded immense importance to skin colour, and, as I have [noted before](% post_url 2015-12-20-Ethics-and-Science %), we should respond to how things are in reality rather than our counterfactual idealisations of how they ought to be.)
 
-Some points made in the female responses have already been covered in the last section, and it seems unnecessary to discuss them all again. So we have another irony, this time of a darker hue: once more the women get less credit for their contribution. (I hope you'll understand that I started with men because that's closest to my experience and I'm in charge of the blog. But since writers throughout history have typically been men (and one could further claim they have been men writing about important "men-things"), and since they too would feel this ordering more natural for them, inevitably a deeper cultural trend emerges where the male perspective is seen as the "default", while the female perspective is additional, contrasting or even anomalous. So yeah, perhaps I should have started in less familiar territory to make a point (a feeble point, but a point nonetheless). But I didn't and we should get on with the survey. The women have plenty to say.)
+Some points made in the women's responses have already been covered in the last section, and it seems unnecessary to discuss them all again. So we have another irony, this time of a darker hue: once more the women get less credit for their contribution. (I hope you'll understand that I started with men because that's closest to my experience and I'm in charge of the blog. But since writers throughout history have typically been men (and one could further claim they have been men writing about important "men-things"), and since they too would feel this ordering more natural for them, inevitably a deeper cultural trend emerges where the male perspective is seen as the "default", while the female perspective is additional, contrasting or even anomalous. So yeah, perhaps I should have started in less familiar territory to make a point (a feeble point, but a point nonetheless). But I didn't and we should get on with the survey. The women have plenty to say.)
 
 On the central question of gender-self-consciousness, the responses that I got from women were more mixed: from
 
@@ -155,13 +155,13 @@ A nicely-balanced anecdote, whose levity one can enjoy while nevertheless being 
 
 ### Potential Underpinnings
 
-Though there was a good deal more interesting material in the interview submissions, in the interests of narrative and brevity I shall move on to the next bit, pausing only to make a couple of remarks in summary. While the male respondents by and large came across as personally indifferent to gender (which perhaps allowed them to take a more abstracted view of the issue), the female respondents all had at least one negative thing to say about their experience of being female. No women said anything explicitly *positive* about being women (which I hope is because we all naturally think of the bad stuff, and not because all women hate being women). That said, the men didn't either, except in some cases to acknowledge that they might have benefited from cultural favouritism.
+Though there was a good deal more interesting material in the interview submissions, in the interests of narrative and brevity I shall move on to the next bit, pausing only to make a couple of remarks in summary. While the male respondents by and large came across as personally indifferent to gender (which perhaps allowed them to take a more abstracted view of the issue), the female respondents all had at least one negative thing to say about their experience of being female. No woman said anything explicitly *positive* about being a woman (which I hope is because we all naturally think of the bad stuff, and not because all women hate being women). That said, the men didn't either, except in some cases to acknowledge that they might have benefited from cultural favouritism.
 
 In the answers from both categories there was, implicitly or explicitly, an understanding that one's *personal* experience of gender and the effects of being categorised into a gender by others are two very different things. The former being much more difficult to tease out, I was pleased that everyone made really interesting points.
 
 Limited though my data were, I feel justified in pressing on with my hypothesis -- that women tend to be more aware of being women than men are of being men. Now I have to come up with an explanation.
 
-We already encountered consciousness of privilege as one possible factor, and I'm sure you can come up with a plethora of others (as usual I'd be delighted if you left your views in the comments box). For now, I'll touch upon three possibilities: one of a personal-biological nature, one which is more cultural, and one concerning the historical structure of society. (None of them are that convincing, but hopefully food for thought.)
+We already encountered consciousness of privilege as one possible factor; and I alluded to an idea that the female perspective is regarded as anomalous or secondary, which would certainly make women more aware of their gender. and I'm sure you can come up with a plethora of others (as usual I'd be delighted ,if you left your views in the comments box). For now, I'll touch upon three possibilities: one of a personal-biological nature, one which is more cultural, and one concerning the historical structure of society. (None of them are that convincing, but hopefully food for thought.)
 
 The personal-biological reason is simply that women might tend to be more aware of their *bodies*. Puberty occurs at an earlier age for girls than for boys, and is arguably more extreme. I'm talking periods, pads and tampons, the (sometimes debilitating) cramps, the various fluids that appear in underpants. And all this is to say nothing of the incomprehensible realisation that, yes, you can grow another human inside you. The occasional embarrassing erection or wet dream doesn't come close to this level of bodily disruption (though the squeaking while your voice breaks can be dreadfully embarrassing).
 
@@ -231,6 +231,38 @@ Of course, the problem with any solution to social inequality is its sheer inade
 	<p>2. 7% self consciously influenced, 100% unconsciously influenced (including sleeping).</p>
 	<p>3. Unself-aware sexist consensus in newspaper headlines, friends, books, law etc.</p>
 	<p>Friend. 1. Feminine 2. 15% 3. Urge to reproduce 4. Infinite regress... 	</p>
+</div>
+
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Cato</span>
+    <span class="date">21 April 2016, 12.01</span>
+<br>
+    <br>
+	<p>I should mention that my comments about the superior status of the professional over the domestic sphere apply more broadly. For example, it is generally okay for girls/women to do "man-type" things (like playing with trucks or wearing trousers). These behaviours which make women more like men are seen as an "upgrade". Contrast this with a boy who plays with dolls and handbags, or a man who wears dresses: these males will be seen as ridiculous, because such behaviours are "degrading". It's the same dynamic I was trying to expose in the context of gender work-roles.</p>
+</div>
+
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous</span>
+    <span class="date">21 April 2016, 21.08</span>
+<br>
+    <br>
+	<p>
+	You noted that the interview responses from women tended to focus on the negative. While (from experience) I agree with their points, there is nevertheless incredible <i>strength</i> in embracing all the wild sexy turbulence accompanying womanhood and femininity.
+	</p>
+</div>
+
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Cato</span>
+    <span class="date">22 April 2016, 23.45</span>
+<br>
+    <br>
+	<p>I was a tiny bit sloppy in my terminology, conflating (as is commonly done) words which denote <i>sex</i> with words describing <i>gender</i>, and even throwing a couple of <i>sexuality</i> terms in there too. The following is my understanding of these terms.</p>
+	<p><i>Sex</i> is the biological fact of having either two X-chromosomes, a uterus, a vagina, etc. (female); or an X and a Y chromosome, a penis, etc. (male); <i>or</i> being in the somehwat broad category of a hermaphrodite.</p>
+	<p><i>Gender</i> is a signifier of an individual's status and role <i>in a particular culture</i>, as well as how they behave, what clothes they wear, etc. Gender is often predicated on sex, but the difference is that the expectations placed on "women" and "men" vary a great deal around the world. Furthermore, gender is not restricted to the binary categorisations of men and woman -- there are many examples of "third genders" from other cultures. For example, the Zuni people of New Mexico have a gender called <a href="http://www.ratical.org/many_worlds/onlyDifferent.html">la'mana</a>, which is where a male-bodied person takes up a different role in society than that of a "man". A la'mana is not a man pretending to be a woman: she/he is a completely separate category, with a different role in society. To the Zuni, nothing is more natural than this ternary classification.</p>
+	<p><i>Sexuality</i>, finally, describes sexual / romantic attraction. The most common categories here are "heterosexual", "homosexual", and "bisexual". But the definitions and implications of these categories are again highly culture-dependent -- as are the consequences of professing a particular sexuality.</p>
 </div>
 
 
