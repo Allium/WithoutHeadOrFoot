@@ -163,7 +163,7 @@ Limited though my data were, I feel justified in pressing on with my hypothesis 
 
 We already encountered consciousness of privilege as one possible factor; and I alluded to an idea that the female perspective is regarded as anomalous or secondary, which would certainly make women more aware of their gender. and I'm sure you can come up with a plethora of others (as usual I'd be delighted ,if you left your views in the comments box). For now, I'll touch upon three possibilities: one of a personal-biological nature, one which is more cultural, and one concerning the historical structure of society. (None of them are that convincing, but hopefully food for thought.)
 
-The personal-biological reason is simply that women might tend to be more aware of their *bodies*. Puberty occurs at an earlier age for girls than for boys, and is arguably more extreme. I'm talking periods, pads and tampons, the (sometimes debilitating) cramps, the various fluids that appear in underpants. And all this is to say nothing of the incomprehensible realisation that, yes, you can grow another human inside you. The occasional embarrassing erection or wet dream doesn't come close to this level of bodily disruption (though the squeaking while your voice breaks can be dreadfully embarrassing).
+The personal-biological reason is simply that women might be more aware of their *bodies*. Puberty occurs at an earlier age for girls than for boys, and is arguably more extreme. I'm talking periods, pads and tampons, the (sometimes debilitating) cramps, the various fluids that appear in underpants. And all this is to say nothing of the incomprehensible realisation that, yes, you can grow another human inside you. The occasional embarrassing erection or wet dream doesn't come close to this level of bodily disruption (though the squeaking while your voice breaks can be dreadfully embarrassing).
 
 Moreover, for a twelve-year-old child to grow such conspicuous signifiers of sexual maturity as breasts and hips, is inevitably for their relationship with friends and strangers to change, sometimes in upsetting ways. This brings me to the next point: the predatory nature of some men in their interactions with women (or other men). It could be a single incident or a trait of character; and it could be anything from a lascivious glance on the street, to serious sexual violence like rape.
 
@@ -248,7 +248,7 @@ Of course, the problem with any solution to social inequality is its sheer inade
 <br>
     <br>
 	<p>
-	You noted that the interview responses from women tended to focus on the negative. While (from experience) I agree with their points, there is nevertheless incredible <i>strength</i> in embracing all the wild sexy turbulence accompanying womanhood and femininity.
+	There is incredible strength in embracing all the wild sexy turbulence accompanying womanhood and femininity.
 	</p>
 </div>
 
