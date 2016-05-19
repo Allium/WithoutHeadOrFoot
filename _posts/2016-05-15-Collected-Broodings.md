@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Our Selves, and Other Travesties
-tags:	[whimsy]
+tags:	[whimsy, psychology]
 ---
 
 A consortium of quasi-disconnected, quasi-anguished broodings.
@@ -12,13 +12,13 @@ We are laughable creatures, aren't we? Our convictions, our pitiful pecadillos e
 
 What's worse is that it's all a masquerade, a collective self-deception whereby we flee the uncomfortable truth: yes, each one of has, wincing, mincing, squinting into the glorious void, momentarily flayed our superficial consciousness from its anchor, the ego, to find that our precious lived reality is of *utter inconsequence*.
 
-The arbitrary pointlessness of existence would crush us, so we run, we drown its rumble with whoops and sobs and cackles and screams and love... But there is another possibilitiy! We could accept that the root of the pointlessness lies not in our *lives* but in our *system of values*. Bizarrely, we are infinitely more willing to relegate our lives and our agency to meaningless fumbling, than question our mental framework for understanding and evaluating the world. Why? Why can't we begin with *ourselves* as the centre of a cosmos whose web of logic and morality emanate from *us*? The burden of justification could then be shifted from me, to anything that is not me.
+The arbitrary pointlessness of existence would crush us, so we run, we drown its rumble with whoops and sobs and cackles and screams and love... But there is another possibilitiy! We could accept that the root of the pointlessness lies not in our *lives* but in our *system of values*. Bizarrely, we are more willing to relegate our lives and our agency to meaningless fumbling, than we are to question our mental framework for understanding and evaluating the world. Why? Why can't I begin with *myself* as the centre of a cosmos whose webs of logic and morality emanate from *me*? The burden of justification could then be shifted from me, to anything that is not me.
 
 In fact there were ages of humanity where this view prevailed (and it still survives in pockets). But such is our species' thirst for externalisation that we create powerful spirits and gods to haul the burden back onto ourselves. We are psychologically incapable of *being* the meaning of our own lives; our joys and sufferings must have causes beyond us -- indeed, they must have *witnesses* beyond us, because nothing is more abhorrent to us than (a) ultimate responsibility, and (b) a vacuum of communion.
 
 The dislocation continues: today cosmology, evolutionary biology, and abstract maths have recomposed reality in tones of ahuman objectivity. Today we are truly annihilated.
 
-But what if we were to try reclaim consequence? Now we know where mankind went wrong in the past, we could attempt to centralise, sparing ourselves the perpetual lie that is our present existence [the lie that we have worth, when all evidence under our system of values says otherwise]. Can we reject the values and psychology that have been carefully sculpted over millennia? Perhaps the greatest gift of our ancestors was the power to destroy their gifts; to overcome ourselves. In so doing we can vanquish despair and truly grasp life.
+But what if we were to try reclaim consequence? Now we know where mankind went wrong in the past, we could attempt to centralise, sparing ourselves the perpetual lie that is our present existence [the lie that we have worth, when all evidence under our system of values says otherwise]. Can we reject the values and psychology that our forbears have, over millennia, so carefully sculpted for our benefit? I say yes. I say the greatest gift our ancestors have given us is the power to destroy their gifts, their edifices; the power to overcome ourselves and what they have made of us. Only in so doing can we vanquish despair and truly grasp life.
 
 True, judged by any present standards, such action will condemn us to monstrosity. But judged by any present standards, we are already monsters.
 
