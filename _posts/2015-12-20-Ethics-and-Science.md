@@ -9,6 +9,8 @@ In every post I've written, I wrestle with the urge begin with a disclaimer abou
 
 I really have no idea about anything.
 
+Nevertheless, in this post, I will introduce and discuss two major approaches to making moral judgements, and then ask what are the implications of these theories for the pursuit of science in general. I suppose my main conclusions are that pragmatism (in the colloquial sense) is fraught with potential dangers, but under the circumstances might be the best option; and that science is also fraught with dangers, and might not be the best option.
+
 ### Ethics
 
 Recently at ISC (I'll have to write a post about ISC at some point), Alex Breitweser brought up the distinction between Kantian and utilitarian ethics. According to my embarrassingly superficial understanding, Kant, a "deontologist", held that the morality of a deed can only be judged on the basis of the doer's *intentions*. Contrast this with the theories of Bentham and Mill, who believed that the rightness or wrongness of an act is determined solely by its tangible *effects* ("consequentialism") -- and moreover, on the benefits or costs those might bring to society at large ("utilitarianism").
@@ -43,12 +45,14 @@ More importantly for me however, is that even if they *did* mean well, the disco
 
 So, both the approaches I have outlined are powerless to adequately resolve ethical questions (though for different reasons). Utilitarianism suffers on the one hand from subjectivity in judging the utility goal, and on the other from overwhelming choice in the utility function -- choice which the theory is ill-equipped to restrict without broad evidence-based historical analysis. So, though utilitarianism is a nice punchy principle, in an unpredictable world containing more than one person, the morality it prescribes seems most unsatisfactory. Kant, for his part, gives us a theory whose conceptual roots (which I didn't address) are deeply founded upon reason -- so deep that he seems to reject empiricism altogether, while failing to observe that humans are not rational. A theory so dislocated from the world has no business teaching us how to live in it.
 
-These theoretical oversights are ripe for exploitation, failing as they do to penalise negligence when formulating our intentions, our goals and our actions. For instance, a government which is dedicated to public healthcare might, inadvertently or advertently, make it impossible for competing private healthcare to be economically viable, leading to a state monopoly. Ten years down the line, a new government finds it necessary for whatever reason to cut the national budget, and people find themselves coping with a dysfunctional underfunded public service, with no alternative. Had the first government done more research, it would have found that state monopolies not only frequently underperform compared to services in a competitive environment, but furthermore that they are very risky because states and national finances can fail unexpectedly. That was a long-winded and indirect way of saying that *we must accept the world as it is and not our self-serving / expedient idealisations of it*. We must incorporate *pragmatism* into morality.
+These theoretical oversights are ripe for exploitation, failing as they do to penalise negligence when formulating our intentions, our goals and our actions. For instance, a government which is dedicated to public healthcare might, inadvertently or advertently, make it impossible for competing private healthcare to be economically viable, leading to a state monopoly. Ten years down the line, a new government finds it necessary for whatever reason to cut the national budget, and people find themselves coping with a dysfunctional underfunded public service, with no alternative. Had the first government done more research, it would have found that state monopolies not only frequently underperform compared to services in a competitive environment, but furthermore that they are very risky because states and national finances can fail unexpectedly.
+
+That was a long-winded and indirect way of saying that *we must accept the world as it is and not our self-serving / expedient idealisations of it*. We must incorporate *pragmatism* into morality. I do not for a moment deny that non-idealist systems of thought are easily corrupted and made monstrous; but I see no better alternative.
 
 
 ### Science
 
-Finally the good stuff. How does science come into this discussion?
+Moving on, finally, to the good stuff: how does science come into this discussion?
 
 Well, the question of how much responsibility scientists should take for the outcomes of their research is one that goes back well before Frankenstein. In this context, it is not uncommon to hear the sentiment that pure knowledge has *no inherent morality* -- in different hands it can be used for good or for evil. In the Kantian interpretation, this amorality would seem to excuse scientists from any censure (as long as their methods respect the tenets of the Categorical Imperative and do not infringe upon human rights).
 
@@ -59,7 +63,7 @@ A credible argument for science must therefore prove that it is *good* rather th
 With this in mind, if we return to my "Kantian" picture of morality, things don't look so promising for the scientists -- it is now clear that for them to believe their trade morally neutral is a (wilful?) negligence: a self-serving self-deception based on a hollow and counterfactual faith in humanity.
 The pessimist might say that, like Doctor Frankenstein, we're in a constant race against our creations, perpetually battling to contain our  thoughtlessly thoughtful meddling. The fact that we've survived this far guarantees precisely zero about our future prospects.
 
-Anyway, I've ventured onto well-trodden territory and should move on. I suppose the broad conclusion, which was obvious well before you started reading this, is that the moral case for science as a whole has some pretty dicey areas.
+Anyway, I've now ventured onto well-trodden territory. I suppose the broad conclusion, which was obvious well before you started reading this, is that the moral case for science as a whole has some pretty dicey areas.
 
 
 #### But this is what I really came here to say
