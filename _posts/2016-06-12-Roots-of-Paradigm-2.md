@@ -12,11 +12,11 @@ tags:	[philosophy, science, history, anthropology]
 
 ### Separationism
 
-It is often remarked that Western philosophy is more individualist than Eastern philosophy. This post explores what "Western individualism" might mean, how it manifests, and how it has developed over time.
+It is often remarked that Western philosophy is more individualist than Eastern philosophy. With a particular meaning of "Western individualism" in mind, this post explores some of its historical manifestaitons and developments.
 
-I consider three contributing factors. The first concerns the apprehension of persons (and things) as entities fundamentally distinct from one another; the second concerns the Scientific Revolution's analytic-reductionist approaches to philosophy and natural philosophy; and the third is the tradition of "adversarialism" and conflict in Western culture.
+I consider three main themes. The first concerns the apprehension of persons (and things) as entities fundamentally distinct from one another; the second concerns the Scientific Revolution's analytic-reductionist approaches to philosophy and natural philosophy; and the third is the tradition of adversarialism in Western culture.
 
-As we shall see, these factors developed very much in response to one another. And I'll further argue that they share an underlying unity which makes this connexion inevitable. For want of a better term, and in thrall to the beauty of the oxymoron, I'll call that unity "separationism", meaning the tendency to separate and delineate.
+As we shall see, at times these factors developed in concert. I'll further argue that their connexion is inevitable, as their foundations share an underlying unity of perspective. For want of a better term, and in thrall to the beauty of the oxymoron, I'll call that unity "separationism", meaning the tendency to separate and delineate.
 
 
 <!-- ========================================================================== -->
