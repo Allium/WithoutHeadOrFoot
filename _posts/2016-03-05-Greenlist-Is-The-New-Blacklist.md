@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Greenlist is the New Blacklist
-tags:	[environment, climate, politics]
+tags:	[environment, climate, politics, NGO]
 ---
 
 ### Berta Cáceres, Rubber, Annihilation, Dams

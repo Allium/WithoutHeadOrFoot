@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	The Three Sisters
-tags:	[agriculture, environment, charity]
+tags:	[agriculture, environment, NGO]
 ---
 
 I was first introduced to "The Three Sisters" last summer while assisting at [Root Camp](http://www.rootcamp.co.uk/) back in the UK. I met them once more a month ago when helping to shovel compost and clear weeds for [Edible Schoolyards NYC](http://www.edibleschoolyardnyc.org/).
