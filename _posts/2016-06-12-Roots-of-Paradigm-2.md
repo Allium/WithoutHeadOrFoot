@@ -4,7 +4,7 @@ title:	The Roots of Paradigm &mdash; II. Western Philosophy
 tags:	[philosophy, science, history, anthropology]
 ---
 
-*Note: this is part two of a four-part series. Part one can be found [here](./2016-06-11-Roots-of-Paradigm-1.html).*
+*Note: this is part two of a four-part series. Part one can be found [here]({{site.baseurl}}/2016-06-11-Roots-of-Paradigm-1.html).*
 
 <!-- ========================================================================== -->
 
