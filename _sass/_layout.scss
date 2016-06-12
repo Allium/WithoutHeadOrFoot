@@ -271,3 +271,117 @@
 .comment .date {
     float:right
 }
+
+
+/* 
+ * Expanding sections
+*/
+
+/* https://stackoverflow.com/questions/16500907/collapsible-panel-in-html-css */
+/* <div class="expanding_section">
+    <a href="#hide1" class="hide" id="hide1">+</a>
+    <a href="#show1" class="show" id="show1">-</a>
+    <div class="question"> Question Question Question Question Question Question Question Question Question Question Question? </div>
+        <div class="answer">
+            <p>Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer Answer </p>
+        </div>
+</div> */
+
+
+.expanding_section { 
+    vertical-align: top; 
+    height:auto !important; 
+}
+.answer {
+    display:none; 
+    height:auto;
+    margin:0;
+    float: left;
+    margin-left: 35px;
+	padding-left: 6px;
+	padding-right: 6px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+	background-color: #E3E4FA; /* #F0F8FF; #D1D0CE; */
+}
+.show {
+    display: none; 
+}
+.hide:target + .show {
+    display: inline; 
+}
+.hide:target {
+    display: none; 
+}
+.hide:target ~ .answer {
+    display:inline; 
+}
+
+/*style the (+) and (-) */
+.hide, .show {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    font-size: 15px;
+	font-style: bold;
+    color: #fff;
+    /* text-shadow: 0 1px 0 #666; */
+    text-align: center;
+    text-decoration: none;
+    /* box-shadow: 1px 1px 2px #000; */
+    background: #cccbbb;
+    opacity: .8;
+    margin-right: 0;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.hide:hover, .show:hover {
+    color: #eee;
+    /* text-shadow: 0 0 1px #666; */
+    text-decoration: none;
+    /* box-shadow: 0 0 4px #222 inset; */
+    opacity: 1;
+    margin-bottom: 10px;
+}
+
+.answer p{
+    height:auto;
+    margin:0;
+}
+.question {
+    float: left;
+    height: auto;
+    width: 90%;  /* otherwise sgd */
+    line-height: 20px;
+    padding-left: 20px;
+    padding-right: 30px; /* to prevent next-line creep */
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+
+
+/* 
+ * Prev / next arrow
+*/
+/* http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html */
+
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
