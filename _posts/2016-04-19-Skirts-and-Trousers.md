@@ -266,3 +266,18 @@ Of course, the problem with any solution to social inequality is its sheer inade
 </div>
 
 
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Cato</span>
+    <span class="date">12 July 2016, 12.15</span>
+<br>
+    <br>
+	<p>One of my main contentions in this post was that awareness of one's gender is connected to the publicity of traditional gender roles. It would be interesting to actually test this using some sort of comparison.</p>
+<br>
+    <br>
+	<p>For instance, prior to the Industrial Revolution, both communities and work was less centralised, with production taking place in and around the home rather than in offices and factories. We might therefore expect that, at least among the common people, the visibility of the spheres was more equal &ndash; even if the genders were not.</p>
+<br>
+    <br>
+	<p>I doubt any testimonies from that time exist about people's perceptions of (what today we call) gender. But if they did, it might shed some light on the validity of my theory.</p>
+</div>
+
