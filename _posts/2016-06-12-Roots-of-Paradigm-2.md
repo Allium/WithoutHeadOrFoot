@@ -4,7 +4,7 @@ title:	The Roots of Paradigm &mdash; II. Western Philosophy
 tags:	[philosophy, science, history, anthropology]
 ---
 
-*Note: this is part two of a four-part series. Part one can be found [here]({{site.baseurl}}/2016/06/11/Roots-of-Paradigm-1.html).*
+*[This is part two of a four-part series. Part one can be found [here]({{site.baseurl}}/2016/06/11/Roots-of-Paradigm-1.html).]*
 
 <!-- ========================================================================== -->
 
@@ -16,7 +16,7 @@ It is often remarked that Western philosophy is more individualist than Eastern 
 
 I consider three main themes. The first concerns the apprehension of persons (and things) as entities fundamentally distinct from one another; the second concerns the Scientific Revolution's analytic-reductionist approaches to philosophy and natural philosophy; and the third is the tradition of adversarialism in Western culture.
 
-As we shall see, at times these factors developed in concert. I'll further argue that their connexion is inevitable, as their foundations share an underlying unity of perspective. For want of a better term, and in thrall to the beauty of the oxymoron, I'll call that unity "separationism", meaning the tendency to separate and delineate.
+As we shall see, at times these factors developed in concert. I'll argue that this connexion is inevitable, as their foundations share an underlying unity of perspective. For want of a better term, and in thrall to the beauty of the oxymoron, I'll call that unity "separationism", meaning the tendency to separate and delineate.
 
 
 <!-- ========================================================================== -->
@@ -45,7 +45,7 @@ Despite today's ongoing disengagement from the conventional strictures of organi
 		What might Nietzsche say about this? [Click the disc!]
 	</div>
 	<div class="answer">
-		<p style="font-style: italic;">[Some readers have advised me to rein in my tangential style, and focus more on getting to the point. I must say that for me the tangents frequently <span style="font-style:normal">are</span> the point; but it's a fair criticism. I'm experimenting now with putting my more flagrant asides in collapsible sections to indicate that they can be skipped with only moderately dire consequences.]</p>
+		<p style="font-style: italic;">[Some readers have advised me to rein in my tangential style, and focus more on getting to the point. I must say that for me the tangents frequently <span style="font-weight:bold">are</span> the point; but it's a fair criticism. I'm experimenting now with putting my more flagrant asides in collapsible sections to indicate that they can be skipped with only moderately dire consequences.]</p>
 		<br>	
 		<p>Friedrich Nietzsche might have seen this as evidence of our innate tendency to seek the abstract, to pry ourselves away from our lived breathing reality, and to torment ourselves with the perfect and the divine.</p>
 		<br>
@@ -186,9 +186,9 @@ Anyway, with the body thus reduced to a mere puppet of an imperfect mind, our co
 
 <!-- ========================================================================== -->
 
-### A Pause to Re-orient
+### A Pause to Breathe
 
-Let's pause to re-cap and re-orient. I started out talking about what I termed "separationism", which merely describes an outlook which tends towards demarcation and categorisation. Now we have seen several instances where separationism has governed Western conceptions of the world.
+Let's re-cap. I started out talking about what I termed "separationism", which merely describes an outlook which tends towards demarcation and categorisation. Now we have seen several instances where separationism has governed Western conceptions of the world.
 
 Perhaps the most obvious manifestation of separationism is in personal individualism &ndash; the conviction that people are entities distinct from one another. According to the likes of Socrates and the Abrahamic God the distinction was encapsulated in eternal indivisible souls. The later semi-idealist theories of Descartes, while dispensing with the soul, still retained the essential element of distinguishing each ego as intrinsically different from all the others.
 
@@ -204,7 +204,7 @@ Another thing these theories have in common is the separation of body from soul 
 	</div>
 	<div class="answer">
 		<p>
-		The existentialist philosophies of S&oslash;ren Kierkegaard and others are marked by the torment of a dreadful weight &ndash; the weight of individual responsibility for each moment one's life. So in a sense they were extreme individualists. (And in a sense Kierkegaard was a trans-individualist; for though he defined human existence in terms of each individual's curation of its self, he simultaneously strove to be as many selves as possible. Or something like that.)
+		The existentialist philosophies of S&oslash;ren Kierkegaard and others are marked by the torment of a dreadful weight &ndash; the weight of individual responsibility for each moment one's life. So in a sense they were extreme individualists. (But one could also argue that Kierkegaard was a trans-individualist; for though he defined human existence in terms of each individual's curation of its self, he simultaneously strove to explore as many selves as possible. Or something like that.)
 		</p>
 	</div>
 </div>
@@ -237,7 +237,7 @@ If this still isn't clear, I'm hoping things will improve in the next installmen
 		Individualism and Conflict
 	</div>
 	<div class="answer">
-		<h3 style="font-style: normal">Me Against Not Me, and Me Against Nature</h3>
+		<h3 style="font-style: normal">Me Versus Not-Me; Me Versus Nature</h3>
 
 		<p style="font-style: italic">[This section considers some ways that conflict is related to what's been discussed so far. But the post is already long, and since this isn't quite so relevant to the main story, I'm treating it as a hefty aside.]</p>
 		<br>
