@@ -64,3 +64,24 @@ The effects of climate change will be felt very differently depending on global 
 So, in the face of global strife and mass dislocation, what humanitarian action can we expect from wealthy governments who undermined attempts to address environmental degradation and its concomitant global justice ramifications? I asked the author Amitav Ghosh this question, and his response included a most evocative phrase (on par with militarised adaption): "the armed lifeboat". No prizes for guessing [who gets to sit in the lifeboat and who gets to drown](http://www.sciencedirect.com/science/article/pii/S0030438707000786).
 
 Whether we call it a militarised adaption or an armed lifeboat, we are already seeing it in action: refugees from war and atrocities in the Middle East continue to be dogmatically repelled from European borders. I fear this is but a bitter rehearsal, and the real performance is yet to come. I hope we can do better next time.
+
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Cato</span>
+    <span class="date">20 June 2016, 10.03</span>
+<br>
+    <br>
+	<p><a href="http://www.reuters.com/article/us-global-landrights-violence-idUSKCN0Z601U?il=0">This short article</a> (published 19th June 2015) reports further on violence towards environmental and land rights activists.</p>
+<br>
+    <br>
+	<p><a href="https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier">A recent development</a> about the Hunduran mlitary's involvement in Berta C&aacute;ceres' murder.</p>
+</div>
+
