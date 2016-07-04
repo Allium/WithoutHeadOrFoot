@@ -186,7 +186,7 @@ Soil health in particular has been severely hit by excessive use of such agriche
 
 This brings us back to Golden Rice, which, deeply tied to the industrial resource-intensive monoculture model of agriculture, may only be excerbating the underlying problem of crop and diet diversity. I find it shameful that the scientists who signed the open letter have been duped into the West's collective obsession with hi-tech neoliberal solutions, when there are plentiful farmer-oriented alternatives for combating vitamin A deficiency. For instance, green vegetables and even other (established, non-patented) variteites of rice which would grow well in regions where VAD is acute contain abundant vitamin A. We should be putting money into schemes to sustainably help poor rural farmers, rather than pouring it into making them dependent on unsustainable, resource-intensive, corporate solutions.
 
-Thus the focus must be on helping poor farmers to diversify their subsistence crops. Perhaps this means access to information and training in sustainable farming practices (which may have been lost during industralisation); perhaps it means improving weather forecasts and access to markets; perhaps it means access to capital to invest in local infrastructure; but it almost certainly means securing land rights and decision-making power over what to grow and how. Indeed, many small-scale farmers in developed countries would benefit from similar innovations. Of course, none of this is profitable for agribusiness, who have been known to invest in monopolising agricultural information in rural areas.
+Thus the focus must be on helping poor farmers to diversify their subsistence crops. Perhaps this means access to information and training in sustainable farming practices (which may have been lost during industralisation); perhaps it means improving weather forecasts and access to markets; perhaps it means access to capital to invest in local infrastructure; but it almost certainly means securing land rights and decision-making power over what to grow and how. Indeed, many small-scale farmers in developed countries would benefit from similar innovations. But none of this is profitable for agribusiness, who do better to  monopolise agricultural information in rural areas.
 
 In presenting GM technology as the only option, the Nobel laureates reinforce the story that agritech companies want us to hear. But it is neither the only option, nor even the best option. Unfortunately it is an easy option for us in the developed world, as we profit from our institutions' predations while dismissing our responsibility for / remaining carefully ignorant of their actions far from home.
 
@@ -196,12 +196,24 @@ Now, there may come a day when GM crop science is advanced enough to deliver tan
 
 ### Broader Patterns
 
-Of course, some of these latter remarks apply beyond agribusiness (in a future post, I intend to discuss a relevant issue with finance institutions). But one my credibly claim that nowhere are such patterns of more immediate consequence than where they impact on food, hunger and nutrition.
+Some of my latter remarks about corporate behaviour apply beyond agribusiness (in a future post, I intend to discuss a relevant issue with finance institutions). But one my credibly claim that nowhere are such patterns of more immediate consequence than where they impact on food, hunger and nutrition.
 
 And though my take has inevitably been simplistic, I'm pleased that in one day's writing I have done a more thorough job than 110 Nobel laureates. Whether their letter's shortcomings were down to ignorance or disingenuousness (and in this case I don't know which is worse).
 
-This goes to show that eminent scientists, even those who proclaim that science is primarily a process of knowledge acquisition rather than a body of established fact, may still end up conflating the two. In seeing only the idealised "scientific case" for GM agriculture, while failing to apply their critical faculties to the wider issues of social institutions and human wellbeing, they reveal a disappointingly weak grasp of reality.
+This goes to show that eminent scientists, even those who proclaim that science is primarily a process of knowledge acquisition rather than a body of established fact, may still end up conflating the two. In seeing only the idealised "scientific case" for GM agriculture, while failing to apply their critical faculties to the wider issues of social institutions and human wellbeing, they expose a disappointingly weak grasp of reality.
 
-<!-- 
-GP vandalism
- -->
+
+<!-- ====================================================================== -->
+<!-- ====================================================================== -->
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Cato</span>
+    <span class="date">03 July 2016, 23.58</span>
+<br>
+    <br>
+	<p>I very much enjoyed <a href="http://viacampesina.org/en/index.php/main-issues-mainmenu-27/biodiversity-and-genetic-resources-mainmenu-37/2090-opinion-traditional-crops-keep-our-culture-alive">this short article</a>, written by a Zimbabwean farmer, which illustrates some issues surrounding food sovreignty, local traditions, and failed experiments with agritechnology.
+	</p>
+</div> 

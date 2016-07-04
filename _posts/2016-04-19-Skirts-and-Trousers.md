@@ -269,7 +269,7 @@ Of course, the problem with any solution to social inequality is its sheer inade
 
 <div class="comment" style="background-color: #E3E4FA;">
     <span class="name">Cato</span>
-    <span class="date">12 July 2016, 12.15</span>
+    <span class="date">12 June 2016, 12.15</span>
 <br>
     <br>
 	<p>One of my main contentions in this post was that awareness of one's gender is connected to the publicity of traditional gender roles. It would be interesting to actually test this using some sort of comparison.</p>
