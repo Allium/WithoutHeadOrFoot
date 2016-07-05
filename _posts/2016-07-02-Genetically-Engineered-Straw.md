@@ -55,7 +55,7 @@ New varieties of crops, and particularly GM varieties, must undergo a thorough v
 		</p>
 		<br>
 		<p>
-		Now, I tend to just assume that the regulatory framework protecting consumers is good enough by now to resist industry meddling and muddying. But I realise this is naive &ndash; other industries have gotten away with egregious abuses of the public despite allegedly robust oversight: food processing, automotive, oil, banking, &hellip;
+		Now, I tend to just assume for simplicity that the regulatory framework protecting consumers is good enough by now to resist industry meddling and muddying. But I realise this is naive &ndash; other industries have gotten away with egregious abuses of the public despite allegedly robust oversight: food processing, automotive, oil, banking, &hellip;
 		</p>
 	</div>
 </div>
@@ -80,7 +80,7 @@ This letter falls right into that trap: in accusing Greenpeace of distracting th
 		</p>
 		<br>
 		<p>
-		Even if Greenpeace itself is occasionally given to such language (and in fact in their written reports are for the most part rather more sober), it seems fair to hold the establishment to higher standards of discourse than radical elements who struggle against it.
+		Admittedly Greenpeace is occasionally given to such language (though their written reports are for the most part surprisingly sober). But it seems fair to hold the establishment to higher standards of discourse than radical elements who struggle against it.
 		</p>
 	</div>
 </div>
@@ -95,7 +95,7 @@ I disagree with this view; I claim that, at least for now, the problems posed by
 
 ### Technology Development
 
-Conspicuously absent from the letter, for instance, is any mention the *producers* of GM seeds. From the letter alone, you'd be forgiven for thinking the technology is a universal gem of our collective intellectual treasury. But that is not the case: those who produce commercial GM technology are transnational corporations like Syngenta and Monsanto, who hold patents on the organisms' genomes. They are not philanthropists, they are out to make profit like any other company.
+Conspicuously absent from the letter, for instance, is any mention the *producers* of GM seeds. From the letter alone, you'd be forgiven for thinking they are gems of humanity's collective intellectual treasury. But that is not the case: the owners of commercial GM technology are transnational corporations like Syngenta and Monsanto, who hold patents on their products' genomes. They are not philanthropists, they are out to make profit like any other company.
 
 <!-- ---------------------------------------------------------------------- -->
 <div class="expanding_section">
@@ -110,35 +110,35 @@ Conspicuously absent from the letter, for instance, is any mention the *producer
 		<p>
 		<br>
 		</p>
-		One of the things we can really thank Greenpeace for is dragging issues out into the open. Centralised power often benefits from  public invisibility (e.g. who has heard of Serco?) &ndash; it's much easier to operate if your activities won't be questioned, criticised or regulated, and a good way to achieve that is if nobody knows you exist. I reckon Greenpeace does a fine job of refusing them that luxury.
+		One of the things we can really thank Greenpeace for is dragging issues out into the open. Centralised power often benefits from  public invisibility (e.g. who has heard of McKesson or Serco?) &ndash; it's much easier to operate if your activities won't be questioned, criticised or regulated, and a good way to achieve that is if nobody knows you exist. I reckon Greenpeace does a fine job of refusing them that luxury.
 		</p>
 	</div>
 </div>
 <!-- ---------------------------------------------------------------------- -->
 
-I don't mean to suggest that commercial interests necessarily preclude work for the good of the public and humanity at large; but merely that we must be wary of the sophisticated craft of public image and spin.
+I don't mean to suggest that commercial interests necessarily preclude work which benefits common people; but merely that we must be wary of the sophisticated craft of public image and spin.
 
-Take Golden Rice, whose humanitarian credentials have been enthusiastically touted for years, but which has to date witnessed no substantial deployment. Nor is there convincing evidence that it is a cost-effective &ndash; or even actually effective &ndash; means of mitigating VAD in at-risk populations.
+Take Golden Rice, whose humanitarian credentials have been enthusiastically touted for years, but which has to date witnessed no substantial deployment. Nor is there convincing evidence that it is a cost-effective &ndash; or even just effective &ndash; means of mitigating VAD in at-risk populations.
 
-It's a similar story for the other GM crops with traits like drought or salt tolerance, which are allegedly there to help poor farmers. They comprise a high percentage of agritech public relations content, a near-zero percentage of research investment, and a zero percentage of seed sales.
+It's a similar story for other GM crops with traits like drought or salt tolerance, which have ostensibly been developed to help poor farmers. They comprise a high percentage of agritech public relations content, a near-zero percentage of research investment, and a zero percentage of seed sales.
 
 
 <!-- ====================================================================== -->
 
 ### The Successes of GM Crops
 
-So what *is* GM technology good for, if not improving nutrition or helping farmers cope with adverse local conditions? Looking at the portfolio of crops available on the market, the simple answer is agricultural industrialisation &ndash; promoting conglomeration and commercialisation of farms, and allowing them to be run by fewer people.
+So what *is* GM technology good for, if not improving nutrition or softening the blows of adverse local conditions? Looking at the portfolio of crops available on the market, we must conclude that the simple answer is *agricultural industrialisation* &ndash; promoting conglomeration and commercialisation of farms, and allowing them to be run by fewer people.
 
-For example, the majority of GM crops under cultivation are engineered to be resistant to a broad-spectrum weedkiller/herbicide called glyphosate (a ban of which was recently suspended by the EU). The thinking is that once a farmer has bought GM seeds, they can also buy that company's glyphosate preparation (e.g. Monsanto's RoundUp) and apply it to their fields in quantities that would damage or kill non-GM varieties of the crop.
+For example, the majority of GM crops under cultivation are engineered to be resistant to a broad-spectrum weedkiller/herbicide called glyphosate (a ban of which was recently suspended by the EU). The thinking is that once a farmer or farm manager has bought GM seeds, they can also buy that company's glyphosate preparation (e.g. Monsanto's RoundUp) and apply it to their fields in quantities that would damage or kill non-GM varieties of the crop.
 
-The resulting generous and mechanised use of these chemicals, and the concomitant devotion of large tracts to a single variety of crop (monoculture), is unfortunately known to destroy local ecosystems and contaminates bodies of water (both over and under ground). Repeated use may reduce the capacity of non-GM crops to grow on the field, locking farmers into a cycle of loyalty to certain GM products. 
+The resulting generous and mechanised use of these chemicals, and the concomitant devotion of large tracts to a single variety of crop (monoculture), is known to damage local ecosystems and contaminate bodies of water (both over and under ground). Repeated use may reduce the capacity of non-GM crops to grow on the field, locking farmers into a cycle of loyalty to certain GM products. 
 
 Herbicides like glyphosate have further been found to negatively disrupt soil microbiology, poison nitrogen fixing bacteria, promote colonisation by fungal pathogens and undermine crops' natural disease immunity. And all these negative effects demand the application of yet more chemicals like artificial fertilisers and pesticides, placing yet more stresses on soil ecology.
 (Agritech companies still claims that GM crops reduce herbicide use; this is both ludicrous and demonstrably untrue.)
 
-Yet even this uncomfortable arrangement can't last: the list of weeds which have developed resistance to glyphosate is long and growing. Farmers resorting to other, more potent herbicides then exacerbates the environmental degradations just discussed. Moreover, the unintended (though entirely foreseeable) emergence of battle-hardened, resistant weeds pose severe threat to conventionally-bred crops (which cannot be doused in herbicide), and even to wild ecosystems.
+Yet even this uncomfortable arrangement might not last: the list of weeds which have developed resistance to glyphosate is long and growing. Farmers resorting to other, more potent herbicides then exacerbates the environmental degradations just discussed. Moreover, the unintended (though entirely foreseeable) emergence of battle-hardened, resistant weeds pose severe threat to conventionally-bred crops (which cannot be doused in herbicide), and even to wild ecosystems.
 
-So, say I am a struggling farmer who needs to increase productivity and adopts GM crops. There'll probably be a period of higher, less variable yield after the transition, which is great; but in a matter of years the benefits begin to disappear, until I am once more a struggling farmer &ndash; except now my crop diversity, farm labour, autonomy, and soil health have all been sacrificed, my weedkillers are more toxic, I've trashed the surrounding environment, and my neighbours are all dealing with herbicide-resistant weeds.
+So, say I am a struggling farmer who needs to increase productivity and adopts GM crops. There'll probably be a period of higher and less variable yield after the transition, which is great. But even in a matter of years the benefits can begin to disappear, until I am once more a struggling farmer &ndash; except now my crop diversity, farm labour, autonomy, and soil health have all been sacrificed, my weedkillers are more toxic, I've trashed the surrounding environment, and my neighbours are all dealing with herbicide-resistant weeds.
 
 <!-- ---------------------------------------------------------------------- -->
 <div class="expanding_section">
@@ -155,25 +155,25 @@ So, say I am a struggling farmer who needs to increase productivity and adopts G
 </div>
 <!-- ---------------------------------------------------------------------- -->
 
-There are other categories of crop (e.g. ones which produce pesticides), and several broader questions which need to be addressed (e.g. gene transfer) to get a full understanding of the scientific debate around GM agriculture. It's unnecessary for my purposes to go into them here; but I hope the foregoing discussion of agritech has illustrated to some degree that GM can introduce as many problems as it solves, and moreover encourages a form of agriculture that is deeply non-ecological in approach.
+There are other categories of crop (e.g. ones which produce pesticides), and several broader questions (e.g. gene transfer) which need to be addressed to get a full understanding of the scientific debate around GM agriculture. It's unnecessary for my purposes to go into them here; but I hope the foregoing discussion of agritech has illustrated to some degree that GM can introduce as many problems as it solves, as it is tied to an industrial model of agriculture that is deeply unsustainable, buth ecologically and economically.
 
-In light of the above and what is yet to come, I argue that the promotion of Golden Rice is nothing but a publicity stunt designed to engender acceptance of GM agriculture in both the developed and the developing world. The likes of Syngenta construe their distribution of Golden Rice in poor countries as a humanitarian action; but it can equally be seen as a cynical penetration of these emerging markets. (Indeed, I see clear parallels with Nestl&eacute;'s actions which led to the infant formula scandal of the 1980s.)
+In light of the above, and the discussion to come, I argue that the promotion of Golden Rice is nothing but a publicity stunt designed to cultivate acceptance of GM agriculture in both the developed and the developing world. The likes of Syngenta construe their distribution of Golden Rice in poor countries as a humanitarian action; but it can equally be seen as a cynical penetration of these emerging markets. (Indeed, there are clear parallels with Nestl&eacute;'s actions which led to the infant formula scandal of the 1980s.)
 
 <!-- ====================================================================== -->
 
 ### Control of Productive Land
 
-If you're thinking that I'm being unfair to the other side of the argument, I tell you they deserve it. No, I accept the criticism. But remember my main purpose was to counterbalance and to illustrate the superficiality of the Nobel laureates' open letter. Unfortunately, I'm not qualified to find the absolute truth of an issue which, owing to the vast sums of money and political influence involved, is rife with misinformation and misappropriation of research.
+If you're thinking that I'm being unfair to the other side of the argument, well, they deserve it; though I do accept the criticism to some extent. But remember my main purpose is to illustrate and counterbalance the superficiality of the Nobel laureates' open letter. 
+Blinded by a form of scientific absolutism, it would yet appear they believe that "science" extends only as far as genetic engineering and molecular biology. As we have seen, there are important considerations from the fields of ecology and genetic adaption.
+<!-- Unfortunately, I'm not qualified to find the absolute truth of an issue which, owing to the vast sums of money and political influence involved, is rife with misinformation and misappropriation of research. -->
 
-Anyway, as it stands my underlying point is that the Nobel scientists are blinded by their scientific absolutism. From their letter, it would appear they believe that "science" stops at genetic engineering and molecular biology; but as we have seen, there are important considerations from the fields of ecology and genetic adaption.
+Now I'd like to further broaden this intellectual landscape to include elements of social science &ndash; for if we are interested in helping *humans*, rather than simply ("simply") understanding the natural world, some perspective on human institutions like economics, business, intellectual property, and sociology is indispensable. It is only with a human-oriented approach that we can ask the crucial question of who does and who should control agricultural production.
 
-Now I'd like to further broaden this intellectual tableau to include elements of social science &ndash; for if we are interested in helping *humans*, rather than "simply" understanding the natural world, some perspective on human institutions like economics, business, intellectual property, and sociology is indispensable. It is only with a human-oriented approach that we can ask the crucial question of who should control agricultural production.
+Because the fact is that practicable alternatives to GM agriculture exist, ones which deliver autonomy and ownership to farmers, rather than ceding it to corporate interests. I cannot stress enough how troubling it is that control over the global food system is increasingly concentrated in the hands of a few dozen agritech and supermarket giants which, having reached limits to their power in/over the wealthy countries of their birth, now seek to extend their reach to poor countries who can offer little resistance to the Western capitalist juggernaut, and whose populations may be unable to effectively regulate transnationals.
 
-Because the fact is that practicable alternatives to GM agriculture exist, ones which deliver autonomy and ownership to farmers, rather than ceding it to corporate interests. I cannot stress enough how troubling it is that control over the global food system is increasingly concentrated in the hands of a few dozen agritech and supermarket giants which, having reached limits to their power over the wealthy countries of their birth, now seek to extend their influence over poor countries who can offer little resistance to the Western capitalist juggernaut (and whose populations may be unable to effectively regulate transnationals).
+A food system that prioritises Western shareholders over the feeding of people and the resilience of production, that puts the demands of capital before the livelihoods of small farmers, the integrity of communities and local markets, and stewardship of the environment, is nothing to be proud of. It benefits neither the producers alienated from their land and their traditions, nor consumers alienated from food itself.
 
-A food system that prioritises Western shareholders over the feeding and resilience of people, that puts the demands of capital before the livelihoods of small farmers, the integrity of communities and local markets, and stewardship of the environment, is nothing to be proud of. It benefits neither the producers alienated from their land and their traditions, nor consumers alienated from food itself.
-
-I'm not saying that any intervention by the institutions of wealthy countries in the affairs of the global poor is bound to disadvantage the latter. Nor do I believe that self-interest is categorically wrong. But the agritech companies have all the cards, and farmers are being tricked into ceding their assets, their self-determination, and potentially the health of their environment and families, for the benefit of the rich &ndash; a pattern of affairs which, while all too familiar, is difficult to reverse. This is unacceptable. Farmers in poor countries deserve executive ownership of their food system.
+I'm not saying that any intervention by the institutions of wealthy countries in the affairs of the global poor is bound to disadvantage the latter. Nor do I believe that self-interest is categorically wrong. But here the agritech companies have all the cards, and farmers are being tricked out of their their assets, their self-determination, and potentially the health of their environment and families, for the benefit of the rich &ndash; a pattern of affairs which, while all too familiar, is difficult to reverse. This is unacceptable. Farmers in poor countries deserve executive ownership of their agricultural land, both as a matter of social justice and as a more practical matter of restoring functionality to a broken food system.
 
 <!-- ====================================================================== -->
 
@@ -182,15 +182,16 @@ I'm not saying that any intervention by the institutions of wealthy countries in
 Though nothing in global agriculture is simple, the problems which genetic modification seeks to address have a variety of solutions which are less corporate, less technologically intensive, more empowering, and much *much* cheaper.
 Traditional farming practices such as crop rotation, crop diversification, and soil management can all deliver substantial yield increases, improve nutrition, and control pests for a fraction of the cost. These techniques protect the resilience of the soil rather than degrading it, and relieve some of the reliance on imported fertilisers and pesticides.
 
-Soil health in particular has been severely hit by excessive use of such agrichemicals, and by an emphasis on industrial monocultures. Furthermore, it is the lack of diversity in crops and crop varieties which has contributed most to the impoverished diets of the global poor.
+Soil health in particular has been severely hit by excessive use of such agrichemicals, and by the emphasis on industrial monocultures which would be impossible without them. Furthermore, it is the lack of diversity in crops and crop varieties which has contributed needlessly to the impoverished diets of the global poor.
 
-This brings us back to Golden Rice, which, deeply tied to the industrial resource-intensive monoculture model of agriculture, may only be excerbating the underlying problem of crop and diet diversity. I find it shameful that the scientists who signed the open letter have been duped into the West's collective obsession with hi-tech neoliberal solutions, when there are plentiful farmer-oriented alternatives for combating vitamin A deficiency. For instance, green vegetables and even other (established, non-patented) varieties of rice which would grow well in regions where VAD is acute contain abundant vitamin A. We should be putting money into schemes to sustainably help poor rural farmers, rather than pouring it into making them dependent on unsustainable, resource-intensive, corporate solutions.
+This brings us back to Golden Rice, which, deeply tied to the industrial resource-intensive monoculture model, may only excerbate the underlying problem of crop and diet diversity. I find it shameful that the scientists who signed the open letter have been duped into the West's collective obsession with hi-tech neoliberal solutions, and the agritech industry's fairytale of feeding the world through industrial-scale monocultures. Because there are plentiful farmer-oriented alternatives for combating vitamin A deficiency. For instance, green vegetables and even other (established, non-patented) varieties of rice which would grow well in regions where VAD is acute contain abundant vitamin A.
+<!-- We should be putting money into schemes to sustainably help poor rural farmers, rather than pouring it into making them dependent on unsustainable, resource-intensive, corporate solutions. -->
 
-Thus the focus must be on helping poor farmers to diversify their subsistence crops. Perhaps this means access to information and training in sustainable farming practices (which may have been lost during industrialisation); perhaps it means improving weather forecasts and access to markets; perhaps it means access to capital to invest in local infrastructure; but it almost certainly means securing land rights and decision-making power over what to grow and how. Indeed, many small-scale farmers in developed countries would benefit from similar innovations. But none of this is profitable for agribusiness, who do better to  monopolise agricultural information in rural areas.
+From both nutrition and economic perspectives, there's a lot to gain for subsitence farmers in diversifying their crops. Perhaps they need more access to information and training in sustainable farming practices (which may have been lost during industrialisation); perhaps they need better weather forecasts and access to markets; perhaps they need capital to invest in local infrastructure; but they almost certainly need secure land rights and decision-making power over what they grow and how. Indeed, many small-scale farmers in developed countries would benefit from similar innovations. But none of this is profitable for agribusiness, who send their missionaries to monopolise agricultural information in rural areas.
 
-In presenting GM technology as the only option, the Nobel laureates reinforce the story that agritech companies want us to hear. But it is neither the only option, nor even the best option. Unfortunately it is an easy option for us in the developed world, as we profit from our institutions' predations while dismissing our responsibility for / remaining carefully ignorant of their actions far from home.
+In presenting GM technology as the only option, the Nobel laureates reinforce the story that agritech companies want us to hear. But it is neither the only option, nor even the best option. Unfortunately it is an easy option for us in the developed world, as we benefit from our institutions' predations far from home, while dismissing our responsibility for them.
 
-Now, there may come a day when GM crop science is advanced enough to deliver tangible benefits that outweigh the foreseeable costs. It may be that governmental or philanthropic labs begin to compete with commercial ones in development and productive capacity. I cannot predict what the state of biotechnology and global agriculture will be thirty years from now, and I don't rule GM out of our agricultural future. But there are far more pressing concerns about our agricultural present, and any decision to further relinquish control and responsibility for food systems must not be made lightly. 
+Now, there may come a day when GM crop science is advanced enough to deliver tangible benefits that outweigh the foreseeable costs. It may be that governmental or philanthropic labs begin once more to compete with commercial ones in development and productive capacity. I cannot predict the state of biotechnology and global agriculture thirty years from now, and I don't rule GM out of our agricultural future. But there are pressing concerns about our agricultural present to which GM is not the answer and in fact is part of the problem. For now and in the future, any decision to further relinquish control and responsibility for food systems must not be made lightly. 
 	
 <!-- ====================================================================== -->
 
@@ -198,9 +199,9 @@ Now, there may come a day when GM crop science is advanced enough to deliver tan
 
 Some of my latter observations about corporate behaviour apply beyond agribusiness (in a future post, I intend to discuss a relevant issue with finance in developing markets). But I think it's credible to claim that nowhere are such patterns of more immediate consequence than where they impact on food, hunger and nutrition.
 
-Though my take on these issues, and on GM agriculture in particular, has perhaps been simplistic, I'm pleased that in one day's writing I have done a more thorough job than 110 Nobel laureates! As ever, it's hard to tell whether their letter's shortcomings were down to ignorance or disingenuousness &ndash; whether I should feel despair or feel betrayed.
+And though my take on these issues, and on GM agriculture in particular, has perhaps been simplistic or partisan, I'm pleased that in one day's writing I have done a more thorough job than 110 Nobel laureates! As ever, it's hard to tell whether their letter's shortcomings were down to ignorance or disingenuousness &ndash; and hence whether I should feel despair or betrayal.
 
-I've been going on the more generous interpretation (ignorance). And this goes to show that eminent scientists, even those who proclaim that science is *both* a process of knowledge acquisition *and* a body of established fact, may still end up conflating the two. In seeing only the idealised "scientific case" for GM agriculture, while failing to apply their critical faculties to the wider issues of social institutions and human wellbeing, they expose a disappointingly weak grasp of reality.
+So far, I've been going on the more generous interpretation (ignorance). And if this is the case it only goes to show that eminent scientists, even those who proclaim that science is *both* a process of knowledge acquisition *and* a body of established fact, may still end up conflating the two. In seeing only the idealised "scientific case" for GM agriculture, while failing to apply their critical faculties to the wider issues of social institutions and human wellbeing, they expose a disappointingly weak grasp of reality.
 
 
 <!-- ====================================================================== -->
