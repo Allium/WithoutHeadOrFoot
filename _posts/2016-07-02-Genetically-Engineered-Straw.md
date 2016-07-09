@@ -6,6 +6,8 @@ tags:	[agriculture, environment, NGO, science, sociology]
 
 *[Parts 3 and 4 of the Roots of Paradigm series will be in the works soon! For now, please indulge a little polemic detour.]*
 
+*[I've been very sloppy with references here, but I intend to correct this in the next couple of weeks.]*
+
 Oh, how the mighty have done it again. 
 
 A consortium of over 100 Nobel-winning scientists have published an open letter denouncing Greenpeace for their ongoing campaign against genetically modified (GM) crops.
