@@ -18,11 +18,11 @@ Collectivism sees individuals primarily as parts of greater societal structures,
     <a href="#hide_Hegel" class="hide" id="hide_Hegel">+</a>
     <a href="#show_Hegel" class="show" id="show_Hegel">-</a>
     <div class="question">
-		Spinoza's deduction that everything is God
+		Spinoza's deduction that everything is God [click the disc]
 	</div>
 	<div class="answer">
 		<p>
-		Philosopher Baruch Spinoza deduced (idealist) monism from a handful of preliminary assumptions and the laws of logic. <a href="http://plato.stanford.edu/entries/spinoza/#GodNatu">His argument</a> goes something like: God is the infinite, nothing can be excluded from the infinite, so there is nothing that is not God. 
+		These ideas are not entirely without precedent in Western history. For instnace, Dutch philosopher Baruch Spinoza deduced an idealist form of monism from a handful of preliminary assumptions and the laws of logic. <a href="http://plato.stanford.edu/entries/spinoza/#GodNatu">His argument</a> goes something like: God is the infinite; nothing can be excluded from the infinite; therefore there is nothing that is not God.
 		</p>
 	</div>
 </div>
@@ -33,13 +33,13 @@ In the following, I'll highlight the three paradigms' influence in the three maj
 
 ### Early Confucian Thought
 
-Confucius' teachings have been reinterpreted and repurposed many times over the last two and a half millennia. But underlying its myriad historical and regional variants are metaphysical notions of Universal order, harmony and interconnectedness. According to the Han scholar Dong Zhongshu (aka Tung Chung-shu):
+Confucius' teachings have been reinterpreted and repurposed many times over the last two and a half millennia. But underlying its myriad historical and regional variants are the metaphysical notions of Universal order, harmony and interconnectedness. According to the Han scholar Dong Zhongshu (aka Tung Chung-shu):
 
 > Heaven, Earth and Man are the root of all things. Heaven begets them, Earth nourishes them, and Man completes them. These three complement each other as limbs, torso and head go together to make a body: no one of them can be dispensed with.
 
 So each part of the Universe &ndash; man, nature, and the supernatural &ndash; depends on each other part for its sustenance. This is in stark contrast with the separationist and hierarchical Abrahamic religions, in which God is the custodian of mankind, and man is in turn ruler of nature.
 
-According to Confucianism, human society can only flourish if it maintains harmony (intellectual, behavioural and spiritual) in itself and with the rest of the cosmos: a healthy cosmos nourishes mankind, which nourishes the cosmos, and so on. Each individual thus had strong incentive to do their bit in striving for the prosperity of all. The duty of the king, then, was to assure the material needs of his subjects so all may be free to contribute their utmost. (The Chinese character for king, 王, is eloquent of his role in uniting man with the other two components of the Universe.)
+According to Confucianism, human society can only flourish if it maintains harmony (intellectual, behavioural and spiritual) with itself and with the rest of the cosmos: a healthy cosmos nourishes mankind, which nourishes the cosmos, and so on. Each individual thus had strong incentive to do their bit in striving for the prosperity of all. The duty of the king, then, was to assure the material needs of his subjects so all may be free to contribute their utmost. (The Chinese character for king, 王, is eloquent of his role in uniting man with the other two components of the Universe.)
 
 So whereas Western individualism atomises people into individuals, stressing their uniqueness, the roots of Chinese institutions are more collectivist, seeing the individual not only as integrated with the rest of society but as part of a cosmic whole, with a duty to cultivate and improve themselves and perform the greatest service they are capable of.
 
@@ -47,7 +47,7 @@ So whereas Western individualism atomises people into individuals, stressing the
     <a href="#hide_anarchist" class="hide" id="hide_anarchist">+</a>
     <a href="#show_anarchist" class="show" id="show_anarchist">-</a>
     <div class="question">
-		Anarchist quote [dubious connexion]
+		Anarchist quote [tenuous connexion]
 	</div>
 	<div class="answer">
 		<p>
@@ -56,7 +56,8 @@ So whereas Western individualism atomises people into individuals, stressing the
 	</div>
 </div>
 
-This brings us back to hierarchy, seemingly a central theme in Western culture. The high value Confucianism ascribes to harmony in human affairs makes it more important to reconcile divergent views than to establish supremacy. Consequently, we see throughout history a greater tendency to incorporate new ideas and philosophies into existing paradigms.
+<!-- This brings us back to hierarchy, seemingly a central theme in Western culture. -->
+The high value Confucians ascribe to harmony in human affairs makes it more important to reconcile divergent views than to establish supremacy. Consequently, we see throughout history a greater tendency to incorporate new ideas and philosophies into existing paradigms.
 This is particularly clear in its relationship with Taoism.
 
 
@@ -66,11 +67,24 @@ This is particularly clear in its relationship with Taoism.
 
 Taoism evolved in parallel with Confucianism; from their founding in the fifth century BC, their respective prominence varied regionally and over time. We shall see that the two schools are very much distinguished by their ethics, and by their roles in society and in the lives of their practitioners. Whereas Confucianism prescribed behavioural norms for individuals' interactions, promoting self-cultivation and personal excellence in accordance with a moral code, Taoism was somewhat less concerned with society and more concerned with (super-)personal discovery of mystical universal truth.
 
-Nevertheless, each would come to adopt elements of the other's ontology. For instance, Confucians adopted Taoist ideas about the primacy of [cycles in nature](http://www.acmuller.net/con-dao/daodejing.html#div-17): these originally invited contemplation of eternity, one's role in the present, and the futility of posterity, but were partially reinterpreted into a more "astrological" framework for explaining the fortunes of society and understanding patterns of harmony in the cosmos.
+Nevertheless, each would come to embrace elements of the other's ontology. For instance, Confucians adopted Taoist ideas about the primacy of [cycles in nature](http://www.acmuller.net/con-dao/daodejing.html#div-17): these originally invited contemplation of eternity, one's role in the present, and the futility of posterity, but were partially reinterpreted into a more "astrological" framework for explaining the fortunes of society and understanding patterns of harmony in the cosmos.
 
-In Taoism, cycles also symbolised the inevitability of change, which in turn contributed to the principle of wei wu wei, action without action. This held that to resist change was to interfere in nature and provoke negative outcomes (perhspas revealing another overlap with Confucianism, in the sense that both promote in their own way accommodation and synthesis over struggle and supremacy).
+In Taoism, cycles could also symbolise the inevitability of change, which in turn contributed to the principle of wei wu wei, action without action. This held that to resist change was to interfere in nature and provoke negative outcomes (perhspas revealing another overlap with Confucianism, in the sense that both promote in their own way accommodation and synthesis over struggle and supremacy).
 
-Another instance of philosophical cross-fertilisation was the [yin-yang symbol](http://www.vectorportal.com/img_novi/yinyang_6649.jpg), which embodies the idea that what we may perceive as opposites (e.g. light and dark, hot and cold, active and passive) are in fact complementary aspects of a deeper unity. In combination with the theory of cycles, they represent the dynamic couplet whose tanrantistic oscillations underpin the development of all phenomena.
+<div class="expanding_section">
+    <a href="#hide_acupuncture" class="hide" id="hide_acupuncture">+</a>
+    <a href="#show_acupuncture" class="show" id="show_acupuncture">-</a>
+    <div class="question">
+		Harmony, holism, and oscillation in Taosit acupuncture
+	</div>
+	<div class="answer">
+		<p>
+		Not written yet -- coming soon!
+		</p>
+	</div>
+</div>
+
+Another instance of philosophical cross-fertilisation was the [yin-yang symbol](http://www.vectorportal.com/img_novi/yinyang_6649.jpg), which embodies the idea that what Westerners may naturally perceive as opposites (e.g. light and dark, hot and cold, active and passive) are in fact complementary aspects of a deeper unity. The point is not to grow attached to a conception or perception of light, say, on its own, but to understand that light is a shadow of something more fundamental &ndash; the unity of light and darkness. In combination with the theory of cycles, yin and yang represent the dynamic couplet whose tanrantistic oscillations underpin the development of all phenomena.
 
 This so-called "dualistic monism" is taken further in traditional Taoist thought, which identifies the Tao as the author of all apparent reality. The Tao is the single, monistic root entity which begets all apparent diversity as efflorescence. The opening chapter of Laotzi's (aka Lao Tsu) Tao Te Ching (aka Daode Jing) reads
 
@@ -88,21 +102,23 @@ This so-called "dualistic monism" is taken further in traditional Taoist thought
 > 
 > The door to all marvels.
 
-One who seeks the Tao must embrace a totality beyond logic and language, which are incapable of representing it and in fact impede its appreciation by restricting the mind's capacity for contemplation to a familiar and mundane subset. Taoism wrests its adherents away from the communication and relation &ndash; the world of Confucian theory &ndash; and into a realm of pure thought.
+One who seeks the Tao must embrace a totality beyond logic and language, which are incapable of representing it and in fact impede its appreciation by restricting the mind's capacity for contemplation to a familiar and mundane subset. Taoism wrests its adherents away from communication and relation &ndash; the world of Confucian theory &ndash; and into a realm of pure thought.
 
-According to the Zhuangzi, another foundational work of Taoism, an appreciation of the Tao requires the casting off of personal identity and attachment to the body. Transcending not just human desires, but the ego itself is quite antithetical to Western individualism &ndash; and the result is one who is aware that they are merely a unique manifestation of the universal Tao.
+According to the Zhuangzi, another foundational work of Taoism, an appreciation of the Tao requires the casting off of personal identity and attachment to the body. Transcending not just human desires, but the ego itself would be antithetical to Western individualism &ndash; and the result is one who is aware that they are merely a unique manifestation of the universal Tao.
 
 A summary in the words of Fritjof Capra,
 
-> The most important characteristic of the Eastern world view &ndash; one could almost say the essence of it &ndash; is the awareness of the unity and mutual interrelation of all things and events, the experience of all phenomena in the world as manifestations of a basic oneness. All things are seen as interdependent and inseparable parts of this cosmic whole; as different manifestations of the same ultimate reality.
+> The most important characteristic of the Eastern world view is the awareness of the unity and mutual interrelation of all things and events, the experience of all phenomena in the world as manifestations of a basic oneness. All things are seen as interdependent and inseparable parts of this cosmic whole; as different manifestations of the same ultimate reality.
 
 <!-- ========================================================================== -->
 
 ### Ruling Classes
 
-Now, you may be unsurprised to learn that Chinese intellectual history is not adequately represented by a bunch of happy mystic priests exchanging ideas for thousands of years. In order to gain some perspective on the growth of Buddhism, the third pillar of mainstream Chinese thought, I think it's instructive to delve into the messy business of politics. (As with everything I write, the following is a simplification and a distortion: the development of religious and intellectual movements, their fortunes, their alliances and their persecutions, is an intricate story. China is a big country; 2500 years is a long time; a lot happened.)
+Now, you may be unsurprised to learn that Chinese intellectual history is not adequately represented by a bunch of happy priests swapping mysticisms for thousands of years.
+In order to gain some perspective on the growth of Buddhism, the third pillar of mainstream Chinese thought, it’s instructive to delve into the messy business of politics. 
+(As with everything I write, the following is a simplification and a distortion: the development of religious and intellectual movements, their fortunes, their alliances and their persecutions, is an intricate story. China is a big country; 2500 years is a long time; a lot happened.)
 
-We are used to seeing populations manipulated and weaponised (often gladly) by the powerful, through distortions of their religion or culture &ndash; take the civilising mandate of European colonisers, or the rise of jihadist Islam. In China, both Confucianism and Taoism became politicised, violent, and ultimately discredited in many parts of the country.
+We are used to seeing populations manipulated and weaponised (sometimes unwillingly; sometimes willingly; sometimes gladly) by the powerful, through hijack of their religion or culture &ndash; take the civilising mandate of European colonisers, or the rise of jihadist Islam. In China, both Confucianism and Taoism became politicised, violent, and ultimately discredited in many parts of the country.
 
 Several characteristics of Taoism and Confucianism turned out to facilitate the amassing of power by autocrats. For instance, Taoism's emphasis on adaption to external circumstances, and its confidence in cyclic reciprocation, rendered its adherents passive to disempowerment. Its emphasis on contemplation and introspection, on transcending the physical and mental self, may have numbed the devout to their changing material circumstances as the elite silently enriched themselves at the expense of the peasantry. On the Confucian side, the tenets of obedience and duty to society, and faith in its meritocratic organisation and the wisdom of kings, meant they too were easier to control.
 
@@ -132,11 +148,11 @@ Several characteristics of Taoism and Confucianism turned out to facilitate the 
 
 ### The Precarity of Ossified Harmony
 
-Centralised power often demands a centralised and dogmatic system of thought to justify that power. And so the prevailing Confucianism, with all its Taoist influences, became in the hands of the Sung elite increasingly ubiquitous and dogmatic: the existing diversity of alternative interpretations and practices was abolished, leaving only caricatures of the most authoritarian and prescriptive elements of the philosophy &ndash; elements pertaining to social behaviour, authority, duty, shame and guilt.
+Centralised power often imposes a centralised and dogmatic system of thought to justify itself. And so the prevailing Confucianism, with all its Taoist influences, became in the hands of the Sung elite increasingly ubiquitous and dogmatic: the existing diversity of alternative interpretations and practices was abolished, leaving only caricatures of the most authoritarian and prescriptive elements of the philosophy &ndash; elements pertaining to social behaviour, authority, duty, shame and guilt.
 
 As discussed, Confucianism is fundamentally a holistic theory: its nature is to explain the interrelations between many things that seem at first glance to be unconnected. It had always evolved in tandem with an increasingly complex society; but following the suppression of alternative philosophies, its scope and utility had to broaden &ndash; it alone had to make sense of the human mind, institutions, culture, metaphysics, nature and the cosmos, and place them into a coherent and exhaustive system of relationships.
 
-Problems start to arise when a holistic theory becomes monolithic &ndash; when it and it alone has to consistently encompass *everything* (analytic theories are much less unwieldy, which is perhaps one reason that science has made such impressive progress). And just like humourism in Enlightenment Europe (see last post in this series), the priests of the elitist Confucianism started to get things wrong: their cosmic cycles were seen to fail, they lost confidence in making tangible predictions.
+Problems start to arise when a holistic theory becomes monolithic &ndash; when it and it alone has to consistently encompass *everything* (analytic theories are much less unwieldy, which is perhaps one reason that science has made such impressive progress). And just like humourism in Enlightenment Europe (see the previous post in this series), the priests of the elitist Confucianism started to get things wrong: their cosmic cycles were seen to fail, they lost confidence in making tangible predictions.
 
 With a holist theory, a crack in one corner can spread throughout the whole structure.
 And since Confucianism's capacity for re-interpretation and renewal had been all but destroyed by political interests, the incremental burden of each failure eventually caused its credibility to crumble. Time was ripe for something new.
@@ -151,10 +167,10 @@ There's no single consistent picture as to what Buddhism in China meant or why i
 For instance,
 Buddhism taught that true insight into the nature of life and the mind required the release of all attachment to material and mental constructs associated with the ego. Capra again:
 
-> The Buddhist holds that the idea of a separate, individual self is an illusion, just another form of maya &ndash; an intellectual concept that has no reality. To cling to this idea of a separate self leads to the same pain and suffering (duhkha) as the adherence to any other fixed category of thought.
+> The Buddhist holds that the idea of a separate, individual self is an illusion, an intellectual concept that has no reality (maya). To cling to this idea of a separate self leads to the same pain and suffering (duhkha) as the adherence to any other fixed category of thought.
 
 The goal of reaching towards a deeper reality beyond phenomena, through transendence of the self, resonated with the surviving adherents of Taoism.
-Through new techniques of meditation, through the illustrations of new stories which introduced new perspectives and interpretations, Buddhism touched the old current of monism. The Buddhist concept of dharma was translated into Taoism's Tao, nirvana (freedom from worldly ills) was translated into wu wei.
+Through new techniques of meditation, through the illustrations of new stories which introduced new perspectives and interpretations, Buddhism touched upon dormant currents of monism. The Buddhist concept of dharma was translated into Taoism's Tao, nirvana (freedom from worldly ills) was translated into wu wei, and so on.
 
 Buddhist teachings gained popularity even in the strongholds of Confucian elites in southern China, whose scholarship and refinement could be tested and expanded by new texts and materials. The Confucian dedication to popular education was reawakened, and new forms of morality and compassion introduced by Buddhists found Confucian parallells.
 
