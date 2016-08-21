@@ -15,8 +15,8 @@ My main argument in this post may already be familiar: whereas Western intellect
 Collectivism sees individuals primarily as parts of greater societal structures, such that the duty of each individual is to contribute to the prosperity of the whole. Holism is the understanding that events in the material and spiritual worlds are deeply interconnected, and by implication that the Western tendency toward analysis will only achieve incomplete or illusory understanding of the Universe. Finally, monism is in a sense the logical extreme of holism, holding that reality as composed of a single entity that binds all phenomena together.
 
 <div class="expanding_section">
-    <a href="#hide_Hegel" class="hide" id="hide_Hegel">+</a>
-    <a href="#show_Hegel" class="show" id="show_Hegel">-</a>
+    <a href="#hide_Spinoza" class="hide" id="hide_Spinoza">+</a>
+    <a href="#show_Spinoza" class="show" id="show_Spinoza">-</a>
     <div class="question">
 		Spinoza's deduction that everything is God [click the disc]
 	</div>
@@ -75,11 +75,11 @@ In Taoism, cycles could also symbolise the inevitability of change, which in tur
     <a href="#hide_acupuncture" class="hide" id="hide_acupuncture">+</a>
     <a href="#show_acupuncture" class="show" id="show_acupuncture">-</a>
     <div class="question">
-		Harmony, holism, and oscillation in Taosit acupuncture
+		Harmony, holism, and oscillation in acupuncture
 	</div>
 	<div class="answer">
 		<p>
-		Not written yet -- coming soon!
+		Not written yet, but coming soon: a case study of how the Taoist tradition of acupuncture embodies holism on two levels, as well as a monist attitude to the core energy of living beings.
 		</p>
 	</div>
 </div>
