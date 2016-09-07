@@ -22,7 +22,7 @@ Collectivism sees individuals primarily as parts of greater societal structures,
 	</div>
 	<div class="answer">
 		<p>
-		These ideas are not entirely without precedent in Western history. For instnace, Dutch philosopher Baruch Spinoza deduced an idealist form of monism from a handful of preliminary assumptions and the laws of logic. <a href="http://plato.stanford.edu/entries/spinoza/#GodNatu">His argument</a> goes something like: God is the infinite; nothing can be excluded from the infinite; therefore there is nothing that is not God.
+		These ideas are not entirely without precedent in Western history. For instance, Dutch philosopher Baruch Spinoza deduced an idealist form of monism from a handful of preliminary assumptions and the laws of logic. <a href="http://plato.stanford.edu/entries/spinoza/#GodNatu">His argument</a> goes something like: God is the infinite; nothing can be excluded from the infinite; therefore there is nothing that is not God.
 		</p>
 	</div>
 </div>
