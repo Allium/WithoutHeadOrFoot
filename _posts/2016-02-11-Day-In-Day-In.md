@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Day In, Day In (a short story)
-tags:	[fiction, physics, whimsy]
+tags:	[creative writing, physics, whimsy]
 ---
 
 *Today was an exciting day for physics. The LIGO collaboration announced the first ever detection of "gravitational waves", the existence of which was predicted by Albert Einstein a century ago. Yes, he was right about everything.*
