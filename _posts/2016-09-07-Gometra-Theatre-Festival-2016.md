@@ -61,3 +61,17 @@ After a long beat, Lunch Chef enters again, and repeats the squeezing. But the A
 A Mouse enters, skipping, sniffing. They are furtive, but we all know this is their kingdom. It quickly detects the Avocado and approaches with visible delight and a short adulation of the mouse gods for its good fortune. It takes a bite from the Avocado's leg (lifting it up at the knee to signify the missing flesh).
 
 Hearing the approach of Lunch Chef, the Mouse scurries away. Lunch Chef enters, and squeezes the Avocado as before &ndash; finally it is ripe! Lunch Chef's little dance of glee is cut short when they notice the bite taken out of the leg. Lunch Chef falls to their knees in depair, cursing the heavens.
+
+<div align="center"><figure>
+	<img src="{{ site.baseurl }}/images/2016-09-07-Avocado.jpeg" width="400">
+	<figcaption>
+		Mouse approaches Avocado
+	</figcaption>
+</figure></div>
+
+<div align="center"><figure>
+	<img src="{{ site.baseurl }}/images/2016-09-07-Programme.png" width="600">
+	<figcaption>
+		Festival programme
+	</figcaption>
+</figure></div>
