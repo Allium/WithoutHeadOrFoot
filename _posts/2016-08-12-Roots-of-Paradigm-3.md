@@ -83,15 +83,15 @@ In Taoism, cycles could also symbolise the inevitability of change, which in tur
 		<p>
 		<br>
 		</p>
-		Qi is said to form the metaphorical core of a person (indeed of every living thing). Surrounding this core are three onion-like layers: the spirit, then the mind, and finally the body. These layers, the different parts of a being, are bound together by the qi, and are affected by its changes. Its influence radiates outwards and manifests as physical health.
+		Qi is said to form the metaphorical core of a person (indeed of every living thing). Surrounding this core are three onion-like layers: the spirit, then the mind, and finally the body. These layers, the different parts of a being, are bound together by the qi, whose influence radiates outwards and manifests as physical health.
 		<p>
 		<br>
 		</p>
-		Qi is a dynamic energy; it gives life by flowing. But the details of how qi flows through a person depends on both the person and the natural cycles of the cosmos (diurnal, annual, and more). These cycles are also associated with the five elements, which are again organised along much more dynamic and interrelated lines in Chinese ontology than their four Aristotelian counterparts.
+		Qi is a dynamic energy; it gives life by flowing. But the details of how qi flows through a person depends on both the person and the natural cycles of the cosmos (diurnal, annual, and more). These cycles are also associated with the five elements, which are again organised along much more dynamic and interrelational lines in Chinese ontology than their four Aristotelian counterparts.
 		<p>
 		<br>
 		</p>
-		The acupuncturist strives to tune the flow of a person's qi, and its manifestation as the interactions of the fundamental elements, with the natural order, identifying excesses and dearths, and resolving energetic congestions. They develop a holistic picture of the physical and psychical state of their patients, as well as an understanding of their character: this grants them insight into the state of their qi, so that they may through their practice rectify any imbalances of the core.
+		The acupuncturist strives to tune the flow of a person's qi, and the resulting interactions of the fundamental elements, with that of the Universe. The acupuncturist understands that qi manifests itself in every aspect of being, and so they must develop a holistic picture of the physical and psychical state of their patients, in the context of their natural dispostions and character. Through their treatments, they try to rectify imbalances and congestions of the qi, which diffuses outwards and engenders a harmonious, peaceful, and healthy life.
 		</p>
 	</div>
 </div>
