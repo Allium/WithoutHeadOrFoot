@@ -49,3 +49,31 @@ Our ingenuity for design notwithstanding, this would inevitably be a world awash
 In the context of the written word, further problems arise. The line of text that you're reading now is probably less than five millimetres in height, yet you easily have enough "visual pixels" to read each character. This would not be the case in our new sonic regime: although our present anatomy allows for an auditory (wavelength) range almost a thousand times larger than our visual range, it would be incapable of resolving features smaller than one and a half centimetres.
 
 There is plenty more to write about the physical limitations of our senses (for instance the quantum efficiency of our retinas; or how the brain integrates distributed information to form precise models of its environment), and how they might adapt to my hypothesised inversion of our communication channels. But I'll wrap up here by re-stating my main point: that a principal reason for vision being our dominant sense of the external world is the *separation of the visual realm from time* -- a separation founded on the abundance of an inert conduit of visual information: sunlight.
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous</span>
+    <span class="date">21 September 2016, 19.12</span>
+	<br>
+    <br>
+	I like the meandering approach to your essay, as it allows me to meander as a reader.  The first thing I thought when finishing is your point about time-and-vision reminds me of why I have always argued that I would prefer to be blind than deaf (the opposite is true for most people).
+	<br>
+    <br>
+	When I close my eyes and listen, each sound is indelibly present in time.  It's a meditation exercise, to close your eyes and listen for five minutes.  The times I have done this, I always have a powerful sense of being "here, now" in this instant.  I can actually recall a past moment with a sense of "being there" by recalling these meditations.   You feel time moving in the instant as each sound---evanascent and so alive---is right there right now, and so varied.    Imagine being deaf, and yet able to see.   There is no sense of time.  All is just a plastic show, with no distinct "waves" interrupting and showing passage.
+	<br>
+    <br>
+	I was so taken with my theory that I actually spent a couple hours with a vision scientist, and then a hearing scientist, asking them if they agreed with me: that hearing connects you the world, at that moment, and seeing---without sound---is alienation and cuts you off from the world.    Unfortunately, they did not seem to get what I was talking about, which was disappointing as I really felt sure of my insight.
+	<br>
+    <br>
+	Anyway, this is one musing.  I have many more:   on your division of oral versus writing, and the contrast between light and sound.   And some disgreements.   Doesn't the oral exist in time as well---because it is remembered?   And isn't the joy of writing not only that it has an air of permanence  (I loved that when I learned how to type at age six, on an old typewriter, that each letter COULD NOT BE ERASED:  and hated the advent of the quick-wash computers, making all words cheaply easily cancelled)---but because the way one writes is NOT how one speaks.   I much prefer writing to speaking as it allows for turns of thought that speech---with its inherent sense of communication-for-purpose---does not allow digressions, plays with words and rhythm, ineffable vocabulary, punctuation experiments, and---to be blunt---poetry.    I could never "speak" any of the sentences I just wrote.
+</div>
+
+
+

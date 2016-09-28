@@ -75,3 +75,50 @@ Hearing the approach of Lunch Chef, the Mouse scurries away. Lunch Chef enters, 
 		Festival programme
 	</figcaption>
 </figure></div>
+
+
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous</span>
+    <span class="date">17 September 2016, 15.45</span>
+	<br>
+    <br>	
+	Props:  Really enjoyed the surprise of the last line, and how the performance becomes a parable.    And I most agree with your premise.   I like how you actualize this with the audience, physically, and have a 3-act structure to the action.   Perhaps it might be interesting if at each junction, you express a marked "emotion"  (i.e. excitement with the open door, rest in chair, then boredom with the tv):   to show how the "self" uses its environment to negotiate its own emotional experience.
+	<br>
+    <br>	
+	Harmony Versus Stability -- Celestial Mechanics Edition:  This play has an intriguing premise that remains vague to me.  First, I could not physically imagine it  (what happened to the orange buoy?  how do two people wobble a pingpong ball together)?    I am sure that would be clear on stage.   More importantly:  what does the conflict between harmony and stability actually mean?     An idea:  why not turn this into a TRILOGY, each a meditation on harmony and stability, with a different metaphor each time.  (Harmony in making sound and movement; harmony in a couple; harmony in cooking at the stove, etc), so whatever meaning you are giving these terms will gain more resonance, and become more precise, without being defined.
+	<br>
+    <br>	
+	Somehow, The Natural Choice:  I love the way you conceive the inevitability of individual choices:  that each person has their own lexicon of images, own narrative tendencies, that each story is uniquely imposed.    What is wonderful about this "experiential play" is that unlike other contemporary art products that supposedly lead the audience to choice  (like video games where "you" can "choose" the next scene or direction of the characters) this REALLY allows for original choice:   the images are invented, and the story is truly the audience's own.    Very much enjoyed this piece, and would like to do it myself.  If you don't mind the stealing, I might even adopt a version of it for my students when teaching screenwriting.
+	<br>
+    <br>	
+	Scene From The Library--a strange uncanny piece, where the meaning is delightfully unclear---there seems to be a moral at the end (the Chef should have eaten the Avocado before the Mouse got to it)---and yet this is a non-moral, as he could not have eaten an unripe avocado---so the parable becomes a story into the inevitability of bad luck sometimes, and "seizing the moment".   Or as Melville prefaces "Moby Dick":    "Ripeness is All".
+	<br>
+    <br>	
+	From these plays---and also from reading some of your blogs---I get a sense that a central interest is in what it means to make meaning:   how so much of the world rests with our individual own construction of it.    A subtext of struggle:   how does the "Other" fit into our individual schemas?   The chef's fantasy of the avocado is interrupted by the mouse;   one's individual stability is put at risk by the urge to make harmony;  our stories make other people props;  and yet on the other hand, there is something beautiful about that, as it all lies in the imagination, what we impose on the cocoon of fog.
+</div>
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Cato</span>
+    <span class="date">17 September 2016, 22.10</span>
+	<br>
+    <br>
+	Thanks to Anonymous above for the thoughtful comments, and ideas about how to extend and clarify the plays.
+	<br>
+    <br>	
+	I must say "Harmony Versus Stability" flummoxed everyone -- performers and audience alike. The idea was to show that harmony and stability are not synonymous, that they may in fact oppose one another. When the singers hit the strong harmony of the major third, it causes a physical disturbance which ends in evolution, and, perhaps inevitably, destruction.
+	<br>
+    <br>	
+	The "Celestial Mechanics" reference deserves some explanation: when planets orbit their star in certain time ratios, they will either perturb each other out of the ratio; or, more dramatically, one of them will fling the other out of the solar system -- to roam the darkness of galactic space.
+	<br>
+    <br>	
+	I like your idea of making it a trilogy, to dance around the idea of opposition and give it more exposure, but indirectly. There are plenty of other instances of harmony undoing stability -- for instance, any human societal ideology, whether egalitarian or authoritarian, sows the seeds of its own destabilisation.
+</div>

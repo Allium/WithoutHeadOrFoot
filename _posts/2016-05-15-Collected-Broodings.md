@@ -100,3 +100,44 @@ Yes, we may relish our absorption in time, our delving, tentative, questioning. 
 <br>
 <br>
 <br>
+
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous</span>
+    <span class="date">22 September 2016, 06.04</span>
+	<br>
+    <br>
+	Here's a response to what is my favorite blog piece of yours: one I like not only for its content, but because, as you advocated when we spoke, it not lead to a summary point, and not connect with logical constraints.  And yet each reflection does reverberate with the others.    I also like the Nietzschean tone, combining fury and lucidity--and the easy personal way you involve the reader.
+	<br>
+    <br>
+	Each point is so particular that I was inspired with my own reflections (and of course some objections).  
+	<br>
+    <br>
+	Overall, I agree with the driving central point (there does seem a central point):    the responsibility for forging and creating one's meaning in the world, whether it comes to one's stance towards seducers or taking ownership of one's own set of values.    I also like your play between joining a community of brothers, allies in the humble experience of what it is by fact beyond our comprehension, versus the actual mess of human relations, given our inherent narcissicism.    The yin yang of Good and Evil as part of one paradox:  self-interest and yet bonding to forge  a stab of understanding of our mutual existence.
+	<br>
+    <br>
+	And a couple specific responses (oppositional or variant) to two of your clips:
+	<br>
+    <br>
+	l.   You state that looking to meaning outside the self is inherently a lie, and a dislocation, given that "lived reality is of utter inconsequence."    I have the opposite view.   I find meaning everywhere--and all lived reality of utter CONSEQUENCE.     I have, for example, a belief in the "karma" of our actions. I also respect a force that is greater than I:  a stance that I use to align me, even more, with the responsibility of my own actions:  responsibility, not passivity, since I do not define this force, as it is indefinable, hence cannot assume to know any "meaning" except from the consequences of my actions and those of others.   This is a long discussion which I would love to have with you one day (as I like difference).  But one question I have always posed to believers of meaninglessness is to consider why a believer in meaninglessness should be considered any less a believer in "an external meaning"  than a believer in meaningfulness.    Both are systems of meaning that assume some comprehensive overview of what things are.  I also think (from my own experience) that one can come up with an "external"-based source of meaning not by inheritance of external external meaning systems, from past civilizations, but by building up one's own system  here-and-now from empirical individual experience. 
+	<br>
+    <br>
+	What I most agree with:  the existential obligation to scrutinize and overhaul all forms of values, including  traditional 'truths' and contemporary scientific explanations, and  the necessity to be vigilent and aware of all cultural influences on one's own way of seeing/living. 
+	<br>
+    <br>
+	2.    I love your reflection on friends without history and with history.    As I move between both (I spend a lot of time in conversations with strangers), I agree there is a baggage quality of dead weight with old friends, as you assume you know each other, and much goes missing in that assumption of knowing--and one is in a straitjacket of conforming one's questions and thoughts (and identity) to the kind of dialogue one has forged before.    And yet there does seem to be an idealization of what 'old friendship" is in your reflection: as you term it a comfortable experience.   While old friendship is often, in my experience, an UNCOMFORTABLE experience as the differences and gaps--which are an embarrassment (as taboo--belying the lie of "old friendship")--are readily felt, by both parties, and it is by participating in a certain "lie"  ("we know each other" for time immemorial) that the old nostalgic comfort is maintained.
+	<br>
+    <br>
+	Yet it is through working through that uncomfort--owning up that one does not really know who that comfortable other is--that one can 'renew' the self even with the familiar.    Or drop that friendship entirely, which is another form of renewal.   
+	<br>
+    <br>
+	So renewal and wonder is possible even there.
+</div>
