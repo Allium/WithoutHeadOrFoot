@@ -4,7 +4,7 @@ title:	Four Short Plays
 tags:	[creative writing, whimsy]
 ---
 
-For the past two summers, I've harangued whoever happens to be with me on the Scottish isle of Gometra to participate in the "Gometra Theatre Festival". Each participant is required to write and direct at least one 1-5 minute play, assembling whatever props they need, choosing performers from the pool of available talent, and carving out rehearsal time from their busy schedules of walks, reading, games, and farm and household duties.
+For the past two summers, I've harangued whoever happens to be with me on the Scottish isle of Gometra to participate in the "Gometra Theatre Festival". Each participant is required to write and direct at least one 1-5 minute play, assembling whatever props they need, choosing performers from the pool of available talent, and carving out rehearsal time from their busy schedules of walks, reading, games, farm work, and household duties.
 
 This year nine of us came up with twenty-one plays over a couple of days. Here are four of my five.
 
@@ -47,7 +47,9 @@ For the next fifteen seconds, I'd like you to continue exploring, choosing, witn
 
 I'll stop you there, sorry if you wanted to continue exploring. Think back on what you've done: you've concocted a series of images, the beginning of some kind of story. Skeletal and unfinished, incoherent perhaps; but maybe it has a visual timbre. You must hold on for a moment to your images and the tracery of narrative that their sequence embodies.
 
-During this experiment, I put you in a strange situation, I controlled your surroundings and your actions, at first even your state of mind. Yet still, you decided which turnings to take. And you created the images, for an unknown purpose. Maybe you reached for them, or maybe they dropped into place. They were, somehow, the natural choice for you; and I think there's some significance to that.
+During this experiment, I put you in a strange situation, I controlled your surroundings and your actions, at first even your state of mind. Yet still, you decided which turnings to take. And you created the images, for an unknown purpose. Maybe you reached for them, or maybe they dropped into place. They were, somehow, the natural choice for you.
+
+This was a story you told behind the privacy of closed eyelids, without the self-consciousness and the conceptualisation and the grasp needed to convey it to anyone else; and I think there's some significance to that.
 
 You may open your eyes.
 

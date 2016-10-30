@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	On Light and Communication
-tags:	[perception, physics, whimsy]
+tags:	[psychology, physics, whimsy]
 ---
 
 Why are you reading my blog? I don't mean why you are reading *my* blog rather than someone else's (that much is obvious!), I mean why are you *reading* my blog? Or, to assign blame where it's properly due, why did I *write* it?
