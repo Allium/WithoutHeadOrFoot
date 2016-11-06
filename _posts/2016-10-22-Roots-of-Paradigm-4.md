@@ -6,7 +6,7 @@ tags:	[agriculture, philosophy, history, environment, anthropology]
 
 This is the final instalment of a series which considers the regional development of intellectual traditions, and their possible connexion to *agricultural* traditions. The [introduction](http://catosandford.org/WithoutHeadOrFoot/2016/06/11/Roots-of-Paradigm-1.html) considered the relationship between geography, ecology and geopolitics, and summarised the main goal of this series. [Part two](http://catosandford.org/WithoutHeadOrFoot/2016/06/12/Roots-of-Paradigm-2.html) traced the influence of underlying analytic and atomist paradigms on Western thought. In [part three](http://catosandford.org/WithoutHeadOrFoot/2016/08/13/Roots-of-Paradigm-3.html), I discussed the prevalence of monism and holism in Chinese philosophy.
 
-In this post, I come at long last to the matter of agriculture, and how staple crops may have played a part in the growth of differing cultural psyches.
+In this post, I come at long last to the matter of agriculture, and how staple crops may have played a part in the evolution of cultural psyche.
 
 
 <!-- ----------------------------------------------------------------------------------------- -->
@@ -15,9 +15,9 @@ In this post, I come at long last to the matter of agriculture, and how staple c
 
 Rice is a big deal. Today it's the main food for [2.5 billion people](http://www.fao.org/rice2004/en/f-sheet/factsheet9.pdf), providing [20% of human caloric intake](http://archaeology.about.com/od/domestications/a/rice.htm), and occupying around [10% of global arable land](http://archive.gramene.org/species/oryza/rice_intro.html). For many, nourishment and survival are synonymous with rice.
 
-In tracing the history of the crop and its impact on human societies, scholars have devise a number of competing narratives. Nevertheless, a consensus seems to be that rice was first domesticated around 7000 BC in China's Pearl River basin. From there the domestication technology spread, primarily through river transport networks, throughout China and south-east Asia, to India, and finally to Africa.
+In tracing the history of the crop and its impact on human societies, scholars have devised a number of competing narratives. Nevertheless, a consensus seems to be that rice was first domesticated around 7000 BC in China's Pearl River basin. From there the domestication technology spread, primarily through river transport networks, throughout China and south-east Asia, to India, and finally to Africa.
 
-Today, traditional (i.e. non-industrialised) planting and harvesting techniques are still practised in many parts of China. And though the techniques of each region will vary according to local history, rice varieties and environmental / topographical conditions, the process is generically to (1) plough the field to break up the soil; (2) flatten it to allow hand sowing of pre-germinated rice grains from the last harvest; and (3) flood it with water to a depth of several centimetres.
+In today's China, traditional (i.e. non-industrialised) planting and harvesting techniques are still widespead. And though the techniques of each region will vary according to local history, rice varieties and environmental / topographical conditions, the process is generically to (1) plough the field to break up the soil; (2) flatten it to allow hand sowing of pre-germinated rice grains from the last harvest; and (3) flood it with water to a depth of several centimetres.
 
 ### Paddies
 
@@ -28,7 +28,7 @@ Today, traditional (i.e. non-industrialised) planting and harvesting techniques 
 	</figcaption>
 </figure></div>
 
-This last step is unique to rice, which is the only cereal which can grow while submerged. Indeed, because it is descended from a marsh grass, it is extremely sensitive to water shortages, and flooding the field is the only viable way of growing it. (That said, over the centuries a huge number of varieties have been developed, as [this fascinating and informative video](https://www.youtube.com/watch?v=mzeVEAe6Y5U) demonstrates (Black forbidden rice! Pinipig!), and some of these are more tolerant of water scarcity).
+This last step -- the flooding -- is unique to rice, which is the only cereal which can grow while submerged. Indeed, because it is descended from a marsh grass, it is extremely sensitive to water shortages, and flooding the field is the only viable way of growing it. (That said, over the centuries a huge number of varieties have been developed, as [this fascinating and informative video](https://www.youtube.com/watch?v=mzeVEAe6Y5U) demonstrates (Black forbidden rice! Pinipig!), and some of these are more tolerant of water scarcity)a liitle less thirsty).
 
 There are a suite of side benefits to this method, and I'll mention a few. In heavy rains, flooding risk for downstream villages and cities is markedly reduced, because each rice field acts as a miniature reservoir which regulates peak flows. Flooding paddies is a fantastic method of weed control, since very few terrestrial plants thrive in waterlogged conditions.
 
@@ -105,7 +105,7 @@ For this reason, [among others](http://afe.easia.columbia.edu/china/geog/wet_rce
 The irrigation requirements of traditional Western staples &ndash; wheat, barley, rye and oats &ndash; are very different.
 All of them originated as land grasses in the Fertile Crescent, a region extending from modern-day Iran to eastern Turkey and Northern Egypt, and commonly held to be the cradle of Western civilisation.
 
-Different varieties adapted to different climates, but the dominant model has always been one of small rain-fed monocultures. Though all four of the crops need a good deal of water to produce healthy seeds (the grains we eat), none of the can survive long-termwater-loggingg. Barley especially is sensitive to wet conditions, while oats tend to be the most resistant to wet and cold.
+Different varieties adapted to different climates, but the dominant model has always been one of small rain-fed monocultures. Though all four of the crops need a good deal of water to produce healthy seeds (the grains we eat), none of the can survive long-termwater-logging. Barley especially is sensitive to wet conditions, while oats tend to be the most resistant to wet and cold.
 
 
 <div align="center"><figure>
