@@ -25,14 +25,15 @@ tags:	[creative writing, humanity, NGO]
 
 `Yvonne-Now:` That's me, back in my second day at the crisis line. I did one day a week, for ten months. You probably couldn't hear it in my voice, but every time the phone rang I&hellip; fought through ice. *(Shakes her head, smiling ruefully. She gently mimics,)* "This is Yvonne. Tell me what's going on -- I'm here to help.". Hah, I must've rehearsed that line two hundred times before I even took my first call, cramming every syllable with as much&hellip; reassurance I guess -- as much reassurance as it would take. Because some callers will decide to trust you in those first moments. *(Pause)* But yeah, most of the time it takes much longer. Sometimes it never happens.
 
-`Yvonne-Then:` *(Still on the phone)* That's really rough. But&hellip; try to take deep breaths, okay? When did you realise it was missing?
+`Yvonne-Then:` *(Still on the phone)* That's really rough. But&hellip; try to take deep breaths, okay?
+ <!-- When did you realise it was missing? -->
 
 *Yvonne-Then freezes again with the phone to her ear. After this paragraph of directions, while Yvonne-Now is speaking, Yvonne-Then will replace the handset, and wait for a few seconds gazing at it before it "rings" again (the light flashes but the sound is on mute, so as not to interfere with Yvonne-Now's lines). Yvonne-Then picks it up. This sequence will be repeated throughout to simulate a constant (but irregular) stream of calls.*
 
-`Yvonne-Now:` Each new call was a new world, with different rules. And of course not one had a rulebook.
+`Yvonne-Now:` Sitting there, each new call was a new *world*, with different rules. And of course not one had a rulebook.
 You just had to navigate each new personality, each situation afresh, trying to be sensitive, trying to *listen* to this person miles away.
-It could be a woman who feels harrassed at her work, who's put up with it so long that by now it's mostly fine; but sometimes it isn't; sometimes she feels on the verge of a breakdown.
-Another time it’s a fifteen year old girl who can't bear to go to school because she thinks she's ugly; so she bunks, and she gets in trouble, and her dad is furious, and she wants to die. And then the next call is an old man who *is* dying, slowly, getting sicker and sicker, and his voice shakes, and he's tearing inside for the burden he's putting on his family, on his children.
+It could be a woman who feels harrassed at her work, who's put up with it so long that by now it's mostly fine; but sometimes it isn't: sometimes it's too much.
+Another time it’s a fifteen year old girl who can't bear to go to school because she thinks she's ugly; so she bunks, and she gets in trouble, and her dad is furious, and she wants to die. And then the next call is an old man who *is* dying, slowly, getting sicker and sicker, and his voice shakes, and he's tearing inside for the burden he's putting on his family, on his children. *(She spoke to this man several times. His was a world whose rulebook she began to understand.)*
 
 You can't help thinking, "How many worlds can one city support?". And yet, after ten minutes, or thirty, or an hour, the conversation is over; and there I am sitting in that chair with my hand on the receiver *(gestures to Yvonne-Then, who looks shaken but is composing herself; and then the phone rings again and she snatches it up)*&hellip; Sometimes after a good call, where I thought I'd done well and helped a person: I'd feel so full and proud!
 
@@ -50,8 +51,8 @@ I know it's a small thing, but still, after a conversation like that I'd want to
 
 `Yvonne-Then:` *(Same caller)* Have you spoken to the police? &hellip; Stay on the phone, I'm here. What's your address, let me call them.
 
-`Yvonne-Now:` I'd drink cup after cup of tea; there was something symbolic about pissing it all away when I got home, relieving myself of that weight. And then a week of classes and assignments: of marine ecology, intro biochemistry, cellular biology. A week of coffee with friends. I'd go to see whatever was playing off-peak at the local cinema, I didn't really care; and when it was over and the patchwork audience dispersed, I'd walk home in the night breeze. 
-*(She's verging on a poeticised reality, trying to conjure the rest of her life into meaningful focus. She is still so young.)*
+`Yvonne-Now:` I'd drink cup after cup of tea; there was something symbolic about pissing it all away when I got home, relieving myself of that weight. And then a week of classes and assignments: of marine ecology, intro biochemistry, cellular biology. A week of coffee with friends. I'd go to see whatever was playing off-peak at the local cinema. It was an event, something I did. And when it was over and the patchwork audience dispersed, I'd walk home in the night breeze. 
+*(An obviously poeticised reality. She's trying to conjure the rest of her life into meaningful focus. She's still so young.)*
 
 *Yvonne-Then picks up the phone loudly; Yvonne-Now looks over to her and her smile tightens.*
 
@@ -67,7 +68,7 @@ I know it's a small thing, but still, after a conversation like that I'd want to
 
 `Yvonne-Then:` *(On the phone)* It's okay, take your time.
 
-`Yvonne-Now:` Of course. My perspective has changed a lot, I'm more aware of other people, more understanding of other contexts; and my experience has definitely given me confidence in dealing with things. *(Her words are vague, lame: she kind of knows what she means, but can't properly translate it into words. She gropes for substance.)*
+`Yvonne-Now:` Of course. My perspective has changed a lot, I'm more aware of other people, more understanding of other contexts; and my experience has definitely given me confidence in dealing with things. *(Her words are vague, lame: she kind of knows what she means, but can't properly translate. She gropes for substance.)*
 
 So many of the calls I took were from people who were struggling with themselves; often in ways that they didn't understand. I mean who does? But now I'm, yeah, I'm more aware of that, of why it happens and the ways it can become -- I mean, you yourself can become the real oppressor. And this definitely helps me to analyse my own behaviour and give myself space to prevent myself from panicking. Small things, you know, like not being so hard on myself about schoolwork. Or not getting upset when people are rude or selfish. I mean, that goes for both strangers and friends.
 
