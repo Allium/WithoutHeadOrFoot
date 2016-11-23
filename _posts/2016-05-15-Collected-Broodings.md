@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	Our Selves, and Other Travesties
-tags:	[psychology, philosophy]
+tags:	[psychology, philosophy, sociology]
 ---
 
 A consortium of quasi-disconnected, quasi-anguished broodings.

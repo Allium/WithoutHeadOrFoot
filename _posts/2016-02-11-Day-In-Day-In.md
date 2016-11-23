@@ -6,7 +6,7 @@ tags:	[creative writing, physics, whimsy]
 
 *Today was an exciting day for physics. The LIGO collaboration announced the first ever detection of "gravitational waves", the existence of which was predicted by Albert Einstein a century ago. Yes, he was right about everything.*
 
-*It so happens that a couple of years ago I wrote a short science fiction story which featured gravitational waves and interferometric detectors as a keystone of the plot. As a piece of writing, I'm afraid it has many shortcomings; but the opportunity was too good to miss, so here it is!*
+*It so happens that a couple of years ago I wrote a short science fiction story which featured gravitational waves and interferometric detectors as a keystone of the plot. As a piece of writing, it has many shortcomings; but the opportunity was too good to miss, so here it is.*
 
 <br>
 
