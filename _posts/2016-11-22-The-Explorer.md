@@ -25,3 +25,11 @@ Soon they realise they’re spread too thinly; their colleagues’ problems have
 Academia is inhospitable to those who offer nothing but vivacity. It demands substance, and our friend the explorer has produced little. They’ve exhausted their quota of indulgence – and while they shrank at first from the constraints of depth, now they must scramble for the self-discipline to embrace them.
 
 So here they sit in a new cave hewn from their books and apparatus. Those colleagues who were so recently greeted with enthusiasm are now intruders greeted with tired blinking eyes.
+
+<br>
+
+---
+
+<br>
+
+*This portrait was inspired by a chapter of Santiago Ramon y Cajal's 1897 book, "Advice for a Young Investigator". In that chapter, called "Diseases of the Will", Cajal humourously reflects upon the intellectual and human pathologies which prevent scientists from achieving their full intellectual potential. [Here is a scan of the chapter]({{ site.baseurl }}/images/2016-11-22-RamonCajal-Diseases.pdf).*
