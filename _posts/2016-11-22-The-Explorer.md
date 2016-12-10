@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	Exploration: A Pathology
+title:	Exploration &mdash; A Pathology
 tags:	[science, sociology]
 ---
 
