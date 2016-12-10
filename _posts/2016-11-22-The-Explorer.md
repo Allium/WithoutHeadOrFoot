@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	The Explorer
+title:	Exploration: A Pathology
 tags:	[science, sociology]
 ---
 
@@ -20,7 +20,7 @@ The explorer’s syndrome cannot be explained away with trite references to the 
 
 The pity is that when they started their PhD, they knew these things would change. Mistakenly, they expected to adapt. Sure they are smart enough, and they have the passion for learning. Yet they lack that fundamental brand of courage, or maturity, or imagination needed to find joy in depth.
 
-Soon they realise they’re spread too thinly; their colleagues’ problems have become too complex and involved to see those beautiful connexions with any clarity. The explorer could not accompany everyone at once.
+Soon they realise they’re spread too thinly; their colleagues’ problems have become too complex and involved to see those beautiful connexions with any clarity. The explorer could not follow every path at once.
 
 Academia is inhospitable to those who offer nothing but vivacity. It demands substance, and our friend the explorer has produced little. They’ve exhausted their quota of indulgence – and while they shrank at first from the constraints of depth, now they must scramble for the self-discipline to embrace them.
 
@@ -32,4 +32,4 @@ So here they sit in a new cave hewn from their books and apparatus. Those collea
 
 <br>
 
-*This portrait was inspired by a chapter of Santiago Ramon y Cajal's 1897 book, "Advice for a Young Investigator". In that chapter, called "Diseases of the Will", Cajal humourously reflects upon the intellectual and human pathologies which prevent scientists from achieving their full intellectual potential. [Here is a scan of the chapter]({{ site.baseurl }}/images/2016-11-22-RamonCajal-Diseases.pdf).*
+*This portrait was inspired by Santiago Ramon y Cajal's 1897 book, "Advice for a Young Investigator". In a chapter entitled "Diseases of the Will", Cajal humourously reflects upon the intellectual and human pathologies which prevent scientists from achieving their full intellectual potential. [Here is a scan of the chapter]({{ site.baseurl }}/images/2016-11-22-RamonCajal-Diseases.pdf).*
