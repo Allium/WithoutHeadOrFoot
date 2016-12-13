@@ -247,3 +247,21 @@ Common to all is some sense that the interests of the individual self is to be s
 </div>
 
 In the next and final post in this series, I'll collect some of the main conclusions so far and attempt to relate them to agricultural tradtions.
+
+
+
+
+
+
+***
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Mo</span>
+    <span class="date">23 November 2016, 16.17</span>
+	<br>
+    <br>
+	What is less written about and largely ignored by philosophy scholars, is to fully understand the Tao Taoists practiced and still do;  Tai chi, Ba gua, qikong and taoist meditation .  Reading and thinking about Taoism (and Buddhism) leads to a intellectual understanding, but then life happens and there is often a split between what one believes in and how one acts. When one embodies the Tao with physical practices it changes ones internal alignments so one can be present in the world and live by the Tao rather than understand it. Maybe why the world is in a muddle, humans are now living in their minds rather than their bodies. They can destroy the planet around them as they don't feel deeply feel connected to it.
+</div>

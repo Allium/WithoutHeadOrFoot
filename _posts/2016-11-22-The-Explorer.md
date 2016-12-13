@@ -32,4 +32,18 @@ So here they sit in a new cave hewn from their books and apparatus. Those collea
 
 <br>
 
-*This portrait was inspired by Santiago Ramon y Cajal's 1897 book, "Advice for a Young Investigator". In a chapter entitled "Diseases of the Will", Cajal humourously reflects upon the intellectual and human pathologies which prevent scientists from achieving their full intellectual potential. [Here is a scan of the chapter]({{ site.baseurl }}/images/2016-11-22-RamonCajal-Diseases.pdf).*
+*This portrait was inspired by Santiago Ramon y Cajal's 1897 book, "Advice for a Young Investigator". In a chapter entitled "Diseases of the Will", Cajal humourously reflects upon the intellectual and human pathologies which prevent scientists from achieving their full intellectual potential. [Here is a scan of the chapter]({{ site.baseurl }}/images/2016-11-22-RamonCajal-Diseases.pdf) -- well worth reading!*
+
+
+***
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Roc</span>
+    <span class="date">23 November 2016, 13:26</span>
+	<br>
+    <br>
+	The hunter-gatherer of ideas became a pastoralist, then a farmer, and is now working in a factory.
+</div>
