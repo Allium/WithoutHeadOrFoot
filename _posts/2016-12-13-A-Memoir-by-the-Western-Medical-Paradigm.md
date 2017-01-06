@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	A Memoir by a Personification of the Western Medical Paradigm
+title:	A Memoir from the Perspective of a Personification of the Western Medical Paradigm
 tags:	[history, science]
 ---
 
