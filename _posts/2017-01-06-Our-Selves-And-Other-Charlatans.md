@@ -94,7 +94,9 @@ Stretch and return.
 
 ### Company
 
-God creatued us because He was lonely. He invented suffering because He needed to be needed.
+God created us because He was lonely.
+
+He invented suffering because He needed to be needed.
 
 
 ### Ideology
@@ -111,13 +113,13 @@ Oh how ironic that *we* are to blame for the curses they bring upon us! Our sick
 
 But we must go further, because *we have been shaped by the virus just as much as they have been shaped by us*. We are the products of perpetual war -- a war waged so perversely -- waged by those who seek power, *upon the very instrument they wish to control*. Like any pathogen, like any complex organism, the virus is author of its own undoing.
 
-In more ways than one, therefore, viruses are like *ideas*.
+In more ways than one, therefore, viruses are like ideas.
 
-Ideas cannot thrive independently of us; yet witness the force with which they flare into life when they grip a mind! Unbidden, uncontrolled, they devour our energies, they multiply, they weave in orgies that scorch our consciousness, or indeed shine straight through them, invisible to us in their saturated brilliance.
+Ideas cannot thrive independently of us -- yet witness the force with which they flare into life when they grip a mind! Unbidden, uncontrolled, they devour our energies, they multiply, they weave in orgies that scorch our consciousness, or indeed shine straight through them, invisible to us in their saturated brilliance.
 
 Those that do not evolve to our ever-vying mental landscape inevitably cease to trouble us -- it is a natural selection harsher and more capricious than its biological counterpart.
 
-And yet who, out of our minds and their history of thoughts, has been more contorted by this oldest of infestations? Who feeds off whom? Let us not mistake ourselves for geniuses: let us not deceive ourselves that ideas are tools of our own invention. One might as well remark how clever we are to have created the viruses which shaped us into humanity! No no, we are *their* tools! We are the effete substance which they dominate in plain sight, we are the substratum from which ideas draw their base sustenance, their possibility of existing.
+And yet who, between our minds on one side and their history of thoughts on the other, has been more contorted by this oldest of infestations? Who feeds off whom? Let us not mistake ourselves for geniuses: let us not deceive ourselves that ideas are tools of our own invention. One might as well remark how clever we are to have created the viruses which shaped us into humanity! No no, we are *their* tools! We are the effete substance which they dominate in plain sight, we are the substratum from which ideas draw their base sustenance, their possibility of existing.
 
 Moreover, being needed does not make us strong: because incandescent thriving is so much greater than mere *existing*! Would we humans not claim to be more than stale calories and shit?
 
@@ -125,7 +127,7 @@ So nature nourishes humans, and humans nourish ideas. Always, the daughter rules
 
 Yes, the analogy between viruses and ideas is a fruitful one; and now we glimpse its acme: for is it not true that some ideas become a contagion? That they envelop entire cultures? Christianity; property; language; supermarkets; popular ignorance. This sublime breed is unstoppable; and its members spread, and consume, and spread, leaving a confusion of uniformity in their wake. It is graven into their nature to be victorious, to vanquish those delicate brethren who, in luxuriant isolation, developed themselves into harmonious reciprocity, yet still lacked the ferocity, the simplicity, the virulence to conquer the human mind for more than an instant.
 
-The final question, then, is whether we should pity those that fall, whether we should shield the vulnerable from the voracious expansion of their neighbours. Here, ideas and viruses are seen finally to diverge: for who would not instantly choose to protect the former and condemn the latter? Fools! Benighted fools! You all suffer the collective delusion, perhaps the most powerful idea to ever have infected us: the fiction that we are the masters of our ideas, rather than their opportune hosts.
+The final question, then, is whether we should pity those that fall, whether we should shield the vulnerable ideas from the voracious expansion of their neighbours. Here, ideas and viruses are seen finally to diverge: for who would not instantly choose to protect the former and condemn the latter? Fools! Benighted fools! You all suffer the collective delusion, perhaps the most powerful idea to ever have infected us: the fiction that we are the masters of our ideas, rather than their opportune hosts.
 
 
 ### Masters

@@ -82,6 +82,6 @@ Whether we call it a militarised adaption or an armed lifeboat, we are already s
 	<p><a href="http://www.reuters.com/article/us-global-landrights-violence-idUSKCN0Z601U?il=0">This short article</a> (published 19th June 2015) reports further on violence towards environmental and land rights activists.</p>
 <br>
     <br>
-	<p><a href="https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier">A recent development</a> about the Hunduran mlitary's involvement in Berta C&aacute;ceres' murder.</p>
+	<p><a href="https://www.theguardian.com/world/2016/jun/21/berta-caceres-name-honduran-military-hitlist-former-soldier">A recent development</a> about the Honduran mlitary's involvement in Berta C&aacute;ceres' murder.</p>
 </div>
 
