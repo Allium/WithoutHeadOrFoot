@@ -4,10 +4,11 @@ title:	Insubstantial Comments on Subsubstantial Freedoms
 tags:	[philosophy, politics, sociology]
 ---
 
-> John Stuart Mill
-> Of his own free will
-> On half a pint of shandy was particularly ill.
-> &mdash; [Monty Python](https://www.youtube.com/watch?v=gMfCTBkMgKY)
+> John Stuart Mill<br>
+> Of his own free will<br>
+> On half a pint of shandy was particularly ill.<br>
+
+&mdash; [Monty Python](https://www.youtube.com/watch?v=gMfCTBkMgKY)
 
 But there's more. Mill formulated theories which today beat the heart of political liberalism -- the rights of individuals to express dissenting opinions, the primacy of open discussion, the defence of personal lives free as far as possible from state intrusion and societal interference. To many, these ideas are familiar to the point of triviality. They shimmer the soft cultural furnace of ubiquity.
 
