@@ -42,8 +42,17 @@ So here they sit in a new cave hewn from their books and apparatus. Those collea
 
 <div class="comment" style="background-color: #FFF8C6;">
     <span class="name">Roc</span>
-    <span class="date">23 November 2016, 13:26</span>
+    <span class="date">23 November 2016</span>
 	<br>
     <br>
 	The hunter-gatherer of ideas became a pastoralist, then a farmer, and is now working in a factory.
+</div>
+
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Andrew N.</span>
+    <span class="date">31 January 2017</span>
+	<br>
+    <br>
+	 Thanks for writing this piece, Cato. Your words have their resonances. 
 </div>
