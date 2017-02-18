@@ -168,3 +168,85 @@ The important thing, though, is that the message gets through to the energy sect
 	<br>
 	Second, <a href="http://www.scribd.com/doc/151150141/Betting-on-Climate-Failure-The-Ethics-and-Economics-of-Fossil-Fuel-Divestment">this research paper</a> by University of Washington PhD student <a href="https://phil.washington.edu/people/alex-lenferna">Alex Lenferna</a> assesses the divestment movement's potential impacts in both economic and ethical dimensions. While accepting that much of the dialogue of the movemnt is naive and dogmatic, it is still likely to hasten the bursting of the "carbon bubble". Furthermore, the author argues that the goals of the movement are consistent with widely-accepted philosophies of ethics.
 </div>
+
+
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Gregor</span>
+    <span class="date">15 February 2017</span>
+	<br>
+    <br>
+	A few friendly-critical comments or questions on a some passages, which I write in italics and quotation marks, followed by a paragraph with my comments: 
+	<br>
+    <br>
+	<i>“even in the best case scenario where all the fossil fuel shares were sold, it would only make a small dent in the industry’s finances”</i>
+	<br>
+    <br>
+	This is a bit ambiguous – what is this dent, what are finances? The shares are sold on, they pass from investor to investor so the fossil fuel company that has originally sold the shares at an initial public offering does not see any impact on its cash. Supposing there are many sellers and few buyers, the price of the shares may go down. That reduces the market capitalisation of the company, with potentially adverse effects – it could more easily become the victim of a hostile takeover and threat of a further fall in the share price may deter potential future investors. Of course, as you say, since it is such a small share of the market capitalisation, the share price may not suffer much from a sell-off.
+	<br>
+    <br>
+	<i>“the value goes up because the investors invest in the shares”</i>
+	<br>
+    <br>
+	Yes, that is the idea – however, this assumes that it is impossible to find enough sellers at the new lower price of the share, which it seems does not need to be true in principle. Only when there are more buyers than willing sellers at the lower price will the price go up (again). What you are implying when you say the share price goes up is that there are more buyers. The opposite – that the price goes down because some 1% is sold off – is predicated on the same assumption, namely that there are more sellers at that price than buyers. However, it may at least in principle be that all shares are sold at the price the shares have been trading so far. Of course, the higher the sales volume, the more unlikely a stable price becomes.
+	<br>
+    <br>
+	<i>“Any repercussions from divestment are likely to be felt somewhat more strongly in these markets.”</i>
+	<br>
+    <br>
+	Yes, I agree. Yet, for argument’s sake, why would it go this way? Cannot the intransparency etc also lead to particularly many people wanting to buy those shares, so that divestment makes a smaller impact than it should in an ‘efficient’ market? Here is the best candidate for this opposite effect: Clearly, one ‘myopia’ afflicting the holders of fossil fuels is the possibility that governments are serious about their promises to move away from fossils. Then large parts of the proven resources of fossil fuel companies will become useless. I believe but cannot prove that current stock prices do not reflect the risk of these lost profit opportunities through a loss of property rights over a valuable asset. Those who buy the shares from divesters are likely to underestimate the long-term risks for the profitability of the fossil companies, and by extension the risk-adjusted value of their shares, too.
+	<br>
+    <br>
+	<i>“Will divestment affect the market value or the cash flows of the company, or directly hinder its ability to carry out normal business or acquire capital?”</i>
+	<br>
+    <br>
+	I agree with your no. In addition, can divestment really have any effect ever on ‘cash flow’ of a company, at least directly? It seems that unless there is an IPO going on around the time of divestment that would lower the price of shares given out because of the knock-on effects on potential investors mentioned above, the loss in market capitalisation only hits the balance sheet, but not the cash flow.
+	<br>
+    <br>
+	Interesting also that you discuss sacrificing wealth to less scrupulous investors. As an economist I would call this a wealth transfer that operates as follows: divestors sell off assets, the price falls, divestors make a capital loss; if they cash the shares in, they make a cash loss relative to what they would have had if they had cashed in their shares over a longer period at the higher price. Climate-fiend investors come in, scoop up the assets, the price goes up, they made a capital gain. If they then cash in these shares over a long period of time (without impacting the price – a bit like a (slow) displacement while staying in equilibrium in thermodynamics. I may use the wrong terminology here but do you get my meaning?), they will also make a cash gain.
+	<br>
+    <br>
+	On your paragraph about how it is unsustainable to believe in the burning of all reserves, I understand that there are large bets placed now on carbon capture and storage, which would keep the asset-quality of fossil reserves intact. Nicholas Stern in his book “Why are we waiting?” which I have started reading (but got interrupted by marking essays) makes a big production about it. To me this indicates that he doesn’t really believe in climate change mitigation without it anymore.
+	<br>
+    <br>
+	I have also heard that fossil fuel companies operate on the assumption that climate change will happen but that ‘technology’ will be invented that allows humans to adapt to it. According to that view, average  (sic!)  +4 degree Celsius heating is sustainable.
+	<br>
+    <br>
+	<i>“Until there are robust, economically competitive alternatives to our current infrastructure, it’s reasonable to assume that once the fossil fuels are extracted they will be burned.”</i>
+	<br>
+    <br>
+	And of course ‘economically competitive’ is a big word here: even if a product is competitive on the paper, the huge investments in compatible infrastructure that are needed to create the environment in which the competitor technology can be deployed (eg charger stations for electric cars) may put additional roadblocks in the way of a switch to non-fossil energy.
+	<br>
+    <br>
+	<i>Culture and banks issuing subprime mortgages: “In retrospect, and even according to some economists at the time, this was obviously an idiotic practice.”</i>
+	<br>
+    <br>
+	Really, was it idiotic? The top 1% made a good performance in increasing their share in wealth in the last decade – also remember that the bank gets the mortgaged house if the mortgage holder defaults; not a bad deal if the government bails you out and you can wait for the next housing boom to sell the house further... From that perspective this may not have been idiotic in the least. It needs no culture/norms to explain that, just a profit motive.
+	<br>
+    <br>
+	As for free availability of information about fossil fuel shares in portfolios, I wonder whether that will change much in behavior. The numbers about climate change are also freely available and I see little effective change in investor, government, consumer behaviour just because of this information. To give you a particularly appalling example: have I declined a job in the UK because of the immense Ryanair flight pollution that entails with frequent hops over the channel? No, I have not. Sadly, I seem not to be alone: http://data.worldbank.org/indicator/IS.AIR.PSGR
+	<br>
+    <br>
+	<i>“(globally, five banks – J.P. Morgan, Bank of America Merrill Lynch, Citi, Wells Fargo, Mizuho – have a 40% market share of lending)”</i>
+	<br>
+    <br>
+	Interesting fact – can you share the source, please? I’d be interested to see who are the next 100 loan providers. I find your idea about debt very intriguing. Will think further about it.
+	<br>
+    <br>
+	<i>“Stigmatisation leads to a reduction in sales, reductions in the availability of suppliers, human resources, contracts, and finance, and a reduction in the relative negotiating strength of the stigmatised company with its suppliers, as well as their sway with government ministries”</i>
+	<br>
+    <br>
+	To some extent you contradict yourself because above you say that it is the less scrupulous people who will earn the windfall (and perhaps do the contracts and permit the fossils to set up shop etc). The windfall will be there as long as demand is inelastic as you say below. But I know what you mean – it’s just a pretty careful path to tread between contradicting yourself and making the point you are making.
+	<br>
+    <br>
+	<i>“wouldn’t it be so much better to direct their considerable influence and resources towards green technology?”</i>
+	<br>
+    <br>
+	Yes, indeed, the question of direction – in renewables and the economy in general is a large one and there is little answer to it for market economies that are supposed to be guided by prices. But economic theories of prices regulating allocation of resources tend to be for given resources; there is much less insight into how to intervene in a changing economy or how to engender change in the first place.
+	<br>
+    <br>
+	<i>Last header: “Reasons to be optimistic”</i>
+	<br>
+    <br>
+	What is optimistic about your last paragraph? That a few big corporates, none of which is in the energy sector, say what everyone wants to hear? I would argue – with the hindsight from a year on of course – that in the climate change area, there is very little reason for optimism. It’s a pretty bad situation, and if the forecasts are to be believed, everything looks like current plans for mitigation will lead to >2 degree C warming. Perhaps a lot of stuff has to happen before there is any reason to be optimistic. Couldn’t an early optimism not also give a feeling of complacency? So is it perhaps OK not to be optimistic, but to take this as a call to struggle harder so as to create a situation that permits optimism?
+</div>

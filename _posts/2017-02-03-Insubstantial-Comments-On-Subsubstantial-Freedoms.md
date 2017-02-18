@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	Insubstantial Comments on Subsubstantial Freedoms
+title:	Underwriting Liberalism
 tags:	[philosophy, politics, sociology]
 ---
 
