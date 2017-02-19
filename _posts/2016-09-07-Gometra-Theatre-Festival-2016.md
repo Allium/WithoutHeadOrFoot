@@ -31,27 +31,26 @@ Two performers stand facing the audience. One (A) holds an orange buoy, about th
 
 *[Ad libbed along these lines.]*
 
-Everyone close your eyes. It's important that no-one speak during this play. It is important that you do not open your eyes. Imagine you are warm, and the air is fresh and pleasant. Nothing is amiss. You're in a large, featureless, dimly-lit chamber. You are surrounded by a transparent plastic globe, like a human-sized hamster ball; but that is okay, you are meant to be there, you are safe.
+Everyone close your eyes. It’s important that no-one cause a distraction. It is important that you do not open your eyes. No harm will come to you. Imagine you are comfortably warm, and the air is fresh and pleasant. Nothing is amiss. You’re in a large, featureless, dimly-lit chamber. You are surrounded by a transparent plastic globe, like a human-sized hamster ball; but that is okay, you are meant to be there, you are safe.
 
-By taking a step in any direction you can move the ball. Controlling the motion is a little awkward at first, but you quickly master it, and start to explore the dimly-lit, featureless chamber. As your eyes adjust, you notice a small screen, built into the interior of the globe in such a way that it is always at eye level and always slightly off to your left. You scrutinise the screen, and it flicks into life and displays, faint grey upon yet fainter grey, the word CHOOSE. Choose what? you wonder. You continue exploring, rolling your globe, with CHOOSE always nagging at eye level.
+By taking a step in any direction you can move the ball. Controlling the motion is a little awkward at first, but you quickly master it, and start to explore the dimly-lit, featureless chamber. As your eyes adjust, you notice a small screen, built into the interior of the globe in such a way that it is always at eye level and always slightly off to your left. You scrutinise the screen, and it flicks into life and displays, faint grey upon yet fainter grey, the word CHOOSE. Choose what? you wonder. You continue exploring, rolling your globe around the dimly-lit chamber, with CHOOSE always nagging at eye level.
+Exploring, you discover a cluster of four passageways leading out of the chamber. Dark grey voids on dark grey walls. They are just large enough for your globe to fit through. Clearly you must choose one. For now, there is no discernible difference between them, but still don’t make your decision immediately. Think of which one you choose. Now go through it.
 
-Exploring, you discover four passageways leading out of the chamber. Darker grey voids upon dark grey walls. They are just large enough for your globe to fit through. Clearly you must choose one. For now, there is no discernable difference between them, but still you don't make your decision immediately. Think of which one you choose. Now go through it.
+The moment you enter the passageway, an image, a picture comes onto your screen. It could be in colour or in black and white. The screen can display any image. Look at the image. Don’t be shy. This image represents the first word or the first line or paragraph or chapter. You wonder briefly what the image would have been had you chosen one of the other passageways – for sure it would have been different. But you cannot go back to check; you chose this passageway, you got this image, and you must press on, contemplating the image before you as you walk your globe down the passageway.
 
-The moment you enter the passageway, an image, a picture comes onto your screen. It could be in colour or in black and white. The screen can display any image. This image represents a first word or line or paragrpah or chapter. You wonder briefly what the image would have been had you chosen one of the other passageways &ndash; for sure it would have been different. But you cannot go back to check; you must press on, contemplating the image before you as you walk your globe down the passageway.
-
-Very soon you come to a branch, where the passageway splits in several directions. Again you must choose, again your choice will influence the next picture, the next installment a story that you tell both deliberately and inadvertantly. Look once more at the image on your screen, the first image. As soon as you pass through one of the new passageways, the image is replaced by the next. What is it?
+Very soon you come to a branch, where the passageway splits in two or more directions. Again you must choose, again your choice will influence the next image on the screen. Or, the next instalment of a story that you tell both deliberately and inadvertently. Don’t go through yet. Look once more at the image on your screen, the first image. Now go through. A new image. What is it
 
 The passageway continues to branch and turn and fork. Some passages might be different from others: perhaps some slope up and others slope down; perhaps one smells of the sea and another of baked bread; perhaps one is red and one is lilac. Each decision you make advances the narrative, and you will roll through the labyrinth, enthralled by the images, by their succession, and by your role in creating them.
 
-For the next fifteen seconds, I'd like you to continue exploring, choosing, witnessing how the images change, one to the next. *Fifteen seconds of silence.*
-
-I'll stop you there, sorry if you wanted to continue exploring. Think back on what you've done: you've concocted a series of images, the beginning of some kind of story. Skeletal and unfinished, incoherent perhaps; but maybe it has a visual timbre. You must hold on for a moment to your images and the tracery of narrative that their sequence embodies.
+For the next thirty seconds, I’d like you to continue exploring, choosing, witnessing how the images change, one to the next. Fifteen seconds of silence.
+I’ll stop you there, sorry if you wanted to continue exploring. Think back on what you’ve done: you’ve concocted a series of images, the beginning of some kind of story. Skeletal and unfinished, incoherent perhaps; but maybe it has a visual timbre. You must hold on for a moment to your images and the tracery of narrative that their sequence embodies.
 
 During this experiment, I put you in a strange situation, I controlled your surroundings and your actions, at first even your state of mind. Yet still, you decided which turnings to take. And you created the images, for an unknown purpose. Maybe you reached for them, or maybe they dropped into place. They were, somehow, the natural choice for you.
 
-This was a story you told behind the privacy of closed eyelids, without the self-consciousness and the conceptualisation and the grasp needed to convey it to anyone else; and I think there's some significance to that.
+This was a story you told behind the privacy of closed eyelids, without the self-consciousness and the conceptualisation and the grasp needed to convey it to anyone else; and I think there’s some significance to that.
 
 You may open your eyes.
+
 
 
 ### Scene From The Library

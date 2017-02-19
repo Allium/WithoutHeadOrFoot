@@ -170,7 +170,7 @@ The important thing, though, is that the message gets through to the energy sect
 </div>
 
 
-
+<!--
 <div class="comment" style="background-color: #E3E4FA;">
     <span class="name">Gregor</span>
     <span class="date">15 February 2017</span>
@@ -224,7 +224,7 @@ The important thing, though, is that the message gets through to the energy sect
 	Really, was it idiotic? The top 1% made a good performance in increasing their share in wealth in the last decade – also remember that the bank gets the mortgaged house if the mortgage holder defaults; not a bad deal if the government bails you out and you can wait for the next housing boom to sell the house further... From that perspective this may not have been idiotic in the least. It needs no culture/norms to explain that, just a profit motive.
 	<br>
     <br>
-	As for free availability of information about fossil fuel shares in portfolios, I wonder whether that will change much in behavior. The numbers about climate change are also freely available and I see little effective change in investor, government, consumer behaviour just because of this information. To give you a particularly appalling example: have I declined a job in the UK because of the immense Ryanair flight pollution that entails with frequent hops over the channel? No, I have not. Sadly, I seem not to be alone: http://data.worldbank.org/indicator/IS.AIR.PSGR
+	As for free availability of information about fossil fuel shares in portfolios, I wonder whether that will change much in behavior. The numbers about climate change are also freely available and I see little effective change in investor, government, consumer behaviour just because of this information. To give you a particularly appalling example: have I declined a job in the UK because of the immense Ryanair flight pollution that entails with frequent hops over the channel? No, I have not. Sadly, <a href="http://data.worldbank.org/indicator/IS.AIR.PSGR">I seem not to be alone</a>.
 	<br>
     <br>
 	<i>“(globally, five banks – J.P. Morgan, Bank of America Merrill Lynch, Citi, Wells Fargo, Mizuho – have a 40% market share of lending)”</i>
@@ -250,3 +250,4 @@ The important thing, though, is that the message gets through to the energy sect
     <br>
 	What is optimistic about your last paragraph? That a few big corporates, none of which is in the energy sector, say what everyone wants to hear? I would argue – with the hindsight from a year on of course – that in the climate change area, there is very little reason for optimism. It’s a pretty bad situation, and if the forecasts are to be believed, everything looks like current plans for mitigation will lead to >2 degree C warming. Perhaps a lot of stuff has to happen before there is any reason to be optimistic. Couldn’t an early optimism not also give a feeling of complacency? So is it perhaps OK not to be optimistic, but to take this as a call to struggle harder so as to create a situation that permits optimism?
 </div>
+-->
