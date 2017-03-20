@@ -175,3 +175,56 @@ A harder task is to engineer division from the inside, in the role of a supposed
 We all have been marinated in this stew of hatred: it is impossible to escape the leeching of our sanity into others' profits, the endless forced gorging of division and denunciation. True, within this are scattered grains of grievances; but you are what you eat, and we should be aware of our diet.
 
 
+
+<!-- ------------------------------------------------------------------------------------ -->-->
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Roc</span>
+    <span class="date">25 January 2017</span>
+	<br>
+    <br>
+	I really, really like the abnormal and loose structure of this post -— very interesting, and much more fluid and fertile than standard linear structures (cf your 'Thinking' fragment). 
+	<br>
+    <br>
+	It also has the feeling of being on the brink of going too far, which David Bowie said was when you know you are on to something. 
+	<br>
+    <br>
+	History: I love the idea of individual change, and actually see change as being a great joy and ideal, and consistency even with your present self, let alone your past, as unnecessarily blinkering.  I remember from a book of his, Bertrand Russell's complaining because he was presupposed as being the same individual Bertrand Russel as he had been 20 years before.  
+	<br>
+    <br>
+	'By indicating how different ages are intelligible only in their own terms, Vico warns against the anachronisms of totalizing interpretations of history.  He thus subordinates history to historiography by showing how the depiction of the past is itself an expression of the values of particular epochs.'  Stephen H Daniel, "Vico’s Historicism and the Ontology of Arguments",  Journal of the History of Philosophy (1995).
+	<br>
+    <br>
+	Teaching: Ontogeny recapitulates phylogeny, in the physical development of an individual but also perhaps in the development of an individual identity and the teaching of a discipline.
+	<br>
+    <br>
+	I love the worlds off the plane of the communicable, and the importance of nourishing them.  And it reminds me of Sophie’s dream that she had discovered a new colour, which she saw in her dream. 
+	<br>
+    <br>
+	Sex:  On the sex issue, the Japanese may be responding in a positive way to overcrowding.  I had a hypothesis that the degree of heterosexuality in a society might be a response to plenty, and vice versa.   
+	<br>
+    <br>
+	Silence: counterpoint or syncopation of rhythm with the rest.  I love it.
+	<br>
+    <br>
+	Company: *She* invented suffering?
+	<br>
+    <br>
+	Ideology: Makes me think of Memes, and of Mill’s famous argument for free speech:
+	'If all mankind minus one were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.'
+	<br>
+    <br>
+	Masters: Makes me think of the argument for monarchy -- that you need a nonentity without legitimacy as head of state.  
+	<br>
+    <br>
+	Division: Makes me think of Leonard Cohen -- You become what you resist.  
+	<br>
+    <br>
+	If it was me I might finish the series not on Division but on something more lyrical, but I don’t know why. Maybe because division is a difficult note for the reader to end on.  
+	<br>
+    <br>
+	But in general: really interesting and stirring -- it conveys feeling and thought -- I hope there is more where this came from please. 
+</div>
