@@ -139,7 +139,7 @@ Common sense suggests it is in our own self-interest to cling to fallible master
 
 Suppose for a moment that you crave power. In sensuous dreams you trace its contours. You stroke the soft skin of its back, feel the prickle of a thousad drunken spiders marching over your skin and to see the same spiders in your lover's shudders, to see them in the glints of sweat on their thighs. Grasping gasping flesh, muscles clenching, alive and sharing the universe. Oh, to roar! Oh, to tame such a thing.
 
-Perhaps you have misunderstood everything. Perhaps you have seized power, not as a machinery, but as an edifice. Anything so miserably physical as control is just shadow, a provisional vulnerable incarnation of the deity. Perhaps you are now the strongest -- but you have taken possession of power's mannequin and not its body.
+Perhaps you have misunderstood everything. Perhaps you have seized power, not as a machinery, but as an edifice. Anything so miserably physical as *control* is just shadow, a provisional vulnerable incarnation of the deity. Perhaps you are now the strongest -- but you have taken possession of power's mannequin and not its body.
 
 
 ### Division
