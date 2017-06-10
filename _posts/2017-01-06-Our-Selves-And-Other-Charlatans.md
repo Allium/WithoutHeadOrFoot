@@ -228,3 +228,25 @@ We all have been marinated in this stew of hatred: it is impossible to escape th
     <br>
 	But in general: really interesting and stirring -- it conveys feeling and thought -- I hope there is more where this came from please. 
 </div>
+
+
+
+
+***
+
+<br><br>
+<h2>Comments</h2>
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Anonymous</span>
+    <span class="date">10 June 2017</span>
+	<br>
+    <br>
+	<p>I have a friend of 18 years. Some weeks ago, I sat with her on the sofa in her Park Slope living room. Her two small sons were close by, sleeping behind a closed door. And Polly was curled in a sand-colored swirl where my feet would have been had they not been tucked in close to my body, where I prefer them. In the course of conversation, my friend recalled an occasion that took place 11 years ago, in the weeks before I moved to London, when my feelings and behavior reflected my youth, my gnawing uncertainty, and my blind grasping for a solid sense of self. I felt compelled to remind her (as I have several times over the course of our friendship) that, very happily, I'm not quite the same person as I was.</p>
+
+	<p>These long-standing intimacies are significant, in part, precisely because they offer external candidates to witness and recall the years' moulding of our facets. But like all anchors, they run the risk of masquerading as shackles if we allow them to. Because in my experience, it's not the charge of mutability, but rather the assumption of immutability from which I feel vigorously compelled to defend myself. The shadow of death never looms so large as when I imagine (or fear) that I may come to the end of my life without overcoming my personal obstacles (not all self-created, but undeniably all self-perpetuated) to fulfillment. It's true that we are seldom seriously challenged, which is why this kind of challenge is surely one of the most generous and (in)valuable gifts we can offer -- to ourselves and to others.</p>
+
+	<p>People change, and that doesn't sound banal at all. It is perhaps one of the most blazingly hopeful and optimistic concepts that I can summon. And the people who remind us that the unity of past and present is a fiction (or at least that the two can be peeled apart with courage and will) -- the people who remind us that we can do better than to betray our present selves, that our invisible desires are not constant, that ossification can be reversed and that growth is possible -- are quiet heroes.</p>
+
+	<p>Our anchors can be shackles, or they can give us wings. And often, the difference between the two resides in the half of the story that is indeed always at the other end of the microscope.</p>
+</div>
