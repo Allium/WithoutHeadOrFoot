@@ -130,11 +130,11 @@ As a child, I played alone on the derelict train tracks sandwiched between the d
 
 <p align="center">*****</p>
 
-"Are you tired of having to eat food all the bloody time? Three times a day, every single day: the drudgery of shovelling squidgy sustenance into your face! Well you know, it doesn't have to be that way. Science shows that our bodies extract only a tiny fraction of the energy stored in food -- if we could just access the other 99.99%, a single banana could keep you going for decades! Ladies and gentlemen, may I introduce to you an all-new cutting-edge innovation, RADOMEAL! Radomeal is designed to liberate some of that extra energy locked up in our food. By carefully tinkering with atomic isotopes, we've concocted a foodstuff that will sustain any human, no matter how active or high-metabolism, for the rest of their lives!"
+"Are you *tired* of having to eat food all the bloody time? Three times a day, *every single day*: the drudgery of shovelling squidgy sustenance into your face! Well you know, it doesn't have to be that way. Science shows that our bodies extract only a tiny fraction of the energy stored in food -- if we could just access the other 99.99%, a single banana could keep you going for decades! Ladies and gentlemen, may I introduce to you an all-new cutting-edge innovation, RADOMEAL! Radomeal is designed to liberate some of that extra energy locked up in our food. By carefully tinkering with atomic isotopes, we've concocted a foodstuff that will sustain any human, no matter how active or high-metabolism, for the rest of their lives!"
 
 "Next."
 
-"So let me ask you, who doesn't want an army of minions? And moreover, wouldn't it be extra convenient if they were already distributed to do your bidding all over the world? At GagaHertz Labs, we've perfected the technique of broadcasting directly to the minds of one-year-old children. If we tune the transmission to the sound of their mother's voice, they become extremely suggestible and we can implant a whole host of ideas."
+"So let me ask you, who doesn't want an army of minions? And moreover, wouldn't it be extra convenient if they were already distributed to do your bidding all over the world? At GagaHertz Labs, we've perfected the technique of broadcasting directly to the minds of one-year-old children. If we tune the transmission to the sound of their mother's voice, they become extremely suggestible and we can implant a whole host of ideas. It's your own personal *infant*ry!"
 
 "Next."
 
@@ -151,6 +151,39 @@ As a child, I played alone on the derelict train tracks sandwiched between the d
 "What?"
 
 "It was a lighthouse."
+
+<p align="center">*****</p>
+
+
+"The Koran is said to be the word of God. But importantly, it sees itself as the *beginning* of knowledge, not the end. Hundreds of suras reflect on the importance of reason and critical thinking -- on investigation and examination of the natural world."
+
+These were the words of a man who had listened to a podcast. Now he held a court of rapt listeners.
+
+An hour previous, when the night had been not so deep as his thoughts, he had chewed gum. It was not something he often did, but for those glorious moments he became a gum-chewer, puntuating his sentences with a wet self-satisfied slapping. Slap slap. The dull taste buoyed his love of who he could be: a gum-chewer. Slap slap.
+
+"Evenings are unobtrusive," he proclaimed to a group of strangers. Slap slap. "They creep up on you, on their cat feet, with assurance and languid desire, yet light and padding, muffled by powder.". The pleasure of arranging his words mid-flight grew and grew, and he expanded and a billowed. "Not like mornings -- no, mornings tend to bound up to you all at once, an excited dog" (oooh, nice), "all activity and rush and multitudes. The cat of the evening," (in case they didn't get it) "are purposeful, serene...".
+
+At this point all those who had not yet winced joined the ranks of those who had. The Earth spun in its grave which for now was merely its cold blank home (it would die where it had lived---nowhere).
+
+Arka Bbosaro interrupted the wincing like the most eccentric of mornings.	<br>
+"These babies eatin' up their caviar,	<br>
+And cryin' that it died,	<br>
+An ant crawls up my collar with a limp,	<br>
+With a limp.	<br>
+She's one hell of a gal	<br>
+Like a cannonball with a fist ---yeah---	<br>
+Like *jazz* with a method and a drink	<br>
+And a drink."
+
+You had to be there, to see his peppered hair, and the twitches and gesticulations which were, perhaps, his equivalent of gum. His words weren't so important, it was more the molten intoxication of his sound, of free-willed molecules coaxed to dance. That night he would leave the party with cheeks singing red from lipstick and slaps and heady honey wine.
+
+"Did I tighten up the screws?	<br>
+And beg outside for metal?	<br>
+And use chiffron to wipe blood off my Chinos?	<br>
+Flick a sickarette butt through the air,	<br>
+'Cos you ain't even half a fool:	<br>
+Here's a hurricane to outwit your neutrinos."
+
 
 <p align="center">*****</p>
 
