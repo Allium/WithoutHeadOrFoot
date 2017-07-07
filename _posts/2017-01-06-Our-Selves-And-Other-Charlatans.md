@@ -176,7 +176,7 @@ We all have been marinated in this stew of hatred: it is impossible to escape th
 
 
 
-<!-- ------------------------------------------------------------------------------------ -->-->
+<!-- ------------------------------------------------------------------------------------ -->
 
 <br><br>
 <h2>Comments</h2>
@@ -228,14 +228,6 @@ We all have been marinated in this stew of hatred: it is impossible to escape th
     <br>
 	But in general: really interesting and stirring -- it conveys feeling and thought -- I hope there is more where this came from please. 
 </div>
-
-
-
-
-***
-
-<br><br>
-<h2>Comments</h2>
 
 <div class="comment" style="background-color: #FFF8C6;">
     <span class="name">Anonymous</span>
