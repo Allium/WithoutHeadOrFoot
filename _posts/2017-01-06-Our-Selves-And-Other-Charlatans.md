@@ -22,17 +22,17 @@ Let us grant our past selves the simple generosity of understanding that we may 
 
 ### Teaching
 
-Bees are renowned for sharing knowledge with their kin. And while humans only perform the waggle dance in a limited range of settings (grinding in the club, yo), we have managed to develop a multifariety of alternative channels for conveying what's on our minds. A principal mode of such interaction is the telling of stories.
+Bees are renowned for sharing knowledge with their kin. And while humans only perform the waggle dance in a limited range of settings (grinding in the club), we have managed to develop a multifariety of alternative channels for conveying what's on our minds. A principal mode of such interaction is the telling of stories.
 
 Perhaps nowhere are stories so formative and invested with subtle consequence as when we tell them to young children. Here they are apt to take on a different tenor: many of us will recognise in ourselves that sudden flare of possibility, the incipient reanimation of imagination, an elated inspiration to plunge gadarene into fantasies and phantoms; to clothe ourselves and our wards in words of worlds where elves lurk in the hearts of rocks; where a toad might well drink the ocean.
 
-Yet any adult in a position of responsibility over a child must simultaneously strive to saturate them with the mundane, so that they may become familiar with their real environment; so that they will develop the common language necessary to navigate its inhabitants. After all, they have to survive this world we have built, the one we reiterate at each moment.
+Yet any adult in a position of responsibility over a child must simultaneously strive to saturate them with the mundane, so that the child may become familiar with their real environment, and develop the common language necessary to navigate its inhabitants. After all, they have to survive this world we have built, the one we reiterate at each moment.
 
 By and large, children are receptive to both timbres of teaching, both the celestial and terrestrial: for in minds so fresh and molten, so new to existence and so eager to learn its contents, the thrill of dragon-slaying may be no more desirable than the tangible fascination of a picnic enjoyed by all. Both are worthy stories.
 
-So parents, guardians, teachers, governments perpetually caress their infants with a warm litany that A is for Apple, that two comes after three, that the dog plays with the ball. This grasp of reality is, supposedly, the greatest gift we have to give.
+So parents, guardians, teachers, governments perpetually caress their infants with a warm litany that A is for Apple, that two comes after three, that the dog plays with the ball. This magnificent grasp of reality is, supposedly, the greatest gift we have to give.
 
-And these gifts underpin every story we tell. Because storytelling is both a vehicle for stories and an instance of telling, which reveals piece by piece a grand repository of sense and concept and communication. Unwittingly, we lace our stories with a system for structuring information, with the formulation of cause and effect, with cues for codifying time, with the mysterious and imperfect art of transferring thoughts between minds. Woven into our words is a deeper language which lays down our laws of perception.
+And these gifts underpin every story we tell. Because storytelling is both a vehicle for stories and an instance of telling, which reveals piece by piece a grand repository of sense and concept and communication. Unwittingly, we lace our stories with a system for structuring information, with the formulation of cause and effect, with cues for codifying time, with the mysterious and imperfect art of transferring thoughts between minds. Woven into our words is a deeper language which lays down the laws of perception.
 
 All this is invisible to us adults, for we have already learned to arrange our minds. We have already learned the foundations upon which to build sensations and share them.
 
@@ -42,9 +42,9 @@ The *act* of teaching is utterly gratifying also, because children have such vas
 
 And so their world takes the shape of our own. We subordinate the child's capacities for interpretation: gone are her conceptions of space whose topology defies metrisation, gone are her "impossible" arrangements of material reality, gone are her systems of value that harden or deform in the evershearing flows of sensation. So equipped, she would not have survived.
 
-It is in their interests that we topple our children's aberrations and sow their fertile minds with our own devices. Dotingly, we chip away at the constellation of possible foundations, indoctrinating them with received paradigms of knowledge, of explanation, and most fundamentally, of perception and the ordering of thought. For they must blossom into functional human beings! And besides we cannot stop ourselves from teaching these things, because we'd first have to realise how they pervade our every thought. We would have to employ the very faculties that blind us to grasp the blindness which has grown into our marrow.
+It is in *their* interests that we topple our children's aberrations and sow their fertile minds with our own devices. Dotingly, we chip away at the constellation of possible foundations, indoctrinating them with received paradigms of knowledge, of explanation, and most fundamentally, of perception and the ordering of thought. For they must blossom into functional human beings! And besides, we cannot stop ourselves from teaching these things, because we'd first have to realise how they pervade our every thought. We would have to employ the very faculties that blind us to grasp the blindness which has grown into our marrow.
 
-And yet even the adult mind, when left alone with itself, and nourished out of its seething rigidity, can produce the most improbable fireworks. It too can exalt, can apprehend a different flavour of immanence -- in things perceived, unperceived, transperceived.
+And yet even the adult mind, when left alone with itself, and nourished out of its seething rigidity, can produce improbable fireworks. It too can exalt, can apprehend a different flavour of immanence -- in things perceived, unperceived, transperceived.
 
 The world of other people, the world with which we smother our children, is but a glorious fragment of the mind's capabilities, a single plane of possibility. It is as relevant to the bliss of consciousness and the spectre of fulfilment, as any other plane might be.
 
@@ -228,6 +228,8 @@ We all have been marinated in this stew of hatred: it is impossible to escape th
     <br>
 	But in general: really interesting and stirring -- it conveys feeling and thought -- I hope there is more where this came from please. 
 </div>
+
+<br>
 
 <div class="comment" style="background-color: #FFF8C6;">
     <span class="name">Anonymous</span>
