@@ -31,3 +31,31 @@ Mill himself was an outspoken colonialist in nineteenth century England, advocat
 Could it be that those who strained to free society from oppression were still operating within oppression's deeper framework, disguising it as the landscape, fertilising it with the glorious clods of earth they hurled about as they rooted out the kings and lords? Could it be that they turned the oppressed into their own jailers?
 
 
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+<br><br>
+<h2>Comments</h2>
+
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Roc</span>
+    <span class="date">20 March 2017</span>
+	<br>
+    <br>
+	<p>This piece reminds me of Nietzsche’s saying that it was Christianity which sacrificed itself, by stressing the moral, which meant people found themselves no longer able to lie about what they perceived as Christianity’s absurdity.  </p>
+
+	<p>I have seen the Guardian's publication of George Monbiot’s journalism described as a trick of the propaganda model media to give the impression of freedom of speech.  I believe (and perhaps read about it in your blog) there is an area of game theory which deals with how much truth you have to slip in with your disinformation to maximise the latter’s credibility.</p>
+
+	<p>However, a degree of free speech (e.g. scientific free speech) may represent a positive sum game, where most (including the centre of gravity of power as a whole, though not all of the powerful) benefit.</p>
+
+	<p>But I agree, there are incentives to self-censorship and not necessarily that big an audience for any free speech that bucks one of the two or three consensuses: the liberal, the conservative, the libertarian, etc.  So free speech to which nobody listens may be redundant.</p>
+
+	<p>It may also be that power has difficulties in suppressing free speech once it was let out of the bottle -- even at the height of the purges, many people continued to speak freely before going to their deaths (e.g. Mandelstam and his poem about Stalin).</p>
+
+	<p>And it may be that power doesn’t need to suppress free speech, not because power is secure, but because the science of manipulation is so effective (e.g. cf Cialdini, Influence: advertising, manipulation of the threatening other, etc) that you can drown out the sound of anyone’s voice who is speaking freely, and convince your audience that they are wrong, and don’t need to silence them, however weak your position in other ways. </p> 
+
+	<p>And above all, as you suggest, speech cannot be free if people no longer have the conceptual structure to describe reality and use free speech to say what needs to be said.</p>
+</div>
