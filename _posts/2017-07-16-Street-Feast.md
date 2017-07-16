@@ -60,6 +60,6 @@ At the end of the day, it’s a small price to pay. Remembering the woman who sh
 
 ---
 
-*[This is a draft of a piece I'm contributing to "Home Grown", a forthcoming book which examines sustainable systems of food supply for urban centres, with a focus on New York City. More information about the book, and a table of contents, can be found on the [Terreform Website](http://www.terreform.info/home-grown); it looks like it's going to be extremely interesting, and I'm really looking forward to reading it.]*
+*[This is a draft of a piece I'm contributing to "Home Grown", a forthcoming book which examines sustainable systems of food supply for urban centres, with a focus on New York City. It looks like it's going to be extremely interesting, and I'm really looking forward to reading it. More information about the book, and a table of contents, can be found on the [Terreform website](http://www.terreform.info/home-grown).]*
 
 ---

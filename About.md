@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Me
 
-My name is Cato. I was born in London, UK, where I lived until 2011. In that year I moved to New York City to pursue a PhD in physics. It feels like it will never end.
+My name is Cato. I was born in London, UK, where I lived until 2011. In that year I moved to New York City to pursue a PhD in physics. <s>It feels like it will never end.</s> Miraculously, it ended! Now to find a real job&hellip;
 
 ## This blog
 
