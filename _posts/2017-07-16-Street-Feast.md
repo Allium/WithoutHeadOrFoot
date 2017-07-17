@@ -63,3 +63,23 @@ At the end of the day, it’s a small price to pay. Remembering the woman who sh
 *[This is a draft of a piece I'm contributing to "Home Grown", a forthcoming book which examines sustainable systems of food supply for urban centres, with a focus on New York City. It looks like it's going to be extremely interesting, and I'm really looking forward to reading it. More information about the book, and a table of contents, can be found on the [Terreform website](http://www.terreform.info/home-grown).]*
 
 ---
+
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+<br><br>
+<h2>Comments</h2>
+
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Trey</span>
+    <span class="date">17 July 2017</span>
+	<br>
+    <br>
+	<p>Great read!</p>
+
+	<p>I've only had minimal experience with scavenging and that was in a pretty "sheltered" state, i.e. Utah. It was more of a pastime with friends either from anarchist collectives, or friends simply brazen enough in their curiosity to join. But none were in dire straits per se, so it's interesting to hear about your interactions with the culture and community from that side.</p>
+
+	<p>I can attest to the over-abundance of edible food waste in every passing garbage bin. It grew to the point that there was such a large selection of food in one dumpster, that I developed even extravagant tastes in these smelly steel biomes. Ludicrous.</p>
+</div>

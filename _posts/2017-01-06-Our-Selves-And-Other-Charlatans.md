@@ -244,3 +244,16 @@ We all have been marinated in this stew of hatred: it is impossible to escape th
 
 	<p>Our anchors can be shackles, or they can give us wings. And often, the difference between the two resides in the half of the story that is indeed always at the other end of the microscope.</p>
 </div>
+
+<br>
+
+
+<div class="comment" style="background-color: #E3E4FA;">
+    <span class="name">Anonymous</span>
+    <span class="date">07 July 2017</span>
+	<br>
+    <br>
+	<p> As regards the section on teaching and children, one thing you didn't touch on that I think you might consider are the impact of teaching children multiple languages and the use of questions as a method of passing on instruction. </p>
+	
+	<p>Particularly with respect to questions, it's amazing the way that asking children, even quite young children, what they think can reveal amazing things about the way that the human mind works. There are so many anecdotes I could share that I think it will have to wait until we see each other again. But suffice it to say that I have been utterly floored by the insight of my children. It's not that I think they are particularly unique, but that I think adults often forget that children have their own amazing things to say. Probably 60% of my verbal interaction with my children is me asking them questions. When they ask me for explanations of things, I ask them what they think. When we read stories, I ask them what they think. When they ask what death means (which they ask shockingly often) I ask them what they think. I suspect you're right that there is no way to avoid constructing for them their way of viewing the world. But I certainly believe that it's possible to give children more or less control over the process.</p>
+</div>
