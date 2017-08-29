@@ -60,7 +60,7 @@ At the end of the day, it’s a small price to pay. Remembering the woman who sh
 
 ---
 
-*[This is a draft of a piece I'm contributing to "Home Grown", a forthcoming book which examines sustainable systems of food supply for urban centres, with a focus on New York City. It looks like it's going to be extremely interesting, and I'm really looking forward to reading it. More information about the book, and a table of contents, can be found on the [Terreform website](http://www.terreform.info/home-grown).]*
+*[This is a draft of a piece I'm contributing to "Home Grown", a forthcoming book which examines sustainable systems of food supply for urban centres, with a focus on New York City. It looks like it's going to be extremely interesting, and I'm looking forward to reading it. More information about the book, including a table of contents, can be found on the [Terreform website](http://www.terreform.info/home-grown).]*
 
 ---
 
@@ -72,7 +72,7 @@ At the end of the day, it’s a small price to pay. Remembering the woman who sh
 <h2>Comments</h2>
 
 
-<div class="comment" style="background-color: #FFF8C6;">
+<div class="comment" style="background-color: #E3E4FA;">
     <span class="name">Trey</span>
     <span class="date">17 July 2017</span>
 	<br>
@@ -83,3 +83,15 @@ At the end of the day, it’s a small price to pay. Remembering the woman who sh
 
 	<p>I can attest to the over-abundance of edible food waste in every passing garbage bin. It grew to the point that there was such a large selection of food in one dumpster, that I developed even extravagant tastes in these smelly steel biomes. Ludicrous.</p>
 </div>
+
+
+<div class="comment" style="background-color: #FFF8C6;">
+    <span class="name">Iva</span>
+    <span class="date">10 August 2017</span>
+	<br>
+    <br>
+	<p>Thought of this blog post as I was reading this: <a href="https://t.co/JE3m07MiM5">https://t.co/JE3m07MiM5</a>. Tragic.</p>
+</div>
+
+ 	
+
