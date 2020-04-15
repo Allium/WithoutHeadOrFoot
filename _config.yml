@@ -11,7 +11,8 @@ description2: >
   A blog which yaws from topic to topic, depending on my momentary amateur interests. There'll be some things about the environment, the media, social justice, creative writing, and maybe even physics. So far the theme has been that I choose a topic on which I have next to no expertise and try to write something not totally idiotic about it.
   
 baseurl: "/WithoutHeadOrFoot"
-url:	"catosandford.org"
+#url:	"catosandford.org"
+url:	"allium.github.io"
 
 timezone: America/New_York
 
